@@ -1,0 +1,2817 @@
+Site;Annee;nom_protocole;groupe_taxonomique;espece;effectifs
+FRANK;2019;Transect arthropodes P1;Homoptères;Zyginidia;1
+CIROB;2019;Transect arthropodes P2;Homoptères;Zyginidia;1
+ALBAR;2018;Transect arthropode Session 1;Arachnida;Zygiella x-notata;1
+PROMA;2018;Transect arthropode Session 1;Arachnida;Zygiella x-notata;1
+GTMBA;2018;Transect arthropode Session 1;Arachnida;Zygiella x-notata;1
+SEINE;2018;Transect arthropode Session 1;Arachnida;Zygiella x-notata;1
+BOUTOU;2018;Transect arthropode Session 2;Arachnida;Zygiella x-notata;1
+FAUTEM;2018;Transect arthropode Session 2;Arachnida;Zygiella x-notata;1
+GOOPL;2017;Transect arthropode Session 1;Arachnida;Zygiella;1
+ECOBIO_BOIS;2017;Transect arthropode Session 2;Arachnida;Zygiella;1
+FAUTEM;2017;Transect arthropode Session 2;Arachnida;Zygiella;1
+CIMOD;2017;Transect arthropode Session 2;Arachnida;Zygiella;1
+ANTHEU;2018;Transect arthropode Session 1;Arachnida;Zoropsis spinimana;1
+SIBUET;2018;Transect arthropode Session 1;Arachnida;Zoropsis spinimana;1
+FAUTEM;2018;Transect arthropode Session 2;Arachnida;Zoropsis spinimana;1
+CIROB;2018;Transect arthropode Session 2;Arachnida;Zoropsis spinimana;1
+AMROU;2017;Transect arthropode Session 1;Arachnida;Zora;1
+FAUTEM;2017;Transect arthropode Session 1;Mollusca;Zonitoides;1
+LUAUB;2017;Transect arthropode Session 1;Arachnida;Xysticus kochi;1
+EIDER;2017;Transect arthropode Session 1;Arachnida;Xysticus kochi;1
+OLSER;2017;Transect arthropode Session 1;Arachnida;Xysticus kochi;1
+MOZIN_SANS_GESTION;2017;Transect arthropode Session 1;Arachnida;Xysticus kochi;1
+CIMOD;2017;Transect arthropode Session 2;Arachnida;Xysticus kochi;1
+GTMBA;2017;Transect arthropode Session 2;Arachnida;Xysticus kochi;1
+MOZIN_AVEC_GESTION;2018;Transect arthropode Session 1;Arachnida;Xysticus kochi;1
+BOUTOU;2018;Transect arthropode Session 1;Arachnida;Xysticus kochi;1
+EIDER;2018;Transect arthropode Session 2;Arachnida;Xysticus kochi;1
+BOUTOU;2019;Transect arthropodes P1;Araneae;Xysticus kochi;1
+KELLER;2019;Transect arthropodes P1;Araneae;Xysticus kochi;1
+LUAUB;2019;Transect arthropodes P1;Araneae;Xysticus kochi;1
+MOZIN_SANS_GESTION;2019;Transect arthropodes P1;Araneae;Xysticus kochi;1
+EIDER;2018;Transect arthropode Session 1;Arachnida;Xysticus gallicus;1
+PROMA;2019;Transect arthropodes P2;Araneae;Xysticus ;1
+FONTA;2017;Transect arthropode Session 1;Arachnida;Xysticus;1
+PROMA;2017;Transect arthropode Session 1;Arachnida;Xysticus;1
+FAUTEM;2017;Transect arthropode Session 1;Arachnida;Xysticus;1
+MOZIN_SANS_GESTION;2017;Transect arthropode Session 1;Arachnida;Xysticus;1
+CHAVIN;2017;Transect arthropode Session 1;Arachnida;Xysticus;1
+ROROL;2017;Transect arthropode Session 2;Arachnida;Xysticus;1
+FRANK;2017;Transect arthropode Session 2;Arachnida;Xysticus;1
+ECOBIO_BOIS;2017;Transect arthropode Session 2;Arachnida;Xysticus;1
+GOOPL;2017;Transect arthropode Session 2;Arachnida;Xysticus;1
+WWF;2017;Transect arthropode Session 2;Arachnida;Xysticus;1
+CIMOD;2017;Transect arthropode Session 2;Arachnida;Xysticus;1
+GTMBA;2017;Transect arthropode Session 2;Arachnida;Xysticus;1
+PULMA;2017;Transect arthropode Session 2;Arachnida;Xysticus;1
+MUENT;2017;Transect arthropode Session 2;Arachnida;Xysticus;1
+ALBAR;2018;Transect arthropode Session 1;Arachnida;Xysticus;1
+PROMA;2018;Transect arthropode Session 1;Arachnida;Xysticus;1
+BOUTOU;2018;Transect arthropode Session 2;Arachnida;Xysticus;1
+CD93;2018;Transect arthropode Session 2;Arachnida;Xysticus;1
+PERIS;2018;Transect arthropode Session 2;Arachnida;Xysticus;1
+GTMBA;2018;Transect arthropode Session 2;Arachnida;Xysticus;1
+SEINE;2018;Transect arthropode Session 2;Arachnida;Xysticus;1
+ALBAR;2018;Transect arthropode Session 2;Arachnida;Xysticus;1
+ANTHEU;2018;Transect arthropode Session 2;Arachnida;Xysticus;1
+CHAVIN;2018;Transect arthropode Session 2;Arachnida;Xysticus;1
+CIROB;2018;Transect arthropode Session 2;Arachnida;Xysticus;1
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 2;Arachnida;Xysticus;1
+SIBUET;2018;Transect arthropode Session 2;Arachnida;Xysticus;1
+PROMA;2018;Transect arthropode Session 2;Arachnida;Xysticus;1
+PROMA;2018;Plaques;Arachnida;Xysticus;1
+MECHO;2018;Transect arthropode Session 2;Arachnida;Xysticus;1
+CHAVIN;2019;Transect arthropodes P1;Araneae;Xysticus;1
+AMROU;2019;Transect arthropodes P2;Araneae;Xysticus;1
+ECOBIO_PRAIRIE;2019;Transect arthropodes P2;Araneae;Xysticus;1
+PULMA;2017;Transect arthropode Session 2;Mollusca;Xerotricha conspurcata;1
+AMROU;2017;Transect arthropode Session 1;Coleoptera;Xantholinus;1
+GTMBA;2018;Transect arthropode Session 2;Diptera;Volucella zonaria;1
+ECOBIO_BOIS;2017;Transect arthropode Session 2;Coleoptera;Vibidia duodecimguttata;1
+ECOBIO_BOIS;2018;Transect arthropode Session 2;Coleoptera;Vibidia duodecimguttata;1
+ECOBIO_BOIS;2019;Transect arthropodes P1;Coléoptères;Vibidia duodecimguttata;1
+CIMOD;2017;Transect arthropode Session 2;Hymenoptera;Vespula vulgaris;1
+CIMOD;2017;Transect arthropode Session 2;Hymenoptera;Vespula vulgaris;1
+CHAVIN;2018;Transect arthropode Session 2;Hymenoptera;Vespula germanica;1
+FRANK;2018;Transect arthropode Session 2;Hymenoptera;Vespula germanica;1
+MOZIN_AVEC_GESTION;2018;Transect arthropode Session 2;Hymenoptera;Vespula germanica;1
+GTMBA;2018;Transect arthropode Session 1;Lepidoptera;Vanessa cardui;1
+CARON;2018;Transect arthropode Session 2;Lepidoptera;Vanessa cardui;1
+CHAVIN;2018;Transect arthropode Session 2;Lepidoptera;Vanessa cardui;1
+CHAVIN;2017;Transect arthropode Session 1;Lepidoptera;Vanessa atalanta;1
+CHAVIN;2018;Transect arthropode Session 2;Lepidoptera;Vanessa atalanta;1
+PROMA;2017;Transect arthropode Session 2;Mollusca;Vallonia excentrica;1
+ECOBIO_BOIS;2017;Transect arthropode Session 1;Coleoptera;Valgus hemipterus;1
+KELLER;2019;Transect arthropodes P1;Diptères;Urophora quadrifasciata;1
+MOZIN_AVEC_GESTION;2019;Transect arthropodes P1;Homoptères;Ulopa;1
+ECOBIO_PRAIRIE;2018;Transect arthropode Session 2;Coleoptera;Tytthaspis sedecimpunctata;1
+FAUTEM;2017;Transect arthropode Session 1;Hymenoptera;Trypoxylon minus;1
+FRANK;2017;Transect arthropode Session 2;Diptera;Trupanea amoena;1
+MECHO;2019;Transect arthropodes P2;Diptères;Trupanea amoena;1
+ECOBIO_PRAIRIE;2019;Transect arthropodes P2;Diptères;Trupanea;1
+AMROU;2017;Transect arthropode Session 1;Mollusca;Trochulus hispidus;1
+MECHO;2017;Transect arthropode Session 1;Heteroptera;Trapezonotus ullrichi;1
+CD93;2018;Transect arthropode Session 2;Heteroptera;Trapezonotus ullrichi;1
+RUWAT;2017;Transect arthropode Session 1;Heteroptera;Trapezonotus arenarius;1
+MOZIN_SANS_GESTION;2017;Transect arthropode Session 1;Heteroptera;Trapezonotus arenarius;1
+BOUHOP;2017;Transect arthropode Session 2;Heteroptera;Trapezonotus arenarius;1
+WWF;2017;Transect arthropode Session 2;Heteroptera;Trapezonotus arenarius;1
+WWF;2017;Plaques;Heteroptera;Trapezonotus arenarius;1
+PROMA;2019;Transect arthropodes P2;Hétéroptères;Trapezonotus arenarius;1
+ECOBIO_BOIS;2017;Transect arthropode Session 1;Isopoda;Trachelipus rathkii;1
+PROMA;2019;Transect arthropodes P1;Diptères;Tipula sp;1
+FONTA;2017;Transect arthropode Session 1;Diptera;Tipula paludosa;1
+FONTA;2017;Transect arthropode Session 1;Diptera;Tipula oleracea;1
+MOZIN_SANS_GESTION;2017;Transect arthropode Session 1;Arachnida;Tibellus oblongus;1
+GRENEL;2019;Transect arthropodes P1;Araneae;Tibellus oblongus;1
+GRENEL;2018;Transect arthropode Session 2;Arachnida;Tibellus;1
+MECHO;2017;Transect arthropode Session 2;Arachnida;Theridion;1
+ANTHEU;2018;Transect arthropode Session 1;Arachnida;Theridion;1
+PULMA;2018;Transect arthropode Session 1;Diptera;Thecophora atra;1
+CD93;2018;Transect arthropode Session 2;Diptera;Thecophora atra;1
+CD93;2019;Transect arthropodes P1;Diptères;Thecophora atra;1
+CIROB;2019;Transect arthropodes P2;Diptères;Thecophora atra;1
+PROMA;2019;Transect arthropodes P2;Diptères;Thecophora atra;1
+GRENEL;2018;Transect arthropode Session 2;Diptera;Thaumatomyia notata;1
+MECHO;2019;Transect arthropodes P1;Diptères;Thaumatomyia notata;1
+OLSER;2017;Transect arthropode Session 1;Orthoptera;Tettigonia viridissima;1
+GOOPL;2017;Transect arthropode Session 1;Orthoptera;Tettigonia viridissima;1
+SEINE;2018;Transect arthropode Session 1;Orthoptera;Tettigonia viridissima;1
+KELLER;2019;Transect arthropodes P2;Orthoptères;Tettigonia viridissima;1
+OLSER;2019;Transect arthropodes P2;Orthoptères;Tettigonia viridissima;1
+OLSER;2017;Transect arthropode Session 1;Hymenoptera;Tetramorium;1
+BOUTOU;2017;Transect arthropode Session 1;Hymenoptera;Tetramorium;1
+ROROL;2017;Plaques;Hymenoptera;Tetramorium;1
+FRANK;2017;Transect arthropode Session 2;Hymenoptera;Tetramorium;1
+FRANK;2017;Plaques;Hymenoptera;Tetramorium;1
+MECHO;2017;Transect arthropode Session 2;Hymenoptera;Tetramorium;1
+OLSER;2017;Transect arthropode Session 2;Hymenoptera;Tetramorium;1
+CIMOD;2017;Transect arthropode Session 2;Hymenoptera;Tetramorium;1
+RUWAT;2017;Transect arthropode Session 2;Hymenoptera;Tetramorium;1
+GTMBA;2017;Transect arthropode Session 2;Hymenoptera;Tetramorium;1
+CIMOD;2018;Transect arthropode Session 1;Hymenoptera;Tetramorium;1
+MUENT;2018;Transect arthropode Session 1;Hymenoptera;Tetramorium;1
+ROROL;2018;Transect arthropode Session 1;Hymenoptera;Tetramorium;1
+FRANK;2018;Transect arthropode Session 1;Hymenoptera;Tetramorium;1
+ROROL;2018;Plaques;Hymenoptera;Tetramorium;1
+BOUCHA;2018;Transect arthropode Session 2;Hymenoptera;Tetramorium;1
+BOUTOU;2018;Transect arthropode Session 2;Hymenoptera;Tetramorium;1
+GTMBA;2018;Transect arthropode Session 2;Hymenoptera;Tetramorium;1
+CHAVIN;2018;Transect arthropode Session 2;Hymenoptera;Tetramorium;1
+ECOBIO_PRAIRIE;2019;Transect arthropodes P1;Hyménoptères;Tetramorium;1
+GTMBA;2019;Transect arthropodes P1;Hyménoptères;Tetramorium;1
+MECHO;2019;Transect arthropodes P1;Hyménoptères;Tetramorium;1
+OLSER;2019;Transect arthropodes P1;Hyménoptères;Tetramorium;1
+ECOBIO_BOIS;2017;Transect arthropode Session 2;Arachnida;Tetragnata;1
+PULMA;2017;Transect arthropode Session 2;Arachnida;Tetragnata;1
+FAUTEM;2017;Transect arthropode Session 1;Diptera;Tephritis formosa;1
+MECHO;2017;Transect arthropode Session 1;Diptera;Tephritis formosa;1
+ALBAR;2019;Transect arthropodes P1;Diptères;Tephritis formosa;1
+CIROB;2019;Transect arthropodes P2;Diptères;Tephritis formosa;1
+GUER;2019;Transect arthropodes P2;Diptères;Tephritis formosa;1
+OLSER;2017;Transect arthropode Session 1;Diptera;Tephritis divisa;1
+OLSER;2017;Transect arthropode Session 2;Diptera;Tephritis;1
+CIROB;2018;Transect arthropode Session 1;Diptera;Tephritis;1
+EIDER;2017;Transect arthropode Session 1;Arachnida;Tenuiphantes tenuis;1
+ALBAR;2017;Transect arthropode Session 1;Arachnida;Tenuiphantes tenuis;1
+ALBAR;2017;Transect arthropode Session 2;Arachnida;Tenuiphantes tenuis;1
+PERIS;2017;Transect arthropode Session 2;Arachnida;Tenuiphantes tenuis;1
+GTMBA;2017;Transect arthropode Session 2;Arachnida;Tenuiphantes tenuis;1
+CD93;2019;Transect arthropodes P1;Araneae;Tenuiphantes tenuis;1
+FAUTEM;2019;Transect arthropodes P1;Araneae;Tenuiphantes tenuis;1
+GRENEL;2019;Transect arthropodes P1;Araneae;Tenuiphantes tenuis;1
+PAREX;2019;Transect arthropodes P1;Araneae;Tenuiphantes tenuis;1
+EIDER;2017;Transect arthropode Session 2;Arachnida;Tenuiphantes ;1
+LUAUB;2017;Transect arthropode Session 1;Arachnida;Tenuiphantes;1
+ECOBIO_BOIS;2017;Transect arthropode Session 1;Arachnida;Tenuiphantes;1
+AMROU;2017;Transect arthropode Session 1;Arachnida;Tenuiphantes;1
+AMROU;2018;Transect arthropode Session 1;Arachnida;Tenuiphantes;1
+ANTHEU;2018;Transect arthropode Session 1;Arachnida;Tenuiphantes;1
+LUAUB;2018;Transect arthropode Session 1;Arachnida;Tenuiphantes;1
+FONTA;2018;Transect arthropode Session 1;Arachnida;Tenuiphantes;1
+SIBUET;2018;Transect arthropode Session 1;Arachnida;Tenuiphantes;1
+ECOBIO_PRAIRIE;2018;Transect arthropode Session 2;Arachnida;Tenuiphantes;1
+AMROU;2018;Plaques;Arachnida;Tenuiphantes;1
+CIROB;2018;Transect arthropode Session 1;Hymenoptera;Temnothorax;1
+AMROU;2018;Plaques;Arachnida;Tegenaria parietina;1
+BOUHOP;2017;Plaques;Arachnida;Tegenaria;1
+PULMA;2017;Transect arthropode Session 2;Hymenoptera;Tapinoma nigerrimum;1
+PULMA;2018;Transect arthropode Session 1;Hymenoptera;Tapinoma nigerrimum;1
+PULMA;2019;Transect arthropodes P1;Hyménoptères;Tapinoma;1
+GUER;2019;Transect arthropodes P1;Coléoptères;Tachyporus;1
+MOZIN_SANS_GESTION;2017;Transect arthropode Session 1;Heteroptera;Syromastus rhombeus;1
+FRANK;2017;Transect arthropode Session 1;Heteroptera;Syromastus rhombeus;1
+CHAVIN;2017;Transect arthropode Session 1;Heteroptera;Syromastus rhombeus;1
+OLSER;2017;Transect arthropode Session 2;Heteroptera;Syromastus rhombeus;1
+CIMOD;2018;Transect arthropode Session 1;Diptera;Syritta pipiens;1
+GOOPL;2018;Transect arthropode Session 1;Arachnida;Synema globosum ;1
+GOOPL;2017;Transect arthropode Session 1;Arachnida;Synema globosum;1
+WWF;2019;Transect arthropodes P1;Araneae;Synaema globosum;1
+WWF;2019;Transect arthropodes P2;Araneae;Synaema globosum;1
+GTMBA;2017;Transect arthropode Session 2;Odonata;Sympetrum striolatum;1
+ROROL;2018;Transect arthropode Session 1;Odonata;Sympetrum fonscolombii;1
+ROROL;2017;Plaques;Coleoptera;Sunius;1
+FAUTEM;2017;Transect arthropode Session 1;Mollusca;Succinea putris;1
+MECHO;2017;Transect arthropode Session 1;Mollusca;Succinea putris;1
+PULMA;2018;Transect arthropode Session 1;Coleoptera;Subcoccinella vigintiquatuorpunctata;1
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 2;Heteroptera;Stygnocoris sabulosus;1
+AMROU;2018;Plaques;Heteroptera;Stygnocoris;1
+OLSER;2017;Transect arthropode Session 1;Heteroptera;Stictopleurus punctatonervosus;1
+MOZIN_SANS_GESTION;2017;Transect arthropode Session 1;Heteroptera;Stictopleurus punctatonervosus;1
+ROROL;2017;Transect arthropode Session 2;Heteroptera;Stictopleurus punctatonervosus;1
+OLSER;2017;Transect arthropode Session 2;Heteroptera;Stictopleurus abutilon;1
+BOUTOU;2018;Transect arthropode Session 2;Heteroptera;Stictopleurus abutilon;1
+GTMBA;2019;Transect arthropodes P1;Hétéroptères;Stictopleurus abutilon;1
+CIROB;2017;Transect arthropode Session 1;Heteroptera;Stictopleurus;1
+CIROB;2017;Transect arthropode Session 2;Homoptera;Stictocephala bisonia;1
+ECOBIO_BOIS;2017;Transect arthropode Session 2;Homoptera;Stictocephala bisonia;1
+GTMBA;2017;Transect arthropode Session 2;Homoptera;Stictocephala bisonia;1
+FAUTEM;2018;Transect arthropode Session 2;Homoptera;Stictocephala bisonia;1
+GTMBA;2018;Transect arthropode Session 2;Homoptera;Stictocephala bisonia;1
+SEINE;2019;Transect arthropodes P2;Homoptères;Stictocephala bisonia;1
+SEINE;2018;Transect arthropode Session 1;Coleoptera;Stethorus pusillus;1
+GRENEL;2018;Transect arthropode Session 1;Coleoptera;Stethorus pusillus;1
+ECOBIO_PRAIRIE;2017;Transect arthropode Session 2;Coleoptera;Stenus;1
+CD93;2018;Transect arthropode Session 2;Coleoptera;Stenus;1
+OLSER;2017;Transect arthropode Session 1;Coleoptera;Stenolophus teutonus;1
+ECOBIO_BOIS;2017;Transect arthropode Session 1;Heteroptera;Stenodema laevigata;1
+MOZIN_SANS_GESTION;2017;Transect arthropode Session 1;Heteroptera;Stenodema laevigata;1
+CIROB;2017;Transect arthropode Session 1;Heteroptera;Stenodema laevigata;1
+BOUTOU;2018;Transect arthropode Session 1;Heteroptera;Stenodema laevigata;1
+FRANK;2018;Transect arthropode Session 1;Heteroptera;Stenodema laevigata;1
+FRANK;2017;Transect arthropode Session 1;Heteroptera;Stenodema calcarata;1
+PULMA;2018;Transect arthropode Session 1;Heteroptera;Stenodema calcarata;1
+AMROU;2017;Transect arthropode Session 1;Heteroptera;Stenodema;1
+FRANK;2017;Transect arthropode Session 2;Heteroptera;Stenodema;1
+GRENEL;2018;Transect arthropode Session 1;Heteroptera;Stenodema;1
+ECOBIO_BOIS;2018;Transect arthropode Session 2;Heteroptera;Stenodema;1
+ECOBIO_PRAIRIE;2018;Transect arthropode Session 2;Heteroptera;Stenodema;1
+GRENEL;2018;Transect arthropode Session 2;Heteroptera;Stenodema;1
+ALBAR;2018;Transect arthropode Session 1;Arachnida;Steatoda triangulosa;1
+PULMA;2017;Transect arthropode Session 1;Arachnida;Steatoda grossa;1
+EIDER;2017;Transect arthropode Session 2;Arachnida;Steatoda grossa;1
+MECHO;2018;Transect arthropode Session 1;Arachnida;Steatoda grossa;1
+PULMA;2018;Transect arthropode Session 1;Arachnida;Steatoda grossa;1
+MECHO;2017;Transect arthropode Session 1;Diptera;Sphenella marginata;1
+ROROL;2018;Transect arthropode Session 1;Diptera;Sphenella marginata;1
+CHAVIN;2017;Transect arthropode Session 2;Hymenoptera;Sphecodes scabricollis;1
+CIROB;2017;Transect arthropode Session 2;Diptera;Sphaerophoria scripta;1
+MOZIN_SANS_GESTION;2017;Transect arthropode Session 2;Diptera;Sphaerophoria scripta;1
+WWF;2017;Transect arthropode Session 2;Diptera;Sphaerophoria scripta;1
+CIMOD;2018;Transect arthropode Session 1;Diptera;Sphaerophoria scripta;1
+MOZIN_AVEC_GESTION;2018;Transect arthropode Session 1;Diptera;Sphaerophoria scripta;1
+MECHO;2018;Transect arthropode Session 1;Diptera;Sphaerophoria scripta;1
+SEINE;2018;Transect arthropode Session 1;Diptera;Sphaerophoria scripta;1
+CIROB;2018;Transect arthropode Session 1;Diptera;Sphaerophoria scripta;1
+ALBAR;2019;Transect arthropodes P1;Diptères;Sphaerophoria scripta;1
+BOUCHA;2019;Transect arthropodes P1;Diptères;Sphaerophoria scripta;1
+FRANK;2019;Transect arthropodes P1;Diptères;Sphaerophoria scripta;1
+OLSER;2019;Transect arthropodes P1;Diptères;Sphaerophoria scripta;1
+PULMA;2019;Transect arthropodes P1;Diptères;Sphaerophoria scripta;1
+SEINE;2019;Transect arthropodes P1;Diptères;Sphaerophoria scripta;1
+CIROB;2019;Transect arthropodes P2;Diptères;Sphaerophoria scripta;1
+MOZIN_SANS_GESTION;2019;Transect arthropodes P2;Diptères;Sphaerophoria scripta;1
+OLSER;2017;Transect arthropode Session 1;Diptera;Sphaerophoria;1
+SIBUET;2017;Transect arthropode Session 1;Hymenoptera;Solierella compedita;1
+FRANK;2019;Transect arthropodes P2;Coléoptères;Sitona lineatus;1
+SEINE;2019;Transect arthropodes P2;Coléoptères;Sitona lineatus;1
+SEINE;2019;Transect arthropodes P1;Coléoptères;Sitona ;1
+FRANK;2017;Transect arthropode Session 1;Coleoptera;Sitona;1
+FAUTEM;2017;Transect arthropode Session 2;Chilopoda;Sigibius;1
+RUWAT;2017;Plaques;Chilopoda;Sigibius;1
+MECHO;2019;Plaques;Chilopodes;Sigibius;1
+GTMBA WILD;2019;Transect arthropodes P2;Chilopodes;Sigibius;1
+ECOBIO_BOIS;2018;Transect arthropode Session 2;Diptera;Sepsis punctum;1
+GRENEL;2018;Transect arthropode Session 2;Diptera;Sepsis punctum;1
+OLSER;2018;Transect arthropode Session 1;Diptera;Sepsis;1
+WWF;2018;Transect arthropode Session 1;Heteroptera;Sehirus morio;1
+CIROB;2018;Transect arthropode Session 2;Arachnida;Segestria florentina;1
+BOUHOP;2017;Transect arthropode Session 1;Coleoptera;Scymnus rubromaculatus;1
+PERIS;2019;Transect arthropodes P2;Coléoptères;Scymnus rubromaculatus;1
+EIDER;2018;Transect arthropode Session 1;Coleoptera;Scymnus interruptus;1
+GUER;2019;Transect arthropodes P2;Coléoptères;Scymnus interruptus;1
+GOOPL;2019;Transect arthropodes P2;Coléoptères;Scymnus;1
+CIMOD;2018;Transect arthropode Session 2;Heteroptera;Sciocoris microphthalmus;1
+CHAVIN;2017;Transect arthropode Session 2;Heteroptera;Sciocoris cursitans;1
+PROMA;2019;Transect arthropodes P2;Hétéroptères;Sciocoris cursitans;1
+ANTHEU;2018;Transect arthropode Session 1;Diptera;Sciara;1
+PROMA;2019;Transect arthropodes P1;Diptères;Sciara;1
+RUWAT;2018;Transect arthropode Session 2;Hymenoptera;Scelio;1
+OLSER;2017;Transect arthropode Session 1;Diptera;Scaeva pyrastri;1
+EIDER;2017;Transect arthropode Session 1;Diptera;Scaeva;1
+ECOBIO_BOIS;2017;Transect arthropode Session 1;Arachnida;Sardinidion blackwalli;1
+RUWAT;2018;Transect arthropode Session 1;Diptera;Sarcophaga;1
+WWF;2019;Transect arthropodes P2;Diptères;Sarcophaga;1
+MOZIN_SANS_GESTION;2019;Transect arthropodes P2;Diptères;Sapromyzosoma laevatrispina;1
+GRENEL;2018;Transect arthropode Session 2;Diptera;Sapromyza sexpunctata;1
+EIDER;2019;Transect arthropodes P2;Araneae;Salticus scenicus ;1
+ROROL;2018;Plaques;Arachnida;Saitis barbipes;1
+ANTHEU;2017;Transect arthropode Session 1;Arachnida;Runcinia grammica;1
+FRANK;2017;Transect arthropode Session 1;Arachnida;Runcinia grammica;1
+MOZIN_SANS_GESTION;2017;Transect arthropode Session 2;Arachnida;Runcinia grammica;1
+CIMOD;2018;Transect arthropode Session 1;Arachnida;Runcinia grammica;1
+MECHO;2018;Transect arthropode Session 1;Arachnida;Runcinia grammica;1
+FRANK;2018;Transect arthropode Session 1;Arachnida;Runcinia grammica;1
+GRENEL;2018;Transect arthropode Session 1;Arachnida;Runcinia grammica;1
+BOUTOU;2018;Transect arthropode Session 2;Arachnida;Runcinia grammica;1
+CARON;2018;Transect arthropode Session 2;Arachnida;Runcinia grammica;1
+GOOPL;2018;Transect arthropode Session 2;Arachnida;Runcinia grammica;1
+CD93;2019;Transect arthropodes P1;Araneae;Runcinia grammica;1
+CIROB;2019;Transect arthropodes P1;Araneae;Runcinia grammica;1
+KELLER;2019;Transect arthropodes P1;Araneae;Runcinia grammica;1
+PULMA;2019;Transect arthropodes P1;Araneae;Runcinia grammica;1
+ECOBIO_PRAIRIE;2019;Transect arthropodes P2;Araneae;Runcinia grammica;1
+EIDER;2019;Transect arthropodes P2;Araneae;Runcinia grammica;1
+GTMBA WILD;2019;Transect arthropodes P2;Araneae;Runcinia grammica;1
+MOZIN_SANS_GESTION;2019;Transect arthropodes P2;Araneae;Runcinia grammica;1
+MOZIN_SANS_GESTION;2019;Transect arthropodes P2;Araneae;Runcinia grammica;1
+ROROL;2019;Transect arthropodes P2;Araneae;Runcinia grammica;1
+SEINE;2018;Transect arthropode Session 1;Orthoptera;Roeseliana roeselii;1
+SEINE;2018;Transect arthropode Session 2;Orthoptera;Roeseliana roeselii;1
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 2;Orthoptera;Roeseliana roeselii;1
+BOUTOU;2017;Transect arthropode Session 1;Coleoptera;Rhyzobius litura;1
+BOUTOU;2018;Transect arthropode Session 1;Coleoptera;Rhyzobius litura;1
+CHAVIN;2018;Transect arthropode Session 1;Coleoptera;Rhyzobius litura;1
+AMROU;2017;Transect arthropode Session 1;Coleoptera;Rhyzobius chrysomeloides;1
+PULMA;2019;Transect arthropodes P2;Coléoptères;Rhyzobius;1
+WWF;2018;Plaques;Heteroptera;Rhyparochromus vulgaris;1
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 2;Heteroptera;Rhyparochromus vulgaris;1
+GOOPL;2017;Transect arthropode Session 1;Heteroptera;Rhyparochromus;1
+WWF;2017;Transect arthropode Session 1;Heteroptera;Rhyparochromus;1
+MOZIN_SANS_GESTION;2017;Transect arthropode Session 1;Heteroptera;Rhyparochromus;1
+WWF;2017;Transect arthropode Session 2;Heteroptera;Rhyparochromus;1
+FRANK;2018;Transect arthropode Session 1;Heteroptera;Rhyparochromus;1
+BOUTOU;2018;Transect arthropode Session 2;Heteroptera;Rhyparochromus;1
+CHAVIN;2018;Plaques;Heteroptera;Rhyparochromus;1
+AMROU;2019;Transect arthropodes P2;Hétéroptères;Rhyparochromus;1
+WWF;2019;Transect arthropodes P2;Hétéroptères;Rhyparochromus;1
+PAREX;2017;Transect arthropode Session 2;Heteroptera;Rhynocoris;1
+FRANK;2017;Transect arthropode Session 1;Heteroptera;Rhopalus subrufus;1
+CHAVIN;2017;Transect arthropode Session 1;Heteroptera;Rhopalus subrufus;1
+MECHO;2017;Transect arthropode Session 2;Heteroptera;Rhopalus subrufus;1
+GTMBA;2017;Transect arthropode Session 2;Heteroptera;Rhopalus subrufus;1
+OLSER;2019;Transect arthropodes P1;Hétéroptères;Rhopalus subrufus;1
+OLSER;2017;Transect arthropode Session 1;Heteroptera;Rhopalus parumpunctatus;1
+WWF;2017;Transect arthropode Session 1;Heteroptera;Rhopalus conspersus;1
+GOOPL;2018;Transect arthropode Session 1;Heteroptera;Rhopalus conspersus;1
+FRANK;2017;Transect arthropode Session 2;Heteroptera;Rhopalus;1
+MOZIN_SANS_GESTION;2017;Transect arthropode Session 1;Coleoptera;Rhopalapion longirostre;1
+ECOBIO_BOIS;2017;Transect arthropode Session 2;Coleoptera;Rhopalapion longirostre;1
+MOZIN_AVEC_GESTION;2018;Transect arthropode Session 1;Coleoptera;Rhopalapion longirostre;1
+KELLER;2019;Transect arthropodes P1;Coléoptères;Rhopalapion;1
+MOZIN_SANS_GESTION;2019;Transect arthropodes P2;Coléoptères;Rhopalapion;1
+GTMBA;2017;Transect arthropode Session 1;Coleoptera;Rhagonycha fulva;1
+SEINE;2019;Transect arthropodes P1;Coléoptères;Rhagonycha fulva;1
+WWF;2017;Transect arthropode Session 2;Heteroptera;Raglius alboacuminatus;1
+ECOBIO_PRAIRIE;2017;Transect arthropode Session 1;Heteroptera;Pyrrhocoris apterus;1
+WWF;2017;Transect arthropode Session 1;Heteroptera;Pyrrhocoris apterus;1
+MOZIN_SANS_GESTION;2017;Transect arthropode Session 1;Heteroptera;Pyrrhocoris apterus;1
+GTMBA;2017;Transect arthropode Session 1;Heteroptera;Pyrrhocoris apterus;1
+PULMA;2017;Transect arthropode Session 1;Heteroptera;Pyrrhocoris apterus;1
+MOZIN_SANS_GESTION;2017;Transect arthropode Session 2;Heteroptera;Pyrrhocoris apterus;1
+ECOBIO_PRAIRIE;2017;Transect arthropode Session 2;Heteroptera;Pyrrhocoris apterus;1
+WWF;2017;Transect arthropode Session 2;Heteroptera;Pyrrhocoris apterus;1
+SIBUET;2017;Transect arthropode Session 2;Heteroptera;Pyrrhocoris apterus;1
+EIDER;2018;Transect arthropode Session 1;Heteroptera;Pyrrhocoris apterus;1
+GTMBA;2018;Transect arthropode Session 1;Heteroptera;Pyrrhocoris apterus;1
+CIROB;2018;Transect arthropode Session 1;Heteroptera;Pyrrhocoris apterus;1
+PULMA;2018;Transect arthropode Session 1;Heteroptera;Pyrrhocoris apterus;1
+EIDER;2018;Transect arthropode Session 2;Heteroptera;Pyrrhocoris apterus;1
+PAREX;2018;Plaques;Heteroptera;Pyrrhocoris apterus;1
+GTMBA;2018;Transect arthropode Session 2;Heteroptera;Pyrrhocoris apterus;1
+FRANK;2018;Transect arthropode Session 2;Heteroptera;Pyrrhocoris apterus;1
+MOZIN_AVEC_GESTION;2018;Transect arthropode Session 2;Heteroptera;Pyrrhocoris apterus;1
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 2;Heteroptera;Pyrrhocoris apterus;1
+GOOPL;2019;Transect arthropodes P2;Hétéroptères;Pyrrhocoris apterus;1
+PERIS;2019;Transect arthropodes P2;Hétéroptères;Pyrrhocoris apterus;1
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 2;Lepidoptera;Pyronia tithonus;1
+CIROB;2017;Transect arthropode Session 1;Coleoptera;Psyllobora vigintiduopunctata;1
+CIROB;2017;Transect arthropode Session 2;Coleoptera;Psyllobora vigintiduopunctata;1
+ECOBIO_BOIS;2017;Transect arthropode Session 2;Coleoptera;Psyllobora vigintiduopunctata;1
+PULMA;2018;Transect arthropode Session 1;Coleoptera;Psyllobora vigintiduopunctata;1
+ECOBIO_BOIS;2018;Transect arthropode Session 2;Coleoptera;Psyllobora vigintiduopunctata;1
+GRENEL;2018;Transect arthropode Session 2;Coleoptera;Psyllobora vigintiduopunctata;1
+MECHO;2018;Transect arthropode Session 2;Coleoptera;Psyllobora vigintiduopunctata;1
+CIROB;2017;Transect arthropode Session 1;Coleoptera;Psylliodes luteola;1
+ECOBIO_BOIS;2018;Transect arthropode Session 2;Coleoptera;Psylliodes;1
+GTMBA;2018;Transect arthropode Session 2;Coleoptera;Psylliodes;1
+MOZIN_AVEC_GESTION;2018;Transect arthropode Session 2;Coleoptera;Psylliodes;1
+SEINE;2019;Transect arthropodes P1;Coléoptères;Psilothrix viridicoerulea;1
+ECOBIO_PRAIRIE;2018;Transect arthropode Session 1;Orthoptera;Pseudochorthippus parallelus;1
+SEINE;2018;Transect arthropode Session 2;Orthoptera;Pseudochorthippus parallelus;1
+CHAVIN;2018;Transect arthropode Session 2;Orthoptera;Pseudochorthippus parallelus;1
+EIDER;2018;Transect arthropode Session 1;Arachnida;Pseudeuophrys lanigera;1
+AMROU;2018;Transect arthropode Session 1;Arachnida;Pseudeuophrys lanigera;1
+CARON;2018;Transect arthropode Session 1;Arachnida;Pseudeuophrys lanigera;1
+PAREX;2018;Transect arthropode Session 1;Arachnida;Pseudeuophrys lanigera;1
+MECHO;2018;Transect arthropode Session 1;Arachnida;Pseudeuophrys lanigera;1
+BOUTOU;2018;Transect arthropode Session 2;Arachnida;Pseudeuophrys lanigera;1
+MUENT;2018;Transect arthropode Session 2;Arachnida;Pseudeuophrys lanigera;1
+FRANK;2018;Transect arthropode Session 2;Arachnida;Pseudeuophrys lanigera;1
+AMROU;2019;Transect arthropodes P1;Araneae;Pseudeuophrys lanigera;1
+BOUCHA;2019;Transect arthropodes P1;Araneae;Pseudeuophrys lanigera;1
+EIDER;2018;Transect arthropode Session 2;Arachnida;Pseudeuophrys erratica;1
+CD93;2018;Transect arthropode Session 2;Arachnida;Pseudeuophrys erratica;1
+ANTHEU;2017;Transect arthropode Session 2;Arachnida;Pseudeuophrys ;1
+ABRON;2017;Transect arthropode Session 2;Arachnida;Pseudeuophrys;1
+MECHO;2017;Transect arthropode Session 2;Arachnida;Pseudeuophrys;1
+PROMA;2017;Transect arthropode Session 2;Arachnida;Pseudeuophrys;1
+OLSER;2017;Transect arthropode Session 2;Arachnida;Pseudeuophrys;1
+RUWAT;2017;Transect arthropode Session 2;Arachnida;Pseudeuophrys;1
+ECOBIO_BOIS;2018;Transect arthropode Session 2;Arachnida;Pseudeuophrys;1
+ECOBIO_PRAIRIE;2018;Plaques;Arachnida;Pseudeuophrys;1
+GOOPL;2018;Transect arthropode Session 2;Arachnida;Pseudeuophrys;1
+GOOPL;2018;Plaques;Arachnida;Pseudeuophrys;1
+OLSER;2018;Transect arthropode Session 2;Arachnida;Pseudeuophrys;1
+MOZIN_SANS_GESTION;2017;Transect arthropode Session 2;Hymenoptera;Psenulus schencki;1
+CIMOD;2017;Transect arthropode Session 1;Homoptera;Psammotettix;1
+FRANK;2019;Transect arthropodes P2;Homoptères;Psammotettix;1
+MOZIN_AVEC_GESTION;2019;Transect arthropodes P1;Coléoptères;Protapion assimile;1
+CIROB;2019;Transect arthropodes P2;Coléoptères;Propylea quatuordecimpunctata ;1
+KELLER;2019;Transect arthropodes P2;Coléoptères;Propylea quatuordecimpunctata ;1
+PULMA;2019;Transect arthropodes P2;Coléoptères;Propylea quatuordecimpunctata ;1
+EIDER;2017;Transect arthropode Session 1;Coleoptera;Propylea quatuordecimpunctata;1
+OLSER;2017;Transect arthropode Session 1;Coleoptera;Propylea quatuordecimpunctata;1
+FAUTEM;2017;Transect arthropode Session 1;Coleoptera;Propylea quatuordecimpunctata;1
+FRANK;2017;Transect arthropode Session 1;Coleoptera;Propylea quatuordecimpunctata;1
+BOUTOU;2018;Transect arthropode Session 1;Coleoptera;Propylea quatuordecimpunctata;1
+CIROB;2018;Transect arthropode Session 1;Coleoptera;Propylea quatuordecimpunctata;1
+PULMA;2018;Transect arthropode Session 1;Coleoptera;Propylea quatuordecimpunctata;1
+OLSER;2017;Transect arthropode Session 1;Isopoda;Porcellionides pruinosus;1
+ECOBIO_BOIS;2017;Transect arthropode Session 1;Isopoda;Porcellionides pruinosus;1
+FONTA;2017;Transect arthropode Session 1;Isopoda;Porcellio scaber;1
+AMROU;2017;Transect arthropode Session 1;Isopoda;Porcellio scaber;1
+BOUHOP;2017;Transect arthropode Session 1;Isopoda;Porcellio scaber;1
+BOUHOP;2017;Transect arthropode Session 2;Isopoda;Porcellio scaber;1
+MOZIN_SANS_GESTION;2017;Plaques;Isopoda;Porcellio scaber;1
+ECOBIO_BOIS;2017;Transect arthropode Session 2;Isopoda;Porcellio scaber;1
+EIDER;2017;Transect arthropode Session 2;Isopoda;Porcellio scaber;1
+EIDER;2017;Plaques;Isopoda;Porcellio scaber;1
+GOOPL;2017;Transect arthropode Session 2;Isopoda;Porcellio scaber;1
+WWF;2017;Transect arthropode Session 2;Isopoda;Porcellio scaber;1
+OLSER;2017;Transect arthropode Session 2;Isopoda;Porcellio scaber;1
+BOUCHA;2017;Plaques;Isopoda;Porcellio scaber;1
+PULMA;2017;Plaques;Isopoda;Porcellio scaber;1
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 1;Isopoda;Porcellio scaber;1
+CD93;2018;Transect arthropode Session 1;Isopoda;Porcellio scaber;1
+ECOBIO_PRAIRIE;2018;Transect arthropode Session 1;Isopoda;Porcellio scaber;1
+WWF;2018;Transect arthropode Session 1;Isopoda;Porcellio scaber;1
+GOOPL;2018;Transect arthropode Session 1;Isopoda;Porcellio scaber;1
+EIDER;2018;Transect arthropode Session 2;Isopoda;Porcellio scaber;1
+CD93;2018;Plaques;Isopoda;Porcellio scaber;1
+FAUTEM;2018;Plaques;Isopoda;Porcellio scaber;1
+MUENT;2018;Transect arthropode Session 2;Isopoda;Porcellio scaber;1
+MUENT;2018;Plaques;Isopoda;Porcellio scaber;1
+CD93;2019;Transect arthropodes P1;Isopodes;Porcellio scaber;1
+WWF;2019;Transect arthropodes P1;Isopodes;Porcellio scaber;1
+FAUTEM;2019;Transect arthropodes P2;Isopodes;Porcellio scaber;1
+KELLER;2019;Transect arthropodes P2;Isopodes;Porcellio scaber;1
+MOZIN_SANS_GESTION;2019;Transect arthropodes P2;Isopodes;Porcellio scaber;1
+SEINE;2018;Transect arthropode Session 1;Hymenoptera;Ponera coarctata;1
+WWF;2017;Transect arthropode Session 1;Lepidoptera;Polyommatus icarus;1
+CIROB;2017;Transect arthropode Session 1;Lepidoptera;Polyommatus icarus;1
+GTMBA;2018;Transect arthropode Session 2;Lepidoptera;Polyommatus icarus;1
+MOZIN_AVEC_GESTION;2018;Transect arthropode Session 2;Lepidoptera;Polyommatus icarus;1
+CIROB;2017;Transect arthropode Session 1;Lepidoptera;Polygonia c-album;1
+WWF;2018;Transect arthropode Session 1;Lepidoptera;Polygonia c-album;1
+FAUTEM;2018;Transect arthropode Session 1;Diplopoda;Polydesmus angustus;1
+CIROB;2018;Transect arthropode Session 1;Diplopoda;Polydesmus angustus;1
+ECOBIO_BOIS;2017;Plaques;Diplopoda;Polydesmus;1
+ECOBIO_BOIS;2018;Transect arthropode Session 1;Diplopoda;Polydesmus;1
+PERIS;2017;Transect arthropode Session 1;Hymenoptera;Polistes dominula;1
+ROROL;2017;Transect arthropode Session 2;Hymenoptera;Polistes dominula;1
+CHAVIN;2017;Transect arthropode Session 2;Hymenoptera;Polistes dominula;1
+LUAUB;2018;Transect arthropode Session 1;Hymenoptera;Polistes dominula;1
+SEINE;2018;Transect arthropode Session 1;Hymenoptera;Polistes dominula;1
+GRENEL;2018;Transect arthropode Session 1;Hymenoptera;Polistes dominula;1
+CHAVIN;2018;Transect arthropode Session 2;Hymenoptera;Polistes dominula;1
+CIROB;2018;Transect arthropode Session 2;Hymenoptera;Polistes dominula;1
+RUWAT;2018;Transect arthropode Session 1;Hymenoptera;Polistes;1
+EIDER;2018;Transect arthropode Session 1;Hymenoptera;Polistes;1
+FAUTEM;2018;Transect arthropode Session 2;Hymenoptera;Polistes;1
+RUWAT;2018;Transect arthropode Session 2;Hymenoptera;Polistes;1
+SEINE;2018;Transect arthropode Session 1;Coleoptera;Podagrica fuscicornis;1
+GRENEL;2018;Transect arthropode Session 1;Coleoptera;Podagrica fuscicornis;1
+WWF;2017;Plaques;Heteroptera;Plinthisus brevipennis;1
+CHAVIN;2018;Transect arthropode Session 1;Heteroptera;Plinthisus brevipennis;1
+SIBUET;2018;Plaques;Heteroptera;Plinthisus;1
+GTMBA;2017;Transect arthropode Session 1;Heteroptera;Platyplax;1
+GOOPL;2017;Transect arthropode Session 2;Odonata;Platycnemis pennipes;1
+GTMBA;2018;Transect arthropode Session 1;Odonata;Platycnemis pennipes;1
+ECOBIO_PRAIRIE;2018;Transect arthropode Session 1;Odonata;Platycnemis pennipes;1
+ECOBIO_PRAIRIE;2018;Transect arthropode Session 2;Odonata;Platycnemis pennipes;1
+GOOPL;2018;Transect arthropode Session 2;Odonata;Platycnemis pennipes;1
+FRANK;2017;Transect arthropode Session 2;Diptera;Platycheirus peltatus;1
+FAUTEM;2017;Transect arthropode Session 2;Diptera;Platycheirus;1
+PROMA;2019;Transect arthropodes P2;Hétéroptères;Plagiognathus chrysanthemi;1
+FONTA;2018;Transect arthropode Session 2;Heteroptera;Plagiognathus arbustorum;1
+PERIS;2018;Transect arthropode Session 2;Heteroptera;Plagiognathus arbustorum;1
+EIDER;2017;Transect arthropode Session 1;Arachnida;Pisaura mirabilis;1
+GTMBA;2017;Transect arthropode Session 2;Arachnida;Pisaura mirabilis;1
+MOZIN_SANS_GESTION;2019;Transect arthropodes P1;Hétéroptères;Piezodorus lituratus;1
+ECOBIO_PRAIRIE;2018;Transect arthropode Session 1;Lepidoptera;Pieris rapae;1
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 2;Lepidoptera;Pieris rapae;1
+PROMA;2018;Transect arthropode Session 1;Lepidoptera;Pieris napi;1
+CIROB;2018;Hors protocole;Lepidoptera;Pieris napi;1
+AMROU;2018;Transect arthropode Session 1;Lepidoptera;Pieris brassicae;1
+GTMBA;2018;Transect arthropode Session 1;Lepidoptera;Pieris brassicae;1
+GOOPL;2018;Transect arthropode Session 2;Lepidoptera;Pieris brassicae;1
+SEINE;2018;Transect arthropode Session 1;Lepidoptera;Pieris;1
+MECHO;2018;Transect arthropode Session 2;Heteroptera;Phytocoris;1
+LUAUB;2018;Transect arthropode Session 1;Heteroptera;Phylus melanocephalus;1
+MOZIN_SANS_GESTION;2019;Transect arthropodes P2;Coléoptères;Phyllotreta;1
+MOZIN_AVEC_GESTION;2019;Transect arthropodes P1;Araneae;Phylloneta sisyphia;1
+CHAVIN;2017;Transect arthropode Session 2;Arachnida;Phylloneta impressa;1
+ECOBIO_BOIS;2019;Transect arthropodes P1;Coléoptères;Phyllobius oblongus;1
+CIMOD;2017;Transect arthropode Session 1;Arachnida;Phlegra fasciata;1
+CD93;2019;Transect arthropodes P1;Araneae;Phlegra fasciata;1
+CHAVIN;2018;Transect arthropode Session 2;Arachnida;Phlegra;1
+BOUCHA;2019;Transect arthropodes P1;Isopodes;Philoscia muscorum;1
+GRENEL;2019;Transect arthropodes P1;Isopodes;Philoscia muscorum;1
+ECOBIO_PRAIRIE;2018;Transect arthropode Session 2;Arachnida;Philodromus cespitum;1
+GOOPL;2017;Transect arthropode Session 2;Arachnida;Philodromus aureolus;1
+FAUTEM;2018;Transect arthropode Session 2;Arachnida;Philodromus albidus;1
+GOOPL;2019;Transect arthropodes P1;Araneae;Philodromus albidus;1
+RUWAT;2017;Transect arthropode Session 1;Arachnida;Philodromus;1
+CIROB;2018;Transect arthropode Session 1;Arachnida;Philodromus;1
+GOOPL;2018;Transect arthropode Session 2;Arachnida;Philodromus;1
+BOUHOP;2017;Transect arthropode Session 1;Hymenoptera;Philanthus triangulum;1
+SIBUET;2017;Transect arthropode Session 1;Hymenoptera;Philanthus triangulum;1
+GTMBA;2017;Transect arthropode Session 1;Hymenoptera;Philanthus triangulum;1
+FONTA;2017;Transect arthropode Session 2;Hymenoptera;Philanthus triangulum;1
+ECOBIO_PRAIRIE;2018;Transect arthropode Session 2;Hymenoptera;Philanthus triangulum;1
+SIBUET;2018;Transect arthropode Session 2;Hymenoptera;Philanthus triangulum;1
+AMROU;2019;Transect arthropodes P2;Hyménoptères;Philanthus triangulum;1
+ECOBIO_BOIS;2017;Transect arthropode Session 1;Homoptera;Philaenus spumarius;1
+MECHO;2017;Transect arthropode Session 1;Homoptera;Philaenus spumarius;1
+EIDER;2018;Transect arthropode Session 1;Homoptera;Philaenus spumarius;1
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 1;Homoptera;Philaenus spumarius;1
+PAREX;2018;Transect arthropode Session 1;Homoptera;Philaenus spumarius;1
+GTMBA;2018;Transect arthropode Session 1;Homoptera;Philaenus spumarius;1
+FRANK;2018;Transect arthropode Session 1;Homoptera;Philaenus spumarius;1
+PULMA;2018;Transect arthropode Session 1;Homoptera;Philaenus spumarius;1
+CIROB;2018;Transect arthropode Session 2;Homoptera;Philaenus spumarius;1
+CHAVIN;2019;Transect arthropodes P1;Homoptères;Philaenus spumarius;1
+OLSER;2019;Transect arthropodes P1;Homoptères;Philaenus spumarius;1
+ROROLL;2019;Transect arthropodes P1;Homoptères;Philaenus spumarius;1
+BOUTOU;2019;Transect arthropodes P2;Homoptères;Philaenus spumarius;1
+ECOBIO_BOIS;2019;Transect arthropodes P2;Homoptères;Philaenus spumarius;1
+EIDER;2019;Transect arthropodes P2;Homoptères;Philaenus spumarius;1
+KELLER;2019;Transect arthropodes P2;Homoptères;Philaenus spumarius;1
+GTMBA;2018;Transect arthropode Session 1;Diptera;Pherbellia cinerella;1
+CD93;2019;Transect arthropodes P1;Diptères;Pherbellia cinerella;1
+CD93;2018;Transect arthropode Session 2;Diptera;Pherbellia;1
+FAUTEM;2017;Transect arthropode Session 1;Orthoptera;Phaneroptera;1
+CIROB;2017;Transect arthropode Session 1;Orthoptera;Phaneroptera;1
+FAUTEM;2018;Transect arthropode Session 1;Orthoptera;Phaneroptera;1
+MUENT;2018;Transect arthropode Session 1;Orthoptera;Phaneroptera;1
+EIDER;2018;Transect arthropode Session 1;Orthoptera;Phaneroptera;1
+PROMA;2018;Transect arthropode Session 1;Orthoptera;Phaneroptera;1
+GTMBA;2018;Transect arthropode Session 1;Orthoptera;Phaneroptera;1
+CD93;2018;Transect arthropode Session 2;Orthoptera;Phaneroptera;1
+GOOPL;2018;Transect arthropode Session 2;Orthoptera;Phaneroptera;1
+FRANK;2019;Transect arthropodes P1;Orthoptères;Phaneroptera;1
+LUAUB;2019;Transect arthropodes P1;Orthoptères;Phaneroptera;1
+CIROB;2019;Transect arthropodes P2;Orthoptères;Phaneroptera;1
+CIROB;2019;Transect arthropodes P2;Orthoptères;Phaneroptera;1
+EIDER;2019;Transect arthropodes P2;Orthoptères;Phaneroptera;1
+SEINE;2019;Transect arthropodes P2;Opiliones;Phalangium opilio;1
+LUAUB;2017;Transect arthropode Session 1;Heteroptera;Peritrechus nubilus;1
+PULMA;2019;Transect arthropodes P2;Hétéroptères;Peritrechus lundii;1
+FRANK;2017;Transect arthropode Session 1;Heteroptera;Peritrechus gracilicornis;1
+EIDER;2017;Transect arthropode Session 2;Heteroptera;Peritrechus gracilicornis;1
+SIBUET;2017;Transect arthropode Session 2;Heteroptera;Peritrechus gracilicornis;1
+GTMBA;2018;Transect arthropode Session 2;Heteroptera;Peritrechus gracilicornis;1
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 2;Heteroptera;Peritrechus gracilicornis;1
+BOUTOU;2019;Transect arthropodes P2;Hétéroptères;Peritrechus;1
+GOOPL;2017;Transect arthropode Session 1;Heteroptera;Peribalus strictus vernalis;1
+GOOPL;2017;Transect arthropode Session 1;Heteroptera;Peribalus strictus;1
+ECOBIO_BOIS;2018;Transect arthropode Session 2;Diptera;Peplomyza litura;1
+PULMA;2017;Transect arthropode Session 1;Hymenoptera;Passaloecus pictus;1
+GUER;2019;Transect arthropodes P1;Hyménoptères;Passaloecus pictus;1
+CD93;2019;Transect arthropodes P1;Hyménoptères;Passaloecus;1
+ECOBIO_PRAIRIE;2017;Transect arthropode Session 2;Arachnida;Pardosa proxima;1
+LUAUB;2018;Transect arthropode Session 1;Arachnida;Pardosa monticola;1
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 2;Arachnida;Pardosa agrestis;1
+FAUTEM;2017;Transect arthropode Session 1;Arachnida;Pardosa;1
+MECHO;2017;Transect arthropode Session 1;Arachnida;Pardosa;1
+ECOBIO_PRAIRIE;2017;Transect arthropode Session 2;Arachnida;Pardosa;1
+GTMBA;2018;Transect arthropode Session 2;Arachnida;Pardosa;1
+SEINE;2018;Transect arthropode Session 2;Arachnida;Pardosa;1
+GTMBA;2019;Transect arthropodes P1;Araneae;Pardosa;1
+WWF;2018;Transect arthropode Session 1;Arachnida;Parasteatoda lunata;1
+MUENT;2017;Transect arthropode Session 1;Arachnida;Parasteatoda;1
+ALBAR;2018;Plaques;Arachnida;Parasteatoda;1
+GOOPL;2017;Transect arthropode Session 1;Lepidoptera;Pararge aegeria;1
+WWF;2017;Transect arthropode Session 1;Lepidoptera;Pararge aegeria;1
+WWF;2017;Transect arthropode Session 2;Diptera;Paragus quadrifasciatus;1
+OLSER;2017;Transect arthropode Session 2;Diptera;Paragus quadrifasciatus;1
+MECHO;2019;Transect arthropodes P1;Diptères;Paragus haemorrhous;1
+ECOBIO_BOIS;2017;Transect arthropode Session 1;Diptera;Paraclusia tigrina;1
+ECOBIO_PRAIRIE;2017;Transect arthropode Session 1;Diptera;Paraclusia tigrina;1
+CHAVIN;2018;Transect arthropode Session 1;Lepidoptera;Papilio machaon;1
+OLSER;2017;Transect arthropode Session 2;Hymenoptera;Panurgus banksianus;1
+ROROL;2017;Transect arthropode Session 1;Heteroptera;Palomena prasina;1
+ECOBIO_BOIS;2018;Transect arthropode Session 2;Heteroptera;Palomena prasina;1
+GOOPL;2018;Transect arthropode Session 2;Heteroptera;Palomena prasina;1
+EIDER;2017;Transect arthropode Session 1;Arachnida;Pachygnatha degeeri;1
+OLSER;2017;Transect arthropode Session 1;Arachnida;Pachygnatha degeeri;1
+RUWAT;2017;Transect arthropode Session 1;Arachnida;Pachygnatha degeeri;1
+FAUTEM;2017;Transect arthropode Session 1;Arachnida;Pachygnatha degeeri;1
+ECOBIO_BOIS;2018;Transect arthropode Session 2;Diptera;Pachygaster leachii;1
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 1;Diptera;Pachygaster atra;1
+MOZIN_SANS_GESTION;2019;Transect arthropodes P1;Diptères;Pachygaster atra;1
+ECOBIO_BOIS;2019;Transect arthropodes P2;Diptères;Pachygaster atra;1
+MOZIN_SANS_GESTION;2019;Transect arthropodes P2;Diptères;Pachygaster atra;1
+LUAUB;2018;Transect arthropode Session 1;Arachnida;Ozyptila praticola;1
+GTMBA;2018;Transect arthropode Session 1;Arachnida;Ozyptila;1
+CIROB;2018;Transect arthropode Session 1;Arachnida;Ozyptila;1
+ROROL;2018;Transect arthropode Session 2;Arachnida;Ozyptila;1
+GOOPL;2017;Transect arthropode Session 1;Arachnida;Oxyopes lineatus;1
+CIROB;2017;Transect arthropode Session 2;Arachnida;Oxyopes lineatus;1
+CD93;2018;Transect arthropode Session 1;Arachnida;Oxyopes lineatus;1
+GOOPL;2019;Transect arthropodes P2;Araneae;Oxyopes lineatus;1
+MECHO;2018;Transect arthropode Session 2;Arachnida;Oxyopes;1
+CHAVIN;2018;Transect arthropode Session 2;Mollusca;Oxychilus draparnaudi;1
+GOOPL;2017;Transect arthropode Session 1;Mollusca;Oxychilus cellarius;1
+ECOBIO_BOIS;2017;Transect arthropode Session 1;Mollusca;Oxychilus;1
+GOOPL;2017;Plaques;Mollusca;Oxychilus;1
+CIROB;2017;Transect arthropode Session 1;Heteroptera;Oxycarenus lavaterae;1
+FAUTEM;2017;Transect arthropode Session 2;Diplopoda;Oxidus gracilis;1
+FAUTEM;2017;Plaques;Diplopoda;Oxidus gracilis;1
+CIROB;2018;Transect arthropode Session 1;Diplopoda;Oxidus gracilis;1
+FAUTEM;2018;Transect arthropode Session 2;Diplopoda;Oxidus gracilis;1
+ANTHEU;2018;Plaques;Diplopoda;Oxidus gracilis;1
+ECOBIO_BOIS;2018;Transect arthropode Session 1;Coleoptera;Oulema;1
+KELLER;2019;Transect arthropodes P1;Coléoptères;Oulema;1
+PAREX;2019;Transect arthropodes P2;Coléoptères;Oulema;1
+GOOPL;2017;Transect arthropode Session 1;Coleoptera;Otiorhynchus sulcatus;1
+GOOPL;2017;Transect arthropode Session 2;Coleoptera;Otiorhynchus sulcatus;1
+WWF;2017;Plaques;Coleoptera;Otiorhynchus sulcatus;1
+EIDER;2018;Transect arthropode Session 2;Coleoptera;Otiorhynchus sulcatus;1
+WWF;2018;Plaques;Coleoptera;Otiorhynchus sulcatus;1
+AMROU;2018;Plaques;Coleoptera;Otiorhynchus sulcatus;1
+PROMA;2018;Plaques;Coleoptera;Otiorhynchus sulcatus;1
+GOOPL;2019;Transect arthropodes P2;Coléoptères;Otiorhynchus sulcatus;1
+FAUTEM;2019;Transect arthropodes P2;Coléoptères;Otiorhynchus ovatus;1
+GOOPL;2018;Transect arthropode Session 1;Coleoptera;Otiorhynchus aurifer ;1
+BOUTOU;2018;Transect arthropode Session 2;Coleoptera;Otiorhynchus;1
+GTMBA;2018;Transect arthropode Session 2;Coleoptera;Otiorhynchus;1
+KELLER;2019;Transect arthropodes P1;Coléoptères;Othius punctulatus;1
+ALBAR;2018;Transect arthropode Session 1;Arachnida;Ostearius melanopygius;1
+MECHO;2018;Transect arthropode Session 1;Arachnida;Ostearius melanopygius;1
+FRANK;2018;Transect arthropode Session 1;Arachnida;Ostearius melanopygius;1
+ECOBIO_BOIS;2018;Transect arthropode Session 1;Heteroptera;Orthotylus;1
+GOOPL;2018;Transect arthropode Session 1;Heteroptera;Orthops;1
+MECHO;2018;Transect arthropode Session 2;Heteroptera;Ortholomus punctipennis;1
+GTMBA;2018;Transect arthropode Session 1;Odonata;Orthetrum cancellatum;1
+WWF;2018;Transect arthropode Session 1;Odonata;Orthetrum cancellatum;1
+GOOPL;2018;Transect arthropode Session 2;Odonata;Orthetrum cancellatum;1
+GTMBA;2018;Transect arthropode Session 2;Odonata;Orthetrum cancellatum;1
+GOOPL;2018;Transect arthropode Session 2;Odonata;Orthetrum brunneum;1
+GTMBA;2018;Transect arthropode Session 1;Heteroptera;Orius niger;1
+GRENEL;2018;Transect arthropode Session 2;Heteroptera;Orius niger;1
+GUER;2019;Transect arthropodes P2;Hétéroptères;Orius niger;1
+MECHO;2019;Transect arthropodes P2;Hétéroptères;Orius niger;1
+PERIS;2017;Transect arthropode Session 2;Heteroptera;Orius;1
+GRENEL;2018;Transect arthropode Session 1;Heteroptera;Orius;1
+ECOBIO_BOIS;2018;Transect arthropode Session 2;Heteroptera;Orius;1
+MOZIN_SANS_GESTION;2019;Transect arthropodes P2;Hétéroptères;Orius;1
+GOOPL;2017;Transect arthropode Session 1;Collembola;Orchesella cincta;1
+GUER;2019;Transect arthropodes P2;Collemboles;Orchesella cincta;1
+GRENEL;2018;Transect arthropode Session 1;Collembola;Orchesella;1
+WWF;2019;Transect arthropodes P1;Coléoptères;Ophonus;1
+FRANK;2017;Plaques;Isopoda;Oniscus asellus;1
+WWF;2018;Transect arthropode Session 1;Isopoda;Oniscus asellus;1
+WWF;2018;Transect arthropode Session 1;Hymenoptera;Omalus biaccinctus;1
+GUER;2019;Transect arthropodes P1;Hyménoptères;Omalus biaccinctus;1
+PULMA;2019;Transect arthropodes P2;Hyménoptères;Omalus biaccinctus;1
+SEINE;2019;Transect arthropodes P2;Hyménoptères;Omalus;1
+BOUCHA;2019;Transect arthropodes P1;Opiliones;Oligolophus tridens;1
+CD93;2019;Transect arthropodes P1;Opiliones;Oligolophus tridens;1
+OLSER;2017;Transect arthropode Session 1;Coleoptera;Olibrus;1
+ALBAR;2017;Transect arthropode Session 1;Coleoptera;Olibrus;1
+PROMA;2017;Transect arthropode Session 1;Coleoptera;Olibrus;1
+AMROU;2017;Transect arthropode Session 1;Coleoptera;Olibrus;1
+CIROB;2017;Transect arthropode Session 1;Coleoptera;Olibrus;1
+CIROB;2017;Transect arthropode Session 2;Coleoptera;Olibrus;1
+PROMA;2017;Transect arthropode Session 2;Coleoptera;Olibrus;1
+CHAVIN;2017;Transect arthropode Session 2;Coleoptera;Olibrus;1
+GTMBA;2017;Transect arthropode Session 2;Coleoptera;Olibrus;1
+ROROL;2018;Transect arthropode Session 1;Coleoptera;Olibrus;1
+CARON;2018;Transect arthropode Session 1;Coleoptera;Olibrus;1
+PROMA;2018;Transect arthropode Session 1;Coleoptera;Olibrus;1
+GTMBA;2018;Transect arthropode Session 1;Coleoptera;Olibrus;1
+CIROB;2018;Transect arthropode Session 1;Coleoptera;Olibrus;1
+BOUTOU;2018;Transect arthropode Session 2;Coleoptera;Olibrus;1
+CHAVIN;2018;Transect arthropode Session 2;Coleoptera;Olibrus;1
+CIROB;2018;Transect arthropode Session 2;Coleoptera;Olibrus;1
+GRENEL;2018;Transect arthropode Session 2;Coleoptera;Olibrus;1
+MECHO;2018;Transect arthropode Session 2;Coleoptera;Olibrus;1
+CHAVIN;2019;Transect arthropodes P1;Coléoptères;Olibrus;1
+ECOBIO_BOIS;2019;Transect arthropodes P1;Coléoptères;Olibrus;1
+SEINE;2019;Transect arthropodes P1;Coléoptères;Olibrus;1
+EIDER;2019;Transect arthropodes P2;Coléoptères;Olibrus;1
+GTMBA;2019;Transect arthropodes P2;Coléoptères;Olibrus;1
+PROMA;2019;Transect arthropodes P2;Coléoptères;Olibrus;1
+MUENT;2017;Transect arthropode Session 2;Orthoptera;Oedipoda caerulescens;1
+SEINE;2018;Transect arthropode Session 1;Coleoptera;Oedemera podagrariae;1
+OLSER;2017;Transect arthropode Session 1;Coleoptera;Oedemera nobilis;1
+GOOPL;2017;Transect arthropode Session 1;Coleoptera;Oedemera nobilis;1
+GTMBA;2017;Transect arthropode Session 1;Coleoptera;Oedemera nobilis;1
+CIMOD;2018;Transect arthropode Session 1;Coleoptera;Oedemera nobilis;1
+MECHO;2018;Transect arthropode Session 1;Coleoptera;Oedemera nobilis;1
+SEINE;2018;Transect arthropode Session 1;Coleoptera;Oedemera nobilis;1
+WWF;2018;Transect arthropode Session 1;Coleoptera;Oedemera nobilis;1
+FRANK;2018;Transect arthropode Session 1;Coleoptera;Oedemera nobilis;1
+MOZIN_SANS_GESTION;2019;Transect arthropodes P1;Coléoptères;Oedemera nobilis;1
+CIROB;2019;Transect arthropodes P2;Coléoptères;Oedemera nobilis;1
+SEINE;2019;Transect arthropodes P2;Coléoptères;Oedemera nobilis;1
+BOUTOU;2018;Transect arthropode Session 1;Coleoptera;Oedemera lurida;1
+GOOPL;2018;Transect arthropode Session 1;Coleoptera;Oedemera lurida;1
+BOUTOU;2019;Transect arthropodes P1;Coléoptères;Oedemera lurida;1
+GRENEL;2019;Transect arthropodes P1;Coléoptères;Oedemera lurida;1
+MECHO;2019;Transect arthropodes P1;Coléoptères;Oedemera lurida;1
+MOZIN_SANS_GESTION;2019;Transect arthropodes P1;Coléoptères;Oedemera lurida;1
+GTMBA;2019;Transect arthropodes P2;Coléoptères;Oedemera lurida;1
+MOZIN_SANS_GESTION;2019;Transect arthropodes P2;Coléoptères;Oedemera lurida;1
+SEINE;2019;Transect arthropodes P2;Coléoptères;Oedemera lurida;1
+GRENEL;2018;Transect arthropode Session 1;Coleoptera;Oedemera flavipes;1
+CHAVIN;2017;Transect arthropode Session 1;Coleoptera;Oedemera;1
+ALBAR;2019;Transect arthropodes P2;Orthoptères;Oecanthus pellucens;1
+FRANK;2017;Transect arthropode Session 2;Heteroptera;Odontoscelis fuliginosa;1
+CD93;2018;Transect arthropode Session 1;Arachnida;Odiellus spinosus;1
+FONTA;2018;Transect arthropode Session 2;Arachnida;Odiellus spinosus;1
+CD93;2018;Transect arthropode Session 2;Arachnida;Odiellus spinosus;1
+SEINE;2019;Transect arthropodes P1;Coléoptères;Odemera lurida;1
+OLSER;2017;Transect arthropode Session 1;Coleoptera;Ocypus aethiops;1
+WWF;2018;Transect arthropode Session 1;Coleoptera;Ocypus aethiops;1
+WWF;2017;Transect arthropode Session 1;Lepidoptera;Ochlodes sylvanus;1
+PULMA;2019;Transect arthropodes P1;Hétéroptères;Nysius thymi;1
+CIROB;2017;Transect arthropode Session 1;Heteroptera;Nysius senecionis;1
+CHAVIN;2017;Transect arthropode Session 1;Heteroptera;Nysius senecionis;1
+FRANK;2017;Transect arthropode Session 2;Heteroptera;Nysius senecionis;1
+BOUCHA;2019;Transect arthropodes P1;Hétéroptères;Nysius senecionis;1
+PAREX;2017;Transect arthropode Session 2;Heteroptera;Nysius immunis;1
+ROROL;2017;Transect arthropode Session 2;Heteroptera;Nysius immunis;1
+CIMOD;2017;Transect arthropode Session 2;Heteroptera;Nysius immunis;1
+RUWAT;2018;Transect arthropode Session 1;Heteroptera;Nysius immunis;1
+SIBUET;2018;Transect arthropode Session 1;Heteroptera;Nysius immunis;1
+FRANK;2018;Transect arthropode Session 1;Heteroptera;Nysius immunis;1
+FONTA;2018;Transect arthropode Session 2;Heteroptera;Nysius immunis;1
+PERIS;2018;Transect arthropode Session 2;Heteroptera;Nysius immunis;1
+RUWAT;2018;Transect arthropode Session 2;Heteroptera;Nysius immunis;1
+CD93;2019;Transect arthropodes P1;Hétéroptères;Nysius immunis;1
+GUER;2019;Transect arthropodes P1;Hétéroptères;Nysius immunis;1
+LUAUB;2019;Transect arthropodes P1;Hétéroptères;Nysius immunis;1
+ROROLL;2019;Transect arthropodes P1;Hétéroptères;Nysius immunis;1
+BOUCHA;2019;Transect arthropodes P2;Hétéroptères;Nysius immunis;1
+CHAVIN;2017;Transect arthropode Session 1;Heteroptera;Nysius helveticus;1
+BOUCHA;2017;Transect arthropode Session 2;Heteroptera;Nysius helveticus;1
+PULMA;2017;Transect arthropode Session 2;Heteroptera;Nysius helveticus;1
+OLSER;2017;Transect arthropode Session 1;Heteroptera;Nysius graminicola;1
+PROMA;2017;Transect arthropode Session 1;Heteroptera;Nysius graminicola;1
+ANTHEU;2017;Transect arthropode Session 2;Heteroptera;Nysius graminicola;1
+ECOBIO_PRAIRIE;2019;Transect arthropodes P2;Hétéroptères;Nysius graminicola;1
+FRANK;2019;Transect arthropodes P2;Hétéroptères;Nysius graminicola;1
+SIBUET;2019;Transect arthropodes P1;Hétéroptères;Nysius ericae;1
+CARON;2019;Transect arthropodes P2;Hétéroptères;Nysius ericae;1
+GTMBA;2019;Transect arthropodes P2;Hétéroptères;Nysius ;1
+ANTHEU;2017;Transect arthropode Session 2;Heteroptera;Nysius;1
+AMROU;2017;Transect arthropode Session 2;Heteroptera;Nysius;1
+CARON;2018;Transect arthropode Session 1;Heteroptera;Nysius;1
+FONTA;2018;Transect arthropode Session 1;Heteroptera;Nysius;1
+GTMBA;2018;Transect arthropode Session 1;Heteroptera;Nysius;1
+ROROL;2018;Transect arthropode Session 2;Heteroptera;Nysius;1
+BOUTOU;2018;Transect arthropode Session 2;Heteroptera;Nysius;1
+CIMOD;2018;Transect arthropode Session 2;Heteroptera;Nysius;1
+ANTHEU;2018;Transect arthropode Session 2;Heteroptera;Nysius;1
+GTMBA;2019;Transect arthropodes P1;Hétéroptères;Nysius;1
+GUER;2019;Transect arthropodes P1;Hétéroptères;Nysius;1
+ALBAR;2019;Transect arthropodes P2;Hétéroptères;Nysius;1
+PULMA;2019;Transect arthropodes P2;Hétéroptères;Nysius;1
+GRENEL;2018;Transect arthropode Session 1;Heteroptera;Notostira;1
+ECOBIO_PRAIRIE;2018;Transect arthropode Session 1;Coleoptera;Notiophilus;1
+FONTA;2018;Transect arthropode Session 2;Coleoptera;Notiophilus;1
+GOOPL;2018;Transect arthropode Session 1;Hymenoptera;Nomada zonata;1
+AMROU;2018;Transect arthropode Session 1;Hymenoptera;Nomada flavoguttata;1
+PULMA;2018;Transect arthropode Session 1;Hymenoptera;Nomada flavoguttata;1
+PULMA;2019;Transect arthropodes P2;Hyménoptères;Nomada ;1
+CARON;2019;Transect arthropodes P2;Araneae;Nigma puella;1
+SEINE;2019;Transect arthropodes P1;Hétéroptères;Nezera viridula;1
+OLSER;2019;Transect arthropodes P2;Hétéroptères;Nezera viridula;1
+MOZIN_SANS_GESTION;2017;Transect arthropode Session 1;Heteroptera;Nezara viridula;1
+CIROB;2018;Transect arthropode Session 1;Heteroptera;Nezara viridula;1
+FRANK;2018;Transect arthropode Session 1;Heteroptera;Nezara viridula;1
+OLSER;2018;Transect arthropode Session 1;Heteroptera;Nezara viridula;1
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 2;Heteroptera;Nezara viridula;1
+MECHO;2018;Transect arthropode Session 2;Heteroptera;Nezara viridula;1
+GOOPL;2019;Transect arthropodes P1;Araneae;Neriene radiata;1
+CHAVIN;2017;Transect arthropode Session 2;Arachnida;Neriene emphana ;1
+MOZIN_SANS_GESTION;2019;Transect arthropodes P1;Diptères;Nephrotoma submaculosa;1
+CD93;2019;Transect arthropodes P1;Diptères;Nephrotoma flavescens ;1
+OLSER;2017;Transect arthropode Session 1;Diptera;Nephrotoma flavescens;1
+CIROB;2019;Transect arthropodes P1;Diptères;Nephrotoma;1
+ECOBIO_PRAIRIE;2017;Transect arthropode Session 1;Arachnida;Neottiura bimaculata;1
+ALBAR;2017;Transect arthropode Session 1;Arachnida;Neottiura bimaculata;1
+MOZIN_SANS_GESTION;2017;Transect arthropode Session 1;Arachnida;Neottiura bimaculata;1
+BOUTOU;2018;Transect arthropode Session 2;Arachnida;Neottiura bimaculata;1
+OLSER;2018;Transect arthropode Session 2;Arachnida;Neottiura bimaculata;1
+ALBAR;2019;Transect arthropodes P1;Araneae;Neottiura bimaculata;1
+ROROL;2019;Transect arthropodes P2;Hétéroptères;Neottiglossa leporina;1
+CHAVIN;2019;Transect arthropodes P1;Homoptères;Neoaliturus fenestratus;1
+FRANK;2019;Transect arthropodes P1;Homoptères;Neoaliturus fenestratus;1
+PROMA;2017;Transect arthropode Session 2;Heteroptera;Nabis punctatus;1
+AMROU;2017;Transect arthropode Session 1;Heteroptera;Nabis pseudoferus pseudoferus;1
+FRANK;2018;Transect arthropode Session 1;Heteroptera;Nabis pseudoferus ibericus;1
+BOUTOU;2018;Transect arthropode Session 2;Heteroptera;Nabis pseudoferus ibericus;1
+CHAVIN;2017;Transect arthropode Session 2;Heteroptera;Nabis pseudoferus;1
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 1;Heteroptera;Nabis pseudoferus;1
+ALBAR;2019;Transect arthropodes P1;Hétéroptères;Nabis pseudoferus;1
+CIROB;2019;Transect arthropodes P2;Hétéroptères;Nabis pseudoferus;1
+GTMBA;2017;Transect arthropode Session 2;Heteroptera;Nabis ferus;1
+SIBUET;2018;Transect arthropode Session 1;Heteroptera;Nabis ericetorum;1
+CIMOD;2017;Transect arthropode Session 1;Heteroptera;Nabis;1
+ECOBIO_PRAIRIE;2017;Transect arthropode Session 1;Heteroptera;Nabis;1
+PAREX;2017;Transect arthropode Session 2;Heteroptera;Nabis;1
+FRANK;2017;Transect arthropode Session 2;Heteroptera;Nabis;1
+ALBAR;2017;Transect arthropode Session 2;Heteroptera;Nabis;1
+SIBUET;2017;Transect arthropode Session 2;Heteroptera;Nabis;1
+CIMOD;2018;Transect arthropode Session 1;Heteroptera;Nabis;1
+PROMA;2018;Transect arthropode Session 1;Heteroptera;Nabis;1
+GTMBA;2018;Transect arthropode Session 1;Heteroptera;Nabis;1
+CIROB;2018;Transect arthropode Session 1;Heteroptera;Nabis;1
+GRENEL;2018;Transect arthropode Session 1;Heteroptera;Nabis;1
+GTMBA;2018;Transect arthropode Session 2;Heteroptera;Nabis;1
+SEINE;2018;Transect arthropode Session 2;Heteroptera;Nabis;1
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 2;Heteroptera;Nabis;1
+MECHO;2018;Transect arthropode Session 2;Heteroptera;Nabis;1
+OLSER;2019;Transect arthropodes P1;Hétéroptères;Nabis;1
+ALBAR;2019;Transect arthropodes P2;Hétéroptères;Nabis;1
+SEINE;2019;Transect arthropodes P2;Hétéroptères;Nabis;1
+GOOPL;2017;Transect arthropode Session 2;Hymenoptera;Myrmica vandeli;1
+WWF;2017;Transect arthropode Session 2;Hymenoptera;Myrmica vandeli;1
+WWF;2018;Transect arthropode Session 2;Hymenoptera;Myrmica vandeli;1
+MOZIN_AVEC_GESTION;2018;Transect arthropode Session 1;Hymenoptera;Myrmica specioides;1
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 2;Hymenoptera;Myrmica schencki;1
+ECOBIO_BOIS;2017;Transect arthropode Session 1;Hymenoptera;Myrmica scabrinodis;1
+BOUTOU;2017;Transect arthropode Session 1;Hymenoptera;Myrmica scabrinodis;1
+PULMA;2017;Transect arthropode Session 1;Hymenoptera;Myrmica scabrinodis;1
+CHAVIN;2017;Transect arthropode Session 1;Hymenoptera;Myrmica scabrinodis;1
+CARON;2018;Transect arthropode Session 1;Hymenoptera;Myrmica scabrinodis;1
+PROMA;2018;Transect arthropode Session 1;Hymenoptera;Myrmica scabrinodis;1
+ECOBIO_BOIS;2018;Transect arthropode Session 1;Hymenoptera;Myrmica scabrinodis;1
+PERIS;2018;Transect arthropode Session 1;Hymenoptera;Myrmica scabrinodis;1
+ECOBIO_BOIS;2018;Transect arthropode Session 2;Hymenoptera;Myrmica scabrinodis;1
+PERIS;2018;Transect arthropode Session 2;Hymenoptera;Myrmica scabrinodis;1
+FAUTEM;2019;Transect arthropodes P1;Hyménoptères;Myrmica scabrinodis;1
+FRANK;2019;Transect arthropodes P2;Hyménoptères;Myrmica;1
+BOUHOP;2017;Transect arthropode Session 2;Mollusca;Morlina glabra;1
+ANTHEU;2018;Transect arthropode Session 1;Arachnida;Monocephalus fuscipes;1
+GOOPL;2017;Transect arthropode Session 1;Mollusca;Monacha;1
+GTMBA;2017;Transect arthropode Session 1;Mollusca;Monacha;1
+CIROB;2017;Transect arthropode Session 2;Arachnida;Misumena vatia;1
+MOZIN_SANS_GESTION;2017;Transect arthropode Session 2;Arachnida;Misumena vatia;1
+GOOPL;2017;Transect arthropode Session 2;Arachnida;Misumena vatia;1
+GTMBA;2017;Transect arthropode Session 2;Arachnida;Misumena vatia;1
+RUWAT;2018;Transect arthropode Session 1;Arachnida;Misumena vatia;1
+WWF;2018;Transect arthropode Session 1;Arachnida;Misumena vatia;1
+FAUTEM;2018;Transect arthropode Session 2;Arachnida;Misumena vatia;1
+RUWAT;2018;Transect arthropode Session 2;Arachnida;Misumena vatia;1
+GOOPL;2018;Transect arthropode Session 2;Arachnida;Misumena vatia;1
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 2;Arachnida;Misumena vatia;1
+MOZIN_AVEC_GESTION;2019;Transect arthropodes P2;Arachnides;Misumena vatia;1
+ECOBIO_PRAIRIE;2019;Transect arthropodes P1;Diptères;Minettia;1
+KELLER;2019;Transect arthropodes P1;Diptères;Minettia;1
+MOZIN_SANS_GESTION;2019;Transect arthropodes P1;Diptères;Minettia;1
+OLSER;2019;Transect arthropodes P1;Diptères;Minettia;1
+FAUTEM;2019;Transect arthropodes P2;Diptères;Minettia;1
+GTMBA;2019;Transect arthropodes P2;Diptères;Minettia;1
+MOZIN_SANS_GESTION;2019;Transect arthropodes P2;Diptères;Minettia;1
+RUWAT;2017;Transect arthropode Session 1;Coleoptera;Microlestes minutulus;1
+GTMBA;2017;Transect arthropode Session 1;Coleoptera;Microlestes minutulus;1
+MUENT;2019;Transect arthropodes P1;Coléoptères;Microlestes ;1
+MECHO;2017;Transect arthropode Session 1;Coleoptera;Microlestes;1
+ROROLL;2019;Transect arthropodes P1;Coléoptères;Microlestes;1
+ALBAR;2018;Transect arthropode Session 2;Heteroptera;Metopoplax ditomoides;1
+CHAVIN;2019;Transect arthropodes P1;Hétéroptères;Metopoplax ditomoides;1
+MOZIN_SANS_GESTION;2017;Transect arthropode Session 1;Diptera;Meromyza;1
+BOUTOU;2017;Transect arthropode Session 1;Diptera;Meromyza;1
+FRANK;2017;Transect arthropode Session 2;Diptera;Meromyza;1
+CHAVIN;2017;Transect arthropode Session 2;Diptera;Meromyza;1
+GTMBA;2018;Transect arthropode Session 1;Diptera;Meromyza;1
+ECOBIO_PRAIRIE;2018;Transect arthropode Session 1;Diptera;Meromyza;1
+CIROB;2018;Transect arthropode Session 1;Diptera;Meromyza;1
+PULMA;2018;Transect arthropode Session 1;Diptera;Meromyza;1
+EIDER;2018;Transect arthropode Session 2;Diptera;Meromyza;1
+BOUTOU;2018;Transect arthropode Session 2;Diptera;Meromyza;1
+CARON;2018;Transect arthropode Session 2;Diptera;Meromyza;1
+SEINE;2018;Transect arthropode Session 2;Diptera;Meromyza;1
+CARON;2019;Transect arthropodes P1;Diptères;Meromyza;1
+CHAVIN;2019;Transect arthropodes P1;Diptères;Meromyza;1
+BOUTOU;2019;Transect arthropodes P2;Diptères;Meromyza;1
+CIROB;2019;Transect arthropodes P2;Diptères;Meromyza;1
+LUAUB;2019;Transect arthropodes P2;Diptères;Meromyza;1
+MECHO;2019;Transect arthropodes P2;Diptères;Meromyza;1
+PROMA;2019;Transect arthropodes P2;Diptères;Meromyza;1
+FAUTEM;2017;Transect arthropode Session 1;Coleoptera;Meligethes aeneus;1
+FAUTEM;2019;Transect arthropodes P1;Coléoptères;Meligethes ;1
+EIDER;2019;Transect arthropodes P2;Coléoptères;Meligethes ;1
+GTMBA;2019;Transect arthropodes P2;Coléoptères;Meligethes ;1
+MOZIN_SANS_GESTION;2019;Transect arthropodes P2;Coléoptères;Meligethes ;1
+FAUTEM;2017;Transect arthropode Session 1;Coleoptera;Meligethes;1
+CIROB;2017;Transect arthropode Session 1;Coleoptera;Meligethes;1
+CHAVIN;2017;Transect arthropode Session 1;Coleoptera;Meligethes;1
+SEINE;2018;Transect arthropode Session 1;Diptera;Melanostoma mellinum;1
+CIROB;2018;Transect arthropode Session 1;Diptera;Melanostoma mellinum;1
+FRANK;2018;Transect arthropode Session 1;Diptera;Melanostoma mellinum;1
+PULMA;2018;Transect arthropode Session 1;Diptera;Melanostoma mellinum;1
+GRENEL;2018;Transect arthropode Session 1;Diptera;Melanostoma mellinum;1
+SEINE;2019;Transect arthropodes P2;Diptères;Melanostoma mellinum;1
+GOOPL;2017;Transect arthropode Session 1;Homoptera;Megophthalmus;1
+RUWAT;2017;Transect arthropode Session 1;Heteroptera;Megalonotus sabulicola;1
+PULMA;2017;Transect arthropode Session 1;Heteroptera;Megalonotus sabulicola;1
+ROROL;2017;Transect arthropode Session 2;Heteroptera;Megalonotus sabulicola;1
+SIBUET;2018;Plaques;Heteroptera;Megalonotus sabulicola;1
+AMROU;2018;Transect arthropode Session 2;Heteroptera;Megalonotus sabulicola;1
+MOZIN_AVEC_GESTION;2018;Transect arthropode Session 2;Heteroptera;Megalonotus sabulicola;1
+GTMBA;2017;Transect arthropode Session 1;Heteroptera;Megalonotus praetextatus;1
+PULMA;2017;Transect arthropode Session 1;Heteroptera;Megalonotus praetextatus;1
+WWF;2018;Transect arthropode Session 1;Heteroptera;Megalonotus praetextatus;1
+PROMA;2018;Transect arthropode Session 2;Heteroptera;Megalonotus praetextatus;1
+SEINE;2019;Transect arthropodes P2;Hétéroptères;Megalonotus praetextatus;1
+GOOPL;2018;Transect arthropode Session 2;Heteroptera;Megalonotus emarginatus;1
+BOUTOU;2019;Transect arthropodes P1;Hétéroptères;Megalonotus emarginatus;1
+CHAVIN;2019;Transect arthropodes P1;Hétéroptères;Megalonotus emarginatus;1
+OLSER;2019;Transect arthropodes P1;Hétéroptères;Megalonotus emarginatus;1
+FRANK;2019;Transect arthropodes P2;Hétéroptères;Megalonotus ;1
+KELLER;2019;Transect arthropodes P2;Hétéroptères;Megalonotus;1
+ECOBIO_PRAIRIE;2018;Transect arthropode Session 2;Heteroptera;Megaloceroea recticornis;1
+LUAUB;2019;Transect arthropodes P2;Hétéroptères;Megaloceroea recticornis;1
+CIMOD;2018;Transect arthropode Session 1;Hymenoptera;Megachile willughbiella;1
+GTMBA;2017;Transect arthropode Session 1;Hymenoptera;Megachile pilidens;1
+MECHO;2019;Transect arthropodes P2;Hyménoptères;Megachile ;1
+ECOBIO_PRAIRIE;2018;Transect arthropode Session 1;Hymenoptera;Megachile;1
+PROMA;2017;Transect arthropode Session 1;Arachnida;Mangora acalypha;1
+FAUTEM;2017;Transect arthropode Session 1;Arachnida;Mangora acalypha;1
+CIROB;2017;Transect arthropode Session 1;Arachnida;Mangora acalypha;1
+GTMBA;2017;Transect arthropode Session 1;Arachnida;Mangora acalypha;1
+PROMA;2017;Transect arthropode Session 2;Arachnida;Mangora acalypha;1
+WWF;2017;Transect arthropode Session 2;Arachnida;Mangora acalypha;1
+PROMA;2018;Transect arthropode Session 1;Arachnida;Mangora acalypha;1
+ECOBIO_PRAIRIE;2018;Transect arthropode Session 2;Arachnida;Mangora acalypha;1
+GOOPL;2018;Transect arthropode Session 2;Arachnida;Mangora acalypha;1
+MECHO;2018;Transect arthropode Session 2;Arachnida;Mangora acalypha;1
+BOUCHA;2019;Transect arthropodes P1;Araneae;Mangora acalypha;1
+ECOBIO_PRAIRIE;2019;Transect arthropodes P1;Araneae;Mangora acalypha;1
+EIDER;2019;Transect arthropodes P1;Araneae;Mangora acalypha;1
+OLSER;2019;Transect arthropodes P1;Araneae;Mangora acalypha;1
+WWF;2019;Transect arthropodes P1;Araneae;Mangora acalypha;1
+CIROB;2019;Transect arthropodes P2;Araneae;Mangora acalypha;1
+GTMBA;2019;Transect arthropodes P2;Araneae;Mangora acalypha;1
+KELLER;2019;Transect arthropodes P2;Araneae;Mangora acalypha;1
+MOZIN_SANS_GESTION;2019;Transect arthropodes P2;Araneae;Mangora acalypha;1
+MOZIN_SANS_GESTION;2019;Transect arthropodes P1;Coléoptères;Malthinus scriptus;1
+ECOBIO_PRAIRIE;2018;Transect arthropode Session 1;Lepidoptera;Macroglossum stellatarum;1
+ECOBIO_PRAIRIE;2018;Transect arthropode Session 2;Lepidoptera;Macroglossum stellatarum;1
+CHAVIN;2017;Transect arthropode Session 1;Heteroptera;Lygus pratensis;1
+CIROB;2017;Transect arthropode Session 2;Heteroptera;Lygus pratensis;1
+PROMA;2017;Transect arthropode Session 2;Heteroptera;Lygus pratensis;1
+CHAVIN;2017;Transect arthropode Session 2;Heteroptera;Lygus pratensis;1
+MOZIN_SANS_GESTION;2017;Plaques;Heteroptera;Lygus pratensis;1
+GTMBA;2017;Transect arthropode Session 2;Heteroptera;Lygus pratensis;1
+GTMBA;2018;Transect arthropode Session 1;Heteroptera;Lygus pratensis;1
+ROROL;2018;Transect arthropode Session 2;Heteroptera;Lygus pratensis;1
+GOOPL;2018;Transect arthropode Session 2;Heteroptera;Lygus pratensis;1
+FRANK;2019;Transect arthropodes P1;Hétéroptères;Lygus pratensis;1
+EIDER;2019;Transect arthropodes P2;Hétéroptères;Lygus pratensis;1
+MOZIN_AVEC_GESTION;2018;Transect arthropode Session 1;Heteroptera;Lygus gemellatus;1
+SEINE;2019;Transect arthropodes P2;Hétéroptères;Lygus gemellatus;1
+CIMOD;2018;Transect arthropode Session 1;Heteroptera;Lygus;1
+MOZIN_SANS_GESTION;2019;Transect arthropodes P2;Hétéroptères;Lygus;1
+GTMBA;2017;Transect arthropode Session 1;Coleoptera;Longitarsus;1
+MECHO;2019;Transect arthropodes P1;Coléoptères;Longitarsus;1
+ECOBIO_BOIS;2019;Transect arthropodes P2;Coléoptères;Longitarsus;1
+GTMBA WILD;2019;Transect arthropodes P2;Coléoptères;Longitarsus;1
+GUER;2019;Transect arthropodes P1;Chilopodes;Lithobius tricuspis;1
+MUENT;2019;Transect arthropodes P1;Chilopodes;Lithobius macilentus;1
+OLSER;2019;Transect arthropodes P1;Chilopodes;Lithobius ;1
+FRANK;2017;Plaques;Chilopoda;Lithobius;1
+PROMA;2017;Transect arthropode Session 2;Chilopoda;Lithobius;1
+PROMA;2017;Plaques;Chilopoda;Lithobius;1
+ECOBIO_BOIS;2017;Plaques;Chilopoda;Lithobius;1
+EIDER;2017;Plaques;Chilopoda;Lithobius;1
+FAUTEM;2017;Transect arthropode Session 2;Chilopoda;Lithobius;1
+FAUTEM;2017;Plaques;Chilopoda;Lithobius;1
+OLSER;2017;Transect arthropode Session 2;Chilopoda;Lithobius;1
+BOUCHA;2017;Plaques;Chilopoda;Lithobius;1
+RUWAT;2017;Transect arthropode Session 2;Chilopoda;Lithobius;1
+BOUTOU;2018;Transect arthropode Session 1;Chilopoda;Lithobius;1
+BOUCHA;2018;Transect arthropode Session 1;Chilopoda;Lithobius;1
+WWF;2018;Transect arthropode Session 1;Chilopoda;Lithobius;1
+SIBUET;2018;Transect arthropode Session 1;Chilopoda;Lithobius;1
+ECOBIO_BOIS;2018;Plaques;Chilopoda;Lithobius;1
+FONTA;2018;Transect arthropode Session 2;Chilopoda;Lithobius;1
+ROROL;2018;Plaques;Chilopoda;Lithobius;1
+CARON;2018;Transect arthropode Session 2;Chilopoda;Lithobius;1
+AMROU;2018;Transect arthropode Session 2;Chilopoda;Lithobius;1
+MECHO;2018;Transect arthropode Session 2;Chilopoda;Lithobius;1
+CHAVIN;2017;Transect arthropode Session 1;Heteroptera;Liorhyssus hyalinus;1
+CD93;2019;Transect arthropodes P1;Hétéroptères;Liorhyssus hyalinatus;1
+ECOBIO_BOIS;2017;Transect arthropode Session 1;Heteroptera;Leptopterna dolabrata;1
+ECOBIO_PRAIRIE;2019;Transect arthropodes P1;Hétéroptères;Leptopterna dolabrata;1
+ECOBIO_PRAIRIE;2018;Transect arthropode Session 1;Heteroptera;Leptopterna;1
+GOOPL;2017;Transect arthropode Session 1;Orthoptera;Leptophyes punctatissima;1
+MOZIN_SANS_GESTION;2017;Transect arthropode Session 1;Hymenoptera;Leptochilus regulus;1
+FRANK;2017;Transect arthropode Session 1;Hymenoptera;Leptochilus regulus;1
+CHAVIN;2017;Transect arthropode Session 1;Hymenoptera;Leptochilus regulus;1
+FRANK;2018;Transect arthropode Session 1;Hymenoptera;Leptochilus regulus;1
+MOZIN_SANS_GESTION;2019;Transect arthropodes P2;Hyménoptères;Leptochilus regulus;1
+OLSER;2019;Transect arthropodes P2;Hyménoptères;Leptochilus regulus;1
+PERIS;2017;Transect arthropode Session 1;Hymenoptera;Lasius niger;1
+AMROU;2017;Transect arthropode Session 1;Hymenoptera;Lasius niger;1
+RUWAT;2017;Transect arthropode Session 1;Hymenoptera;Lasius niger;1
+WWF;2017;Transect arthropode Session 1;Hymenoptera;Lasius niger;1
+GTMBA;2017;Transect arthropode Session 1;Hymenoptera;Lasius niger;1
+ROROL;2017;Transect arthropode Session 2;Hymenoptera;Lasius niger;1
+CIROB;2017;Transect arthropode Session 2;Hymenoptera;Lasius niger;1
+MECHO;2017;Transect arthropode Session 2;Hymenoptera;Lasius niger;1
+BOUHOP;2017;Transect arthropode Session 2;Hymenoptera;Lasius niger;1
+BOUHOP;2017;Plaques;Hymenoptera;Lasius niger;1
+ECOBIO_BOIS;2017;Transect arthropode Session 2;Hymenoptera;Lasius niger;1
+GOOPL;2017;Transect arthropode Session 2;Hymenoptera;Lasius niger;1
+CIMOD;2017;Transect arthropode Session 2;Hymenoptera;Lasius niger;1
+GTMBA;2017;Transect arthropode Session 2;Hymenoptera;Lasius niger;1
+ALBAR;2018;Transect arthropode Session 1;Hymenoptera;Lasius niger;1
+BOUTOU;2018;Transect arthropode Session 1;Hymenoptera;Lasius niger;1
+GTMBA;2018;Transect arthropode Session 1;Hymenoptera;Lasius niger;1
+ECOBIO_BOIS;2018;Transect arthropode Session 1;Hymenoptera;Lasius niger;1
+EIDER;2018;Transect arthropode Session 2;Hymenoptera;Lasius niger;1
+FAUTEM;2018;Transect arthropode Session 2;Hymenoptera;Lasius niger;1
+PAREX;2018;Transect arthropode Session 2;Hymenoptera;Lasius niger;1
+PERIS;2018;Transect arthropode Session 2;Hymenoptera;Lasius niger;1
+CARON;2018;Transect arthropode Session 2;Hymenoptera;Lasius niger;1
+GOOPL;2018;Transect arthropode Session 2;Hymenoptera;Lasius niger;1
+GTMBA;2018;Transect arthropode Session 2;Hymenoptera;Lasius niger;1
+ALBAR;2018;Transect arthropode Session 2;Hymenoptera;Lasius niger;1
+MECHO;2018;Transect arthropode Session 2;Hymenoptera;Lasius niger;1
+EIDER;2019;Transect arthropodes P1;Hyménoptères;Lasius niger;1
+FAUTEM;2019;Transect arthropodes P1;Hyménoptères;Lasius niger;1
+GTMBA WILD;2019;Transect arthropodes P1;Hyménoptères;Lasius niger;1
+SEINE;2019;Transect arthropodes P1;Hyménoptères;Lasius niger;1
+CIROB;2019;Transect arthropodes P2;Hyménoptères;Lasius niger;1
+FONTA;2019;Transect arthropodes P2;Hyménoptères;Lasius niger;1
+MECHO;2019;Transect arthropodes P2;Hyménoptères;Lasius niger;1
+ECOBIO_PRAIRIE;2017;Transect arthropode Session 2;Hymenoptera;Lasius neglectus;1
+ECOBIO_BOIS;2017;Transect arthropode Session 2;Hymenoptera;Lasius emarginatus;1
+PULMA;2017;Plaques;Hymenoptera;Lasius emarginatus;1
+GTMBA;2018;Transect arthropode Session 1;Hymenoptera;Lasius emarginatus;1
+WWF;2018;Transect arthropode Session 1;Hymenoptera;Lasius emarginatus;1
+SIBUET;2018;Transect arthropode Session 1;Hymenoptera;Lasius emarginatus;1
+PERIS;2018;Transect arthropode Session 1;Hymenoptera;Lasius emarginatus;1
+CD93;2018;Plaques;Hymenoptera;Lasius emarginatus;1
+CD93;2018;Transect arthropode Session 2;Hymenoptera;Lasius emarginatus;1
+PERIS;2018;Transect arthropode Session 2;Hymenoptera;Lasius emarginatus;1
+GOOPL;2018;Transect arthropode Session 2;Hymenoptera;Lasius emarginatus;1
+CHAVIN;2018;Plaques;Hymenoptera;Lasius emarginatus;1
+OLSER;2019;Transect arthropodes P1;Hyménoptères;Lasius emarginatus;1
+PULMA;2019;Transect arthropodes P1;Hyménoptères;Lasius emarginatus;1
+SIBUET;2019;Transect arthropodes P1;Hyménoptères;Lasius emarginatus;1
+PULMA;2019;Transect arthropodes P2;Hyménoptères;Lasius emarginatus;1
+ROROL;2017;Transect arthropode Session 2;Hymenoptera;Lasius;1
+RUWAT;2017;Transect arthropode Session 2;Hymenoptera;Lasius;1
+FONTA;2018;Transect arthropode Session 1;Hymenoptera;Lasius;1
+LUAUB;2017;Transect arthropode Session 1;Lepidoptera;Lasiommata maera;1
+ROROL;2017;Transect arthropode Session 1;Lepidoptera;Lasiommata maera;1
+PROMA;2017;Transect arthropode Session 1;Lepidoptera;Lasiommata maera;1
+ROROL;2018;Transect arthropode Session 1;Lepidoptera;Lasiommata maera;1
+CHAVIN;2018;Transect arthropode Session 2;Lepidoptera;Lasiommata maera;1
+CARON;2019;Transect arthropodes P1;Hyménoptères;Lasioglossum villosulum;1
+MOZIN_AVEC_GESTION;2019;Transect arthropodes P1;Hyménoptères;Lasioglossum sexstrigatum;1
+CD93;2019;Transect arthropodes P2;Hyménoptères;Lasioglossum quadrinotatum;1
+PROMA;2019;Transect arthropodes P2;Hyménoptères;Lasioglossum quadrinotatum;1
+PULMA;2019;Transect arthropodes P2;Hyménoptères;Lasioglossum quadrinotatum;1
+GTMBA;2017;Transect arthropode Session 2;Hymenoptera;Lasioglossum puncticolle;1
+CD93;2019;Transect arthropodes P1;Hyménoptères;Lasioglossum punctatissimum;1
+MECHO;2017;Transect arthropode Session 2;Hymenoptera;Lasioglossum prasinum;1
+ECOBIO_PRAIRIE;2019;Transect arthropodes P2;Hyménoptères;Lasioglossum politum;1
+CHAVIN;2017;Transect arthropode Session 1;Hymenoptera;Lasioglossum pauxillum;1
+FRANK;2017;Transect arthropode Session 2;Hymenoptera;Lasioglossum pauxillum;1
+GOOPL;2018;Transect arthropode Session 1;Hymenoptera;Lasioglossum pauxillum;1
+CHAVIN;2018;Transect arthropode Session 2;Hymenoptera;Lasioglossum pallens;1
+OLSER;2019;Transect arthropodes P2;Hyménoptères;Lasioglossum pallens;1
+EIDER;2017;Transect arthropode Session 1;Hymenoptera;Lasioglossum morio;1
+OLSER;2017;Transect arthropode Session 1;Hymenoptera;Lasioglossum morio;1
+BOUCHA;2017;Transect arthropode Session 1;Hymenoptera;Lasioglossum morio;1
+FRANK;2017;Transect arthropode Session 1;Hymenoptera;Lasioglossum morio;1
+CHAVIN;2017;Transect arthropode Session 1;Hymenoptera;Lasioglossum morio;1
+PAREX;2017;Transect arthropode Session 2;Hymenoptera;Lasioglossum morio;1
+CIROB;2017;Transect arthropode Session 2;Hymenoptera;Lasioglossum morio;1
+FRANK;2017;Transect arthropode Session 2;Hymenoptera;Lasioglossum morio;1
+CHAVIN;2017;Transect arthropode Session 2;Hymenoptera;Lasioglossum morio;1
+MOZIN_SANS_GESTION;2017;Transect arthropode Session 2;Hymenoptera;Lasioglossum morio;1
+FONTA;2017;Transect arthropode Session 2;Hymenoptera;Lasioglossum morio;1
+OLSER;2017;Transect arthropode Session 2;Hymenoptera;Lasioglossum morio;1
+SIBUET;2017;Transect arthropode Session 2;Hymenoptera;Lasioglossum morio;1
+RUWAT;2018;Transect arthropode Session 1;Hymenoptera;Lasioglossum morio;1
+CARON;2018;Transect arthropode Session 1;Hymenoptera;Lasioglossum morio;1
+PAREX;2018;Transect arthropode Session 1;Hymenoptera;Lasioglossum morio;1
+PROMA;2018;Transect arthropode Session 1;Hymenoptera;Lasioglossum morio;1
+ECOBIO_PRAIRIE;2018;Transect arthropode Session 1;Hymenoptera;Lasioglossum morio;1
+GOOPL;2018;Transect arthropode Session 1;Hymenoptera;Lasioglossum morio;1
+SIBUET;2018;Transect arthropode Session 1;Hymenoptera;Lasioglossum morio;1
+FRANK;2018;Transect arthropode Session 1;Hymenoptera;Lasioglossum morio;1
+PERIS;2018;Transect arthropode Session 1;Hymenoptera;Lasioglossum morio;1
+CD93;2018;Transect arthropode Session 2;Hymenoptera;Lasioglossum morio;1
+FAUTEM;2018;Transect arthropode Session 2;Hymenoptera;Lasioglossum morio;1
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 2;Hymenoptera;Lasioglossum morio;1
+CD93;2019;Transect arthropodes P1;Hyménoptères;Lasioglossum morio;1
+EIDER;2019;Transect arthropodes P2;Hyménoptères;Lasioglossum morio;1
+OLSER;2019;Transect arthropodes P2;Hyménoptères;Lasioglossum morio;1
+PULMA;2017;Transect arthropode Session 2;Hymenoptera;Lasioglossum minutissimum;1
+CIROB;2017;Transect arthropode Session 1;Hymenoptera;Lasioglossum malachurum;1
+PAREX;2017;Transect arthropode Session 2;Hymenoptera;Lasioglossum malachurum;1
+CIROB;2017;Transect arthropode Session 2;Hymenoptera;Lasioglossum malachurum;1
+OLSER;2017;Transect arthropode Session 2;Hymenoptera;Lasioglossum malachurum;1
+PROMA;2018;Transect arthropode Session 1;Hymenoptera;Lasioglossum malachurum;1
+OLSER;2017;Transect arthropode Session 1;Hymenoptera;Lasioglossum leucozonium;1
+FRANK;2017;Transect arthropode Session 1;Hymenoptera;Lasioglossum leucozonium;1
+CHAVIN;2017;Transect arthropode Session 1;Hymenoptera;Lasioglossum leucozonium;1
+ECOBIO_BOIS;2018;Transect arthropode Session 2;Hymenoptera;Lasioglossum leucozonium;1
+ROROL;2018;Transect arthropode Session 2;Hymenoptera;Lasioglossum leucozonium;1
+FRANK;2018;Transect arthropode Session 2;Hymenoptera;Lasioglossum leucozonium;1
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 2;Hymenoptera;Lasioglossum leucozonium;1
+PROMA;2018;Transect arthropode Session 2;Hymenoptera;Lasioglossum leucozonium;1
+CIROB;2019;Transect arthropodes P1;Hyménoptères;Lasioglossum leucozonium;1
+AMROU;2019;Transect arthropodes P2;Hyménoptères;Lasioglossum leucozonium;1
+CIROB;2019;Transect arthropodes P2;Hyménoptères;Lasioglossum leucozonium;1
+MOZIN_SANS_GESTION;2019;Transect arthropodes P2;Hyménoptères;Lasioglossum leucozonium;1
+FRANK;2017;Transect arthropode Session 1;Hymenoptera;Lasioglossum leucopus;1
+CIROB;2017;Transect arthropode Session 2;Hymenoptera;Lasioglossum leucopus;1
+FRANK;2017;Transect arthropode Session 2;Hymenoptera;Lasioglossum leucopus;1
+CHAVIN;2017;Transect arthropode Session 2;Hymenoptera;Lasioglossum leucopus;1
+MOZIN_SANS_GESTION;2017;Transect arthropode Session 2;Hymenoptera;Lasioglossum leucopus;1
+GOOPL;2017;Transect arthropode Session 2;Hymenoptera;Lasioglossum leucopus;1
+CHAVIN;2017;Transect arthropode Session 2;Hymenoptera;Lasioglossum laticeps;1
+KELLER;2019;Transect arthropodes P1;Hyménoptères;Lasioglossum laticeps;1
+GOOPL;2019;Transect arthropodes P2;Hyménoptères;Lasioglossum laticeps;1
+GTMBA;2019;Transect arthropodes P2;Hyménoptères;Lasioglossum laticeps;1
+PERIS;2019;Transect arthropodes P2;Hyménoptères;Lasioglossum laticeps;1
+CHAVIN;2017;Transect arthropode Session 2;Hymenoptera;Lasioglossum fulvicorne;1
+GOOPL;2017;Transect arthropode Session 2;Hymenoptera;Lasioglossum fulvicorne;1
+ALBAR;2017;Transect arthropode Session 2;Hymenoptera;Lasioglossum calceatum;1
+CIMOD;2017;Transect arthropode Session 2;Hymenoptera;Lasioglossum albipes;1
+SEINE;2018;Transect arthropode Session 2;Hymenoptera;Lasioglossum albipes;1
+PROMA;2019;Transect arthropodes P2;Hyménoptères;Lasioglossum albipes;1
+OLSER;2017;Transect arthropode Session 2;Hymenoptera;Lasioglossum;1
+OLSER;2017;Transect arthropode Session 2;Arachnida;Larinioides;1
+MUENT;2017;Transect arthropode Session 2;Arachnida;Larinioides;1
+LUAUB;2019;Transect arthropodes P1;Chilopodes;Lamyctes emarginatus;1
+GTMBA;2019;Transect arthropodes P2;Chilopodes;Lamyctes emarginatus;1
+OLSER;2018;Transect arthropode Session 2;Heteroptera;Kleidocerys resedae;1
+CIROB;2019;Transect arthropodes P1;Hétéroptères;Kleidocerys resedae;1
+SEINE;2019;Transect arthropodes P1;Hétéroptères;Kleidocerys resedae;1
+ECOBIO_PRAIRIE;2017;Transect arthropode Session 1;Homoptera;Javesella pellucida;1
+KELLER;2019;Transect arthropodes P1;Homoptères;Javesella pellucida;1
+LUAUB;2019;Transect arthropodes P2;Homoptères;Javesella pellucida;1
+CIROB;2019;Transect arthropodes P2;Homoptères;Issus coleoptratus;1
+CHAVIN;2017;Transect arthropode Session 2;Hymenoptera;Isodontia mexicana;1
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 2;Hymenoptera;Isodontia mexicana;1
+GOOPL;2017;Transect arthropode Session 2;Odonata;Ischnura elegans;1
+SEINE;2018;Transect arthropode Session 2;Odonata;Ischnura;1
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 2;Heteroptera;Ischnocoris angustulus;1
+KELLER;2019;Transect arthropodes P1;Hétéroptères;Ischnocoris angustulus;1
+MECHO;2018;Transect arthropode Session 2;Arachnida;Icius;1
+ECOBIO_PRAIRIE;2019;Transect arthropodes P1;Hyménoptères;Hypoponera punctatissima;1
+CIROB;2017;Transect arthropode Session 2;Hymenoptera;Hypoponera eduardi;1
+EIDER;2017;Plaques;Hymenoptera;Hypoponera eduardi;1
+AMROU;2017;Transect arthropode Session 2;Hymenoptera;Hypoponera eduardi;1
+GOOPL;2018;Transect arthropode Session 1;Hymenoptera;Hypoponera eduardi;1
+ROROL;2018;Transect arthropode Session 2;Hymenoptera;Hypoponera eduardi;1
+FAUTEM;2018;Transect arthropode Session 2;Hymenoptera;Hypoponera eduardi;1
+CARON;2018;Plaques;Hymenoptera;Hypoponera eduardi;1
+WWF;2018;Transect arthropode Session 2;Hymenoptera;Hypoponera eduardi;1
+WWF;2018;Plaques;Hymenoptera;Hypoponera eduardi;1
+AMROU;2018;Transect arthropode Session 2;Hymenoptera;Hypoponera eduardi;1
+CHAVIN;2017;Transect arthropode Session 2;Hymenoptera;Hylaeus punctulatissimus;1
+OLSER;2017;Transect arthropode Session 2;Hymenoptera;Hylaeus punctulatissimus;1
+AMROU;2019;Transect arthropodes P2;Hyménoptères;Hylaeus punctulatissimus;1
+SEINE;2019;Transect arthropodes P2;Hyménoptères;Hylaeus punctulatissimus;1
+CIMOD;2018;Transect arthropode Session 1;Hymenoptera;Hylaeus hyalinatus;1
+AMROU;2018;Transect arthropode Session 1;Hymenoptera;Hylaeus hyalinatus;1
+GOOPL;2018;Transect arthropode Session 1;Hymenoptera;Hylaeus hyalinatus;1
+PERIS;2018;Transect arthropode Session 1;Hymenoptera;Hylaeus hyalinatus;1
+PULMA;2019;Transect arthropodes P2;Hyménoptères;Hylaeus confusus;1
+GOOPL;2019;Transect arthropodes P2;Hyménoptères;Hylaeus communis;1
+CHAVIN;2017;Transect arthropode Session 2;Hymenoptera;Hylaeus;1
+AMROU;2019;Transect arthropodes P2;Hyménoptères;Hylaeus;1
+GTMBA;2019;Transect arthropodes P2;Hyménoptères;Hylaeus;1
+BOUHOP;2017;Transect arthropode Session 2;Mollusca;Hygromia cinctella;1
+AMROU;2017;Transect arthropode Session 1;Hymenoptera;Hoplocryptus femoralis;1
+CD93;2018;Transect arthropode Session 1;Hymenoptera;Hoplitis leucomelana;1
+ECOBIO_PRAIRIE;2017;Transect arthropode Session 1;Hymenoptera;Holopyga amoenula;1
+FONTA;2017;Transect arthropode Session 2;Coleoptera;Hirticollis hispidus;1
+ECOBIO_PRAIRIE;2017;Transect arthropode Session 2;Coleoptera;Hirticollis hispidus;1
+GTMBA;2018;Transect arthropode Session 1;Coleoptera;Hirticollis hispidus;1
+ECOBIO_PRAIRIE;2018;Transect arthropode Session 1;Coleoptera;Hirticollis hispidus;1
+GOOPL;2018;Transect arthropode Session 2;Coleoptera;Hirticollis hispidus;1
+MOZIN_SANS_GESTION;2017;Transect arthropode Session 1;Coleoptera;Hippodamia variegata;1
+BOUTOU;2017;Transect arthropode Session 1;Coleoptera;Hippodamia variegata;1
+CHAVIN;2017;Transect arthropode Session 1;Coleoptera;Hippodamia variegata;1
+MOZIN_SANS_GESTION;2017;Transect arthropode Session 2;Coleoptera;Hippodamia variegata;1
+CIMOD;2018;Transect arthropode Session 1;Coleoptera;Hippodamia variegata;1
+MOZIN_AVEC_GESTION;2018;Transect arthropode Session 1;Coleoptera;Hippodamia variegata;1
+CIROB;2018;Transect arthropode Session 2;Coleoptera;Hippodamia variegata;1
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 2;Coleoptera;Hippodamia variegata;1
+MECHO;2018;Transect arthropode Session 2;Coleoptera;Hippodamia variegata;1
+MECHO;2019;Transect arthropodes P1;Coléoptères;Hippodamia variegata;1
+MOZIN_SANS_GESTION;2019;Transect arthropodes P1;Coléoptères;Hippodamia variegata;1
+FRANK;2019;Transect arthropodes P2;Coléoptères;Hippodamia variegata;1
+GTMBA WILD;2019;Transect arthropodes P2;Coléoptères;Hippodamia variegata;1
+MUENT;2019;Transect arthropodes P2;Coléoptères;Hippodamia variegata;1
+PULMA;2019;Transect arthropodes P2;Coléoptères;Hippodamia variegata;1
+BOUHOP;2017;Transect arthropode Session 2;Heteroptera;Himacerus mirmicoides;1
+BOUTOU;2018;Transect arthropode Session 1;Heteroptera;Himacerus mirmicoides;1
+CD93;2018;Transect arthropode Session 1;Heteroptera;Himacerus mirmicoides;1
+GRENEL;2018;Transect arthropode Session 2;Heteroptera;Himacerus mirmicoides;1
+CIROB;2019;Transect arthropodes P1;Hétéroptères;Himacerus mirmicoides;1
+OLSER;2019;Transect arthropodes P1;Hétéroptères;Himacerus mirmicoides;1
+ECOBIO_BOIS;2017;Transect arthropode Session 2;Heteroptera;Heterotoma planicornis;1
+ECOBIO_BOIS;2018;Transect arthropode Session 1;Heteroptera;Heterotoma planicornis;1
+ECOBIO_BOIS;2018;Transect arthropode Session 2;Heteroptera;Heterotoma planicornis;1
+ECOBIO_BOIS;2019;Transect arthropodes P2;Hétéroptères;Heterotoma;1
+BOUTOU;2018;Transect arthropode Session 1;Heteroptera;Heterogaster artemisiae;1
+BOUTOU;2019;Transect arthropodes P1;Hétéroptères;Heterogaster artemisiae;1
+EIDER;2017;Plaques;Diptera;Hermetia illucens;1
+FRANK;2018;Transect arthropode Session 1;Hymenoptera;Heriades truncorum;1
+WWF;2017;Transect arthropode Session 1;Mollusca;Helix lucorum;1
+AMROU;2019;Transect arthropodes P1;Mollusqua;Helix aspersa;1
+RUWAT;2017;Transect arthropode Session 1;Arachnida;Heliophanus tribulosus;1
+BOUCHA;2017;Transect arthropode Session 1;Arachnida;Heliophanus tribulosus;1
+MECHO;2017;Transect arthropode Session 1;Arachnida;Heliophanus tribulosus;1
+CIROB;2017;Transect arthropode Session 1;Arachnida;Heliophanus tribulosus;1
+PULMA;2017;Transect arthropode Session 1;Arachnida;Heliophanus tribulosus;1
+CHAVIN;2017;Transect arthropode Session 1;Arachnida;Heliophanus tribulosus;1
+FAUTEM;2018;Transect arthropode Session 1;Arachnida;Heliophanus tribulosus;1
+RUWAT;2018;Transect arthropode Session 1;Arachnida;Heliophanus tribulosus;1
+PROMA;2018;Transect arthropode Session 1;Arachnida;Heliophanus tribulosus;1
+SIBUET;2018;Transect arthropode Session 1;Arachnida;Heliophanus tribulosus;1
+CIROB;2018;Transect arthropode Session 1;Arachnida;Heliophanus tribulosus;1
+ROROL;2018;Transect arthropode Session 2;Arachnida;Heliophanus tribulosus;1
+CHAVIN;2018;Transect arthropode Session 2;Arachnida;Heliophanus tribulosus;1
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 2;Arachnida;Heliophanus tribulosus;1
+ANTHEU;2019;Transect arthropodes P1;Araneae;Heliophanus tribulosus;1
+CD93;2019;Transect arthropodes P1;Araneae;Heliophanus tribulosus;1
+KELLER;2019;Transect arthropodes P1;Araneae;Heliophanus tribulosus;1
+SIBUET;2019;Transect arthropodes P1;Araneae;Heliophanus tribulosus;1
+ANTHEU;2019;Transect arthropodes P2;Araneae;Heliophanus tribulosus;1
+MECHO;2019;Transect arthropodes P2;Araneae;Heliophanus tribulosus;1
+PERIS;2019;Transect arthropodes P2;Araneae;Heliophanus tribulosus;1
+MECHO;2019;Transect arthropodes P1;Araneae;Heliophanus kochii;1
+CHAVIN;2019;Transect arthropodes P1;Araneae;Heliophanus cupreus ;1
+CIROB;2019;Transect arthropodes P2;Araneae;Heliophanus cupreus ;1
+GOOPL;2019;Transect arthropodes P2;Araneae;Heliophanus cupreus ;1
+WWF;2017;Transect arthropode Session 1;Arachnida;Heliophanus cupreus;1
+LUAUB;2017;Transect arthropode Session 1;Arachnida;Heliophanus auratus;1
+CD93;2018;Transect arthropode Session 2;Arachnida;Heliophanus auratus;1
+FRANK;2018;Transect arthropode Session 2;Arachnida;Heliophanus auratus;1
+MECHO;2018;Transect arthropode Session 2;Arachnida;Heliophanus auratus;1
+CIROB;2017;Transect arthropode Session 1;Arachnida;Heliophanus;1
+GTMBA;2017;Transect arthropode Session 1;Arachnida;Heliophanus;1
+FRANK;2017;Transect arthropode Session 2;Arachnida;Heliophanus;1
+OLSER;2017;Transect arthropode Session 2;Arachnida;Heliophanus;1
+CIMOD;2017;Transect arthropode Session 2;Arachnida;Heliophanus;1
+CIMOD;2018;Transect arthropode Session 2;Arachnida;Heliophanus;1
+CIROB;2018;Transect arthropode Session 2;Arachnida;Heliophanus;1
+MECHO;2018;Plaques;Arachnida;Heliophanus;1
+PAREX;2019;Transect arthropodes P1;Araneae;Heliophanus;1
+SIBUET;2019;Transect arthropodes P1;Araneae;Heliophanus;1
+WWF;2019;Transect arthropodes P1;Araneae;Heliophanus;1
+AMROU;2019;Transect arthropodes P2;Araneae;Heliophanus;1
+MOZIN_SANS_GESTION;2019;Transect arthropodes P2;Araneae;Heliophanus;1
+PAREX;2019;Transect arthropodes P2;Araneae;Heliophanus;1
+WWF;2019;Transect arthropodes P2;Araneae;Heliophanus;1
+MOZIN_AVEC_GESTION;2019;Transect arthropodes P1;Coléoptères;Harpalus tardus;1
+MOZIN_SANS_GESTION;2019;Transect arthropodes P2;Coléoptères;Harpalus anxius;1
+MOZIN_AVEC_GESTION;2019;Transect arthropodes P1;Coléoptères;Harpalus affinis;1
+GOOPL;2019;Transect arthropodes P2;Coléoptères;Harpalus affinis;1
+GTMBA;2017;Transect arthropode Session 2;Coleoptera;Harpalus;1
+EIDER;2018;Transect arthropode Session 2;Coleoptera;Harpalus;1
+GTMBA;2018;Transect arthropode Session 2;Coleoptera;Harpalus;1
+FRANK;2018;Transect arthropode Session 1;Hymenoptera;Harpactus;1
+CIROB;2017;Transect arthropode Session 1;Coleoptera;Harmonia axyridis;1
+ALBAR;2018;Transect arthropode Session 1;Coleoptera;Harmonia axyridis;1
+ECOBIO_BOIS;2018;Transect arthropode Session 1;Coleoptera;Harmonia axyridis;1
+CHAVIN;2018;Transect arthropode Session 2;Coleoptera;Harmonia axyridis;1
+GTMBA;2019;Transect arthropodes P1;Coléoptères;Harmonia axyridis;1
+SEINE;2019;Transect arthropodes P1;Coléoptères;Harmonia axyridis;1
+OLSER;2018;Transect arthropode Session 1;Heteroptera;Halyomorpha halys;1
+ABRON;2017;Transect arthropode Session 2;Heteroptera;Halticus macrocephalus;1
+EIDER;2017;Transect arthropode Session 2;Heteroptera;Halticus macrocephalus;1
+GTMBA;2017;Transect arthropode Session 1;Hymenoptera;Halictus tumulorum;1
+CD93;2019;Transect arthropodes P2;Hyménoptères;Halictus tumulorum;1
+GTMBA;2017;Transect arthropode Session 1;Hymenoptera;Halictus subauratus;1
+RUWAT;2018;Transect arthropode Session 1;Hymenoptera;Halictus subauratus;1
+MECHO;2018;Transect arthropode Session 2;Hymenoptera;Halictus subauratus;1
+MOZIN_SANS_GESTION;2019;Transect arthropodes P2;Hyménoptères;Halictus smaragdulus;1
+MOZIN_SANS_GESTION;2019;Transect arthropodes P2;Hyménoptères;Halictus sexigastrum;1
+GTMBA;2017;Transect arthropode Session 1;Hymenoptera;Halictus maculatus;1
+LUAUB;2018;Transect arthropode Session 1;Hymenoptera;Halictus compressus;1
+MECHO;2018;Transect arthropode Session 1;Hymenoptera;Halictus;1
+PROMA;2018;Transect arthropode Session 2;Hymenoptera;Halictus;1
+AMROU;2019;Transect arthropodes P2;Hyménoptères;Halictus;1
+CHAVIN;2018;Transect arthropode Session 2;Diptera;Gymnosoma nitens;1
+GTMBA;2019;Transect arthropodes P1;Diptères;Gymnosoma;1
+GOOPL;2017;Transect arthropode Session 1;Heteroptera;Graphosoma italicum;1
+GOOPL;2018;Transect arthropode Session 1;Heteroptera;Graphosoma italicum;1
+OLSER;2018;Transect arthropode Session 1;Heteroptera;Graphosoma italicum;1
+GOOPL;2018;Transect arthropode Session 2;Heteroptera;Graphosoma italicum;1
+CHAVIN;2018;Transect arthropode Session 2;Heteroptera;Graphosoma italicum;1
+SIBUET;2019;Transect arthropodes P2;Hyménoptères;Gonatopus formicarius;1
+MOZIN_AVEC_GESTION;2018;Transect arthropode Session 2;Heteroptera;Geotomus punctulatus;1
+PAREX;2019;Transect arthropodes P1;Hétéroptères;Geocoris megacephalus;1
+GTMBA;2017;Transect arthropode Session 2;Heteroptera;Geocoris erythrocephalus;1
+GTMBA;2018;Transect arthropode Session 2;Heteroptera;Geocoris erythrocephalus;1
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 2;Heteroptera;Geocoris erythrocephalus;1
+PERIS;2019;Transect arthropodes P2;Hétéroptères;Geocoris ;1
+PAREX;2018;Transect arthropode Session 1;Hymenoptera;Gelis;1
+ECOBIO_PRAIRIE;2018;Transect arthropode Session 2;Hymenoptera;Gasteruption;1
+WWF;2017;Transect arthropode Session 1;Hymenoptera;Formica pyrenaea;1
+WWF;2018;Transect arthropode Session 1;Hymenoptera;Formica pyrenaea;1
+GTMBA;2018;Transect arthropode Session 1;Hymenoptera;Formica fusca;1
+CD93;2019;Transect arthropodes P1;Hyménoptères;Formica fusca;1
+CHAVIN;2017;Transect arthropode Session 2;Hymenoptera;Formica cunicularia;1
+LUAUB;2018;Transect arthropode Session 1;Hymenoptera;Formica cunicularia;1
+GTMBA;2018;Transect arthropode Session 2;Hymenoptera;Formica cunicularia;1
+CHAVIN;2018;Transect arthropode Session 2;Hymenoptera;Formica cunicularia;1
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 2;Hymenoptera;Formica cunicularia;1
+MOZIN_SANS_GESTION;2017;Transect arthropode Session 1;Dermaptera;Forficula auricularia;1
+PROMA;2017;Transect arthropode Session 2;Dermaptera;Forficula auricularia;1
+MOZIN_SANS_GESTION;2017;Plaques;Dermaptera;Forficula auricularia;1
+GRENEL;2018;Transect arthropode Session 1;Dermaptera;Forficula auricularia;1
+PULMA;2018;Transect arthropode Session 2;Dermaptera;Forficula auricularia;1
+GRENEL;2018;Transect arthropode Session 2;Dermaptera;Forficula auricularia;1
+GOOPL;2019;Transect arthropodes P2;Dermaptères;Forficula auricularia;1
+GTMBA;2019;Transect arthropodes P2;Dermaptères;Forficula auricularia;1
+PAREX;2019;Transect arthropodes P2;Diptères;Fannia canicularis;1
+MOZIN_SANS_GESTION;2017;Plaques;Heteroptera;Eysarcoris ventralis;1
+ECOBIO_BOIS;2017;Transect arthropode Session 1;Coleoptera;Exomias pellucidus;1
+MOZIN_SANS_GESTION;2019;Transect arthropodes P1;Diptères;Euthycera chaerophylli;1
+FRANK;2017;Transect arthropode Session 1;Heteroptera;Eurydema;1
+ALBAR;2019;Transect arthropodes P1;Homoptères;Eupteryx decemnotata ;1
+KELLER;2019;Transect arthropodes P2;Homoptères;Eupteryx decemnotata ;1
+FAUTEM;2018;Transect arthropode Session 1;Homoptera;Eupteryx;1
+CHAVIN;2018;Transect arthropode Session 1;Lepidoptera;Eupithecia satyrata;1
+EIDER;2017;Transect arthropode Session 1;Diptera;Eupeodes luniger;1
+OLSER;2017;Transect arthropode Session 1;Diptera;Eupeodes luniger;1
+OLSER;2017;Transect arthropode Session 1;Diptera;Eupeodes luniger;1
+ROROL;2017;Transect arthropode Session 1;Diptera;Eupeodes luniger;1
+FAUTEM;2018;Transect arthropode Session 1;Diptera;Eupeodes luniger;1
+GTMBA;2019;Transect arthropodes P1;Diptères;Eupeodes luniger;1
+PULMA;2019;Transect arthropodes P1;Diptères;Eupeodes luniger;1
+FAUTEM;2017;Transect arthropode Session 1;Diptera;Eupeodes corollae;1
+GOOPL;2017;Transect arthropode Session 2;Diptera;Eupeodes corollae;1
+ALBAR;2019;Transect arthropodes P1;Diptères;Eupeodes corollae;1
+OLSER;2019;Transect arthropodes P1;Diptères;Eupeodes corollae;1
+RUWAT;2018;Transect arthropode Session 1;Diptera;Eupeodes;1
+ECOBIO_PRAIRIE;2018;Transect arthropode Session 2;Hymenoptera;Eupelmus;1
+ECOBIO_PRAIRIE;2017;Transect arthropode Session 1;Homoptera;Eupelix cuspidata;1
+CIMOD;2018;Transect arthropode Session 1;Homoptera;Eupelix cuspidata;1
+SEINE;2019;Transect arthropodes P2;Homoptères;Eupelix cuspidata;1
+BOUTOU;2018;Transect arthropode Session 2;Arachnida;Euophrys frontalis;1
+GRENEL;2019;Transect arthropodes P1;Araneae;Euophrys frontalis;1
+KELLER;2019;Transect arthropodes P1;Araneae;Euophrys ;1
+FAUTEM;2019;Transect arthropodes P2;Araneae;Euophrys ;1
+GTMBA WILD;2019;Transect arthropodes P2;Araneae;Euophrys ;1
+ANTHEU;2019;Transect arthropodes P1;Araneae;Euophrys;1
+GOOPL;2019;Transect arthropodes P1;Araneae;Euophrys;1
+PERIS;2019;Transect arthropodes P2;Araneae;Euophrys;1
+PROMA;2019;Transect arthropodes P2;Araneae;Euophrys;1
+SEINE;2018;Transect arthropode Session 1;Orthoptera;Eumodicogryllus bordigalensis;1
+GTMBA;2017;Transect arthropode Session 2;Orthoptera;Euchorthippus declivus;1
+FAUTEM;2018;Plaques;Dermaptera;Euborellia annulipes;1
+CIMOD;2017;Transect arthropode Session 2;Diptera;Eristalis tenax;1
+CARON;2019;Transect arthropodes P1;Araneae;Erigone atra;1
+AMROU;2018;Transect arthropode Session 1;Arachnida;Eratigena atrica;1
+FAUTEM;2017;Transect arthropode Session 1;Hymenoptera;Epyris;1
+OLSER;2017;Transect arthropode Session 1;Diptera;Episyrphus balteatus;1
+FRANK;2017;Transect arthropode Session 2;Diptera;Episyrphus balteatus;1
+MOZIN_SANS_GESTION;2017;Transect arthropode Session 2;Diptera;Episyrphus balteatus;1
+OLSER;2017;Transect arthropode Session 1;Diptera;Epistrophe nitidicollis;1
+ECOBIO_PRAIRIE;2019;Transect arthropodes P1;Ephemeroptera;Ephemera;1
+PULMA;2017;Transect arthropode Session 1;Arachnida;Enoplognatha thoracica;1
+EIDER;2017;Transect arthropode Session 2;Arachnida;Enoplognatha thoracica;1
+WWF;2017;Transect arthropode Session 1;Arachnida;Enoplognatha ovata;1
+GTMBA;2017;Transect arthropode Session 1;Arachnida;Enoplognatha ovata;1
+CHAVIN;2017;Transect arthropode Session 2;Arachnida;Enoplognatha ovata;1
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 2;Arachnida;Enoplognatha ovata;1
+ECOBIO_PRAIRIE;2017;Transect arthropode Session 1;Arachnida;Enoplognatha mordax;1
+ECOBIO_PRAIRIE;2017;Transect arthropode Session 2;Arachnida;Enoplognatha latimana;1
+EIDER;2017;Transect arthropode Session 1;Arachnida;Enoplognatha;1
+ECOBIO_PRAIRIE;2017;Transect arthropode Session 1;Arachnida;Enoplognatha;1
+MOZIN_SANS_GESTION;2017;Transect arthropode Session 1;Arachnida;Enoplognatha;1
+FONTA;2019;Transect arthropodes P2;Araneae;Enoplognatha;1
+GTMBA;2018;Transect arthropode Session 1;Odonata;Enallagma;1
+FAUTEM;2017;Transect arthropode Session 2;Heteroptera;Empicoris;1
+MECHO;2017;Transect arthropode Session 1;Heteroptera;Emblethis verbasci;1
+MOZIN_SANS_GESTION;2017;Transect arthropode Session 1;Heteroptera;Emblethis griseus;1
+PULMA;2019;Transect arthropodes P2;Hétéroptères;Emblethis griseus;1
+CHAVIN;2017;Transect arthropode Session 1;Heteroptera;Emblethis;1
+MECHO;2017;Transect arthropode Session 2;Heteroptera;Emblethis;1
+ROROL;2018;Transect arthropode Session 1;Heteroptera;Emblethis;1
+GTMBA;2018;Transect arthropode Session 2;Heteroptera;Emblethis;1
+MOZIN_AVEC_GESTION;2019;Transect arthropodes P1;Hétéroptères;Emblethis;1
+WWF;2019;Transect arthropodes P1;Hétéroptères;Emblethis;1
+FONTA;2018;Transect arthropode Session 1;Homoptera;Elymana sulphurella;1
+PULMA;2019;Transect arthropodes P1;Hyménoptères;Elampus panzeri;1
+EIDER;2019;Transect arthropodes P2;Hyménoptères;Elampus panzeri;1
+ALBAR;2019;Transect arthropodes P1;Psocoptère;Ectopsocus petersi;1
+EIDER;2017;Transect arthropode Session 1;Blattoptera;Ectobius vinzi;1
+PAREX;2017;Transect arthropode Session 1;Blattoptera;Ectobius vinzi;1
+ABRON;2017;Transect arthropode Session 2;Blattoptera;Ectobius vinzi;1
+WWF;2018;Transect arthropode Session 1;Blattoptera;Ectobius vinzi;1
+GOOPL;2018;Transect arthropode Session 1;Blattoptera;Ectobius vinzi;1
+GOOPL;2018;Transect arthropode Session 2;Blattoptera;Ectobius vinzi;1
+AMROU;2019;Transect arthropodes P1;Blattoptères;Ectobius vinzi;1
+CD93;2019;Transect arthropodes P1;Dictyoptères;Ectobius vinzi;1
+GRENEL;2019;Transect arthropodes P1;Dictyoptères;Ectobius vinzi;1
+PAREX;2019;Transect arthropodes P1;Blattoptères;Ectobius vinzi;1
+CIROB;2019;Transect arthropodes P2;Dictyoptères;Ectobius vinzi;1
+GOOPL;2019;Transect arthropodes P2;Blattoptères;Ectobius vinzi;1
+WWF;2017;Transect arthropode Session 1;Blattoptera;Ectobius;1
+AMROU;2017;Transect arthropode Session 2;Blattoptera;Ectobius;1
+EIDER;2018;Transect arthropode Session 1;Blattoptera;Ectobius;1
+AMROU;2018;Transect arthropode Session 1;Blattoptera;Ectobius;1
+LUAUB;2018;Transect arthropode Session 1;Blattoptera;Ectobius;1
+PAREX;2018;Transect arthropode Session 1;Blattoptera;Ectobius;1
+GTMBA;2018;Transect arthropode Session 1;Blattoptera;Ectobius;1
+PAREX;2018;Transect arthropode Session 2;Blattoptera;Ectobius;1
+RUWAT;2018;Transect arthropode Session 1;Hymenoptera;Ectemnius;1
+CHAVIN;2018;Plaques;Arachnida;Dysdera;1
+CIROB;2018;Transect arthropode Session 2;Arachnida;Dysdera;1
+ABRON;2017;Transect arthropode Session 1;Diptera;Drosophila;1
+ECOBIO_PRAIRIE;2017;Transect arthropode Session 1;Heteroptera;Dolycoris baccarum;1
+MOZIN_SANS_GESTION;2017;Transect arthropode Session 1;Heteroptera;Dolycoris baccarum;1
+CIROB;2017;Transect arthropode Session 1;Heteroptera;Dolycoris baccarum;1
+GTMBA;2017;Transect arthropode Session 1;Heteroptera;Dolycoris baccarum;1
+MOZIN_AVEC_GESTION;2018;Transect arthropode Session 1;Heteroptera;Dolycoris baccarum;1
+MOZIN_AVEC_GESTION;2019;Transect arthropodes P1;Hétéroptères;Dolychoris baccarum;1
+MOZIN_AVEC_GESTION;2019;Transect arthropodes P1;Hétéroptères;Dolychoris baccarum;1
+EIDER;2018;Transect arthropode Session 2;Diptera;Dolichopus;1
+KELLER;2019;Transect arthropodes P1;Diptères;Dioxyna bidentis;1
+CD93;2019;Transect arthropodes P1;Diptères;Dioctria hyalipennis;1
+FAUTEM;2017;Transect arthropode Session 1;Heteroptera;Dicyphus;1
+OLSER;2017;Transect arthropode Session 2;Heteroptera;Dicyphus;1
+EIDER;2018;Transect arthropode Session 1;Heteroptera;Dicyphus;1
+FRANK;2018;Transect arthropode Session 1;Heteroptera;Dicyphus;1
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 2;Heteroptera;Dicyphus;1
+EIDER;2019;Transect arthropodes P2;Hétéroptères;Dicyphus;1
+MECHO;2018;Transect arthropode Session 1;Heteroptera;Dictyla echii;1
+ECOBIO_PRAIRIE;2018;Transect arthropode Session 2;Homoptera;Dicranotropis hamata;1
+EIDER;2019;Transect arthropodes P1;Homoptères;Dicranotropis hamata;1
+FAUTEM;2018;Transect arthropode Session 1;Coleoptera;Dermestes;1
+WWF;2018;Transect arthropode Session 1;Heteroptera;Deraeocoris ruber;1
+GOOPL;2019;Transect arthropodes P2;Hétéroptères;Deraeocoris ruber;1
+ECOBIO_BOIS;2017;Transect arthropode Session 2;Coleoptera;Demetrias atricapillus;1
+FAUTEM;2018;Transect arthropode Session 1;Diptera;Delia platura;1
+RUWAT;2018;Transect arthropode Session 1;Diptera;Delia platura;1
+AMROU;2018;Transect arthropode Session 1;Diptera;Delia platura;1
+FONTA;2018;Transect arthropode Session 1;Diptera;Delia platura;1
+GTMBA;2018;Transect arthropode Session 1;Diptera;Delia platura;1
+MECHO;2018;Transect arthropode Session 1;Diptera;Delia platura;1
+FRANK;2018;Transect arthropode Session 1;Diptera;Delia platura;1
+FRANK;2019;Transect arthropodes P1;Diptères;Delia platura;1
+GTMBA;2017;Transect arthropode Session 1;Diptera;Delia;1
+ROROL;2017;Transect arthropode Session 1;Coleoptera;Dasytes croceipes;1
+FAUTEM;2019;Transect arthropodes P1;Coléoptères;Dasytes croceipes;1
+KELLER;2019;Transect arthropodes P1;Coléoptères;Dasytes croceipes;1
+SIBUET;2019;Transect arthropodes P1;Coléoptères;Dasytes croceipes;1
+PROMA;2019;Transect arthropodes P2;Diptères;Dasysyrphus;1
+KELLER;2019;Transect arthropodes P2;Hyménoptères;Cynips;1
+KELLER;2019;Transect arthropodes P1;Diplopodes;Cylindroiulus caeruleocinctus ;1
+FAUTEM;2019;Transect arthropodes P2;Polydesmida;Cylindroiulus caeruleocinctus ;1
+PULMA;2018;Transect arthropode Session 1;Diplopoda;Cylindroiulus caeruleocinctus;1
+BOUHOP;2017;Plaques;Diplopoda;Cylindroiulus;1
+GOOPL;2017;Plaques;Diplopoda;Cylindroiulus;1
+ANTHEU;2018;Transect arthropode Session 1;Diplopoda;Cylindroiulus;1
+CD93;2018;Transect arthropode Session 1;Diplopoda;Cylindroiulus;1
+FAUTEM;2018;Plaques;Diplopoda;Cylindroiulus;1
+WWF;2018;Transect arthropode Session 2;Diplopoda;Cylindroiulus;1
+AMROU;2018;Transect arthropode Session 2;Diplopoda;Cylindroiulus;1
+GRENEL;2018;Transect arthropode Session 2;Hymenoptera;Cyanopterus;1
+MECHO;2018;Transect arthropode Session 2;Hymenoptera;Cyanopterus;1
+CARON;2019;Transect arthropodes P2;Coléoptères;Curculio elephas;1
+ECOBIO_BOIS;2018;Transect arthropode Session 2;Diptera;Culex;1
+PULMA;2017;Plaques;Hymenoptera;Cryptopone ochracea;1
+CIROB;2017;Transect arthropode Session 1;Coleoptera;Cryptocephalus vittatus;1
+CIROB;2018;Transect arthropode Session 1;Coleoptera;Cryptocephalus vittatus;1
+GTMBA;2019;Transect arthropodes P2;Coléoptères;Cryptocephalus vittatus;1
+GTMBA;2017;Transect arthropode Session 2;Coleoptera;Cryptocephalus pygmaeus;1
+CHAVIN;2017;Transect arthropode Session 1;Coleoptera;Cryptocephalus pusillus;1
+GTMBA;2017;Transect arthropode Session 2;Coleoptera;Cryptocephalus pusillus;1
+PAREX;2019;Transect arthropodes P1;Coléoptères;Cryptocephalus pusillus;1
+GTMBA;2019;Transect arthropodes P1;Coléoptères;Cryptocephalus moraei;1
+GTMBA;2018;Transect arthropode Session 1;Coleoptera;Cryptocephalus;1
+GTMBA;2018;Transect arthropode Session 2;Coleoptera;Cryptocephalus;1
+PAREX;2017;Transect arthropode Session 2;Arachnida;Crustilina;1
+MECHO;2019;Transect arthropodes P1;Diptères;Cricotopus;1
+GTMBA;2018;Transect arthropode Session 1;Heteroptera;Corythucha ciliata;1
+ALBAR;2018;Plaques;Heteroptera;Corythucha ciliata;1
+BOUTOU;2019;Transect arthropodes P1;Coléoptères;Corticarina;1
+FONTA;2017;Transect arthropode Session 1;Mollusca;Cornu aspersum;1
+EIDER;2017;Hors protocole;Mollusca;Cornu aspersum;1
+OLSER;2017;Transect arthropode Session 1;Mollusca;Cornu aspersum;1
+PERIS;2017;Transect arthropode Session 1;Mollusca;Cornu aspersum;1
+BOUHOP;2017;Transect arthropode Session 1;Mollusca;Cornu aspersum;1
+BOUCHA;2017;Transect arthropode Session 1;Mollusca;Cornu aspersum;1
+CIROB;2017;Transect arthropode Session 1;Mollusca;Cornu aspersum;1
+GTMBA;2017;Transect arthropode Session 2;Mollusca;Cornu aspersum;1
+CIROB;2018;Transect arthropode Session 2;Mollusca;Cornu aspersum;1
+MOZIN_AVEC_GESTION;2018;Transect arthropode Session 2;Mollusca;Cornu aspersum;1
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 2;Mollusca;Cornu aspersum;1
+CIROB;2018;Transect arthropode Session 2;Heteroptera;Corizus hyoscyami hyoscyami;1
+GTMBA;2017;Transect arthropode Session 1;Heteroptera;Corizus hyoscyami;1
+FRANK;2017;Transect arthropode Session 2;Heteroptera;Corizus hyoscyami;1
+OLSER;2017;Transect arthropode Session 2;Heteroptera;Corizus hyoscyami;1
+SIBUET;2018;Transect arthropode Session 1;Heteroptera;Corizus hyoscyami;1
+CIMOD;2017;Transect arthropode Session 1;Heteroptera;Coriomeris denticulatus;1
+GOOPL;2017;Transect arthropode Session 1;Heteroptera;Coriomeris denticulatus;1
+FRANK;2017;Transect arthropode Session 2;Heteroptera;Coriomeris denticulatus;1
+CHAVIN;2017;Transect arthropode Session 2;Heteroptera;Coriomeris denticulatus;1
+EIDER;2017;Transect arthropode Session 1;Heteroptera;Coriomeris affinis;1
+EIDER;2018;Transect arthropode Session 1;Heteroptera;Coriomeris;1
+CD93;2018;Transect arthropode Session 1;Heteroptera;Coriomeris;1
+CIROB;2018;Transect arthropode Session 1;Heteroptera;Coriomeris;1
+SEINE;2018;Transect arthropode Session 1;Orthoptera;Conocephalus fuscus;1
+GRENEL;2018;Transect arthropode Session 1;Orthoptera;Conocephalus fuscus;1
+AMROU;2018;Transect arthropode Session 1;Hymenoptera;Coelioxys quadridentata;1
+CHAVIN;2018;Transect arthropode Session 2;Hymenoptera;Coelioxys;1
+PULMA;2017;Transect arthropode Session 1;Mollusca;Cochlicopa lubrica;1
+BOUHOP;2017;Transect arthropode Session 2;Mollusca;Cochlicopa lubrica;1
+BOUHOP;2017;Transect arthropode Session 2;Mollusca;Cochlicopa lubrica;1
+OLSER;2017;Transect arthropode Session 1;Coleoptera;Coccinella septempunctata;1
+OLSER;2017;Transect arthropode Session 1;Coleoptera;Coccinella septempunctata;1
+ALBAR;2017;Transect arthropode Session 1;Coleoptera;Coccinella septempunctata;1
+AMROU;2017;Transect arthropode Session 1;Coleoptera;Coccinella septempunctata;1
+RUWAT;2018;Transect arthropode Session 1;Coleoptera;Coccinella septempunctata;1
+EIDER;2018;Transect arthropode Session 1;Coleoptera;Coccinella septempunctata;1
+ROROL;2018;Transect arthropode Session 1;Coleoptera;Coccinella septempunctata;1
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 1;Coleoptera;Coccinella septempunctata;1
+AMROU;2018;Transect arthropode Session 1;Coleoptera;Coccinella septempunctata;1
+ALBAR;2018;Transect arthropode Session 1;Coleoptera;Coccinella septempunctata;1
+PROMA;2018;Transect arthropode Session 1;Coleoptera;Coccinella septempunctata;1
+MECHO;2018;Transect arthropode Session 1;Coleoptera;Coccinella septempunctata;1
+SEINE;2018;Transect arthropode Session 1;Coleoptera;Coccinella septempunctata;1
+FRANK;2018;Transect arthropode Session 1;Coleoptera;Coccinella septempunctata;1
+ROROL;2018;Transect arthropode Session 2;Coleoptera;Coccinella septempunctata;1
+GOOPL;2018;Transect arthropode Session 2;Coleoptera;Coccinella septempunctata;1
+CHAVIN;2018;Transect arthropode Session 2;Coleoptera;Coccinella septempunctata;1
+ALBAR;2019;Transect arthropodes P1;Coléoptères;Coccinella septempunctata;1
+CARON;2019;Transect arthropodes P1;Coléoptères;Coccinella septempunctata;1
+FRANK;2019;Transect arthropodes P1;Coléoptères;Coccinella septempunctata;1
+GTMBA WILD;2019;Transect arthropodes P1;Coléoptères;Coccinella septempunctata;1
+GTMBA;2019;Transect arthropodes P2;Coléoptères;Coccinella septempunctata;1
+MECHO;2019;Transect arthropodes P2;Coléoptères;Coccinella septempunctata;1
+WWF;2019;Transect arthropodes P2;Coléoptères;Coccinella septempunctata;1
+MECHO;2018;Transect arthropode Session 2;Arachnida;Clubiona;1
+ECOBIO_BOIS;2019;Transect arthropodes P2;Coléoptères;Clitostethus arcuatus;1
+SEINE;2018;Transect arthropode Session 1;Coleoptera;Clanoptilus elegans;1
+GRENEL;2018;Transect arthropode Session 1;Coleoptera;Clanoptilus elegans;1
+SEINE;2019;Transect arthropodes P1;Coléoptères;Clanoptilus elegans;1
+ABRON;2017;Transect arthropode Session 1;Homoptera;Circulifer haematoceps;1
+FAUTEM;2019;Transect arthropodes P1;Diptères;Chrysopilus nubecula;1
+FAUTEM;2019;Transect arthropodes P1;Diptères;Chrysopilus ;1
+ECOBIO_PRAIRIE;2017;Transect arthropode Session 1;Nevroptera;Chrysoperla;1
+PAREX;2017;Transect arthropode Session 1;Nevroptera;Chrysoperla;1
+CIROB;2017;Transect arthropode Session 2;Nevroptera;Chrysoperla;1
+MOZIN_SANS_GESTION;2017;Plaques;Nevroptera;Chrysoperla;1
+FAUTEM;2017;Transect arthropode Session 2;Nevroptera;Chrysoperla;1
+GOOPL;2017;Transect arthropode Session 2;Nevroptera;Chrysoperla;1
+OLSER;2017;Transect arthropode Session 2;Nevroptera;Chrysoperla;1
+ECOBIO_BOIS;2018;Transect arthropode Session 2;Nevroptera;Chrysoperla;1
+ECOBIO_PRAIRIE;2018;Transect arthropode Session 2;Nevroptera;Chrysoperla;1
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 2;Nevroptera;Chrysoperla;1
+ECOBIO_BOIS;2019;Transect arthropodes P1;Neuroptère;Chrysoperla;1
+MOZIN_SANS_GESTION;2019;Transect arthropodes P1;Neuroptère;Chrysoperla;1
+CD93;2019;Transect arthropodes P2;Neuroptère;Chrysoperla;1
+OLSER;2017;Transect arthropode Session 1;Coleoptera;Chrysolina americana;1
+GTMBA;2018;Transect arthropode Session 1;Coleoptera;Chrysolina americana;1
+BOUTOU;2018;Transect arthropode Session 2;Coleoptera;Chrysolina americana;1
+PROMA;2019;Transect arthropodes P2;Diptères;Chrysogaster;1
+CARON;2018;Transect arthropode Session 1;Hymenoptera;Chrysis;1
+ECOBIO_PRAIRIE;2018;Transect arthropode Session 1;Hymenoptera;Chrysis;1
+CIROB;2018;Transect arthropode Session 1;Hymenoptera;Chrysis;1
+GTMBA;2019;Transect arthropodes P2;Orthoptères;Chortippus brunneus;1
+CHAVIN;2019;Transect arthropodes P1;Orthoptères;Chortippus;1
+GRENEL;2019;Transect arthropodes P1;Orthoptères;Chortippus;1
+GTMBA;2018;Transect arthropode Session 2;Orthoptera;Chorthippus dorsatus;1
+RUWAT;2017;Transect arthropode Session 1;Orthoptera;Chorthippus brunneus;1
+WWF;2017;Transect arthropode Session 1;Orthoptera;Chorthippus brunneus;1
+CIROB;2017;Transect arthropode Session 1;Orthoptera;Chorthippus brunneus;1
+CIROB;2017;Transect arthropode Session 1;Orthoptera;Chorthippus brunneus;1
+CHAVIN;2017;Transect arthropode Session 2;Orthoptera;Chorthippus brunneus;1
+ECOBIO_PRAIRIE;2018;Transect arthropode Session 1;Orthoptera;Chorthippus brunneus;1
+SEINE;2018;Transect arthropode Session 1;Orthoptera;Chorthippus brunneus;1
+GOOPL;2018;Transect arthropode Session 2;Orthoptera;Chorthippus brunneus;1
+CIROB;2018;Transect arthropode Session 2;Orthoptera;Chorthippus brunneus;1
+RUWAT;2017;Transect arthropode Session 1;Orthoptera;Chorthippus biguttulus;1
+CIROB;2017;Transect arthropode Session 1;Orthoptera;Chorthippus biguttulus;1
+CIROB;2017;Transect arthropode Session 1;Orthoptera;Chorthippus biguttulus;1
+CHAVIN;2018;Transect arthropode Session 2;Orthoptera;Chorthippus biguttulus;1
+CIROB;2018;Transect arthropode Session 2;Orthoptera;Chorthippus biguttulus;1
+FRANK;2018;Transect arthropode Session 2;Orthoptera;Chorthippus biguttulus;1
+MOZIN_AVEC_GESTION;2018;Transect arthropode Session 2;Orthoptera;Chorthippus biguttulus;1
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 2;Orthoptera;Chorthippus biguttulus;1
+RUWATT;2019;Transect arthropodes P2;Orthoptères;Chorthippus biguttulus;1
+PAREX;2017;Transect arthropode Session 1;Orthoptera;Chorthippus;1
+RUWAT;2018;Transect arthropode Session 1;Orthoptera;Chorthippus;1
+EIDER;2018;Transect arthropode Session 1;Orthoptera;Chorthippus;1
+ROROL;2018;Transect arthropode Session 1;Orthoptera;Chorthippus;1
+ROROL;2018;Transect arthropode Session 1;Orthoptera;Chorthippus;1
+BOUTOU;2018;Transect arthropode Session 1;Orthoptera;Chorthippus;1
+MECHO;2018;Transect arthropode Session 1;Orthoptera;Chorthippus;1
+WWF;2018;Transect arthropode Session 1;Orthoptera;Chorthippus;1
+GOOPL;2018;Transect arthropode Session 1;Orthoptera;Chorthippus;1
+OLSER;2018;Transect arthropode Session 1;Orthoptera;Chorthippus;1
+RUWAT;2018;Transect arthropode Session 2;Orthoptera;Chorthippus;1
+PAREX;2019;Transect arthropodes P1;Orthoptères;Chorthippus;1
+BOUTOU;2019;Transect arthropodes P2;Orthoptères;Chorthippus;1
+FRANK;2019;Transect arthropodes P2;Orthoptères;Chorthippus;1
+KELLER;2019;Transect arthropodes P2;Orthoptères;Chorthippus;1
+SEINE;2019;Transect arthropodes P1;Diptères;Chlroromyia formosa;1
+EIDER;2017;Transect arthropode Session 1;Diptera;Chloromyia formosa;1
+MOZIN_AVEC_GESTION;2018;Transect arthropode Session 1;Diptera;Chloromyia formosa;1
+GRENEL;2018;Transect arthropode Session 1;Diptera;Chloromyia formosa;1
+ALBAR;2019;Transect arthropodes P1;Diptères;Chloromyia formosa;1
+FRANK;2019;Transect arthropodes P1;Diptères;Chloromyia formosa;1
+PROMA;2019;Transect arthropodes P1;Diptères;Chloromyia formosa;1
+MOZIN_AVEC_GESTION;2019;Transect arthropodes P2;Diptères;Chloromyia formosa;1
+AMROU;2019;Transect arthropodes P2;Hétéroptères;Chlamydatus saltitans;1
+PULMA;2017;Transect arthropode Session 2;Heteroptera;Chlamydatus pullus;1
+MUENT;2018;Transect arthropode Session 1;Heteroptera;Chlamydatus pullus;1
+ANTHEU;2018;Transect arthropode Session 1;Heteroptera;Chlamydatus pullus;1
+BOUTOU;2018;Transect arthropode Session 1;Heteroptera;Chlamydatus pullus;1
+PULMA;2018;Transect arthropode Session 1;Heteroptera;Chlamydatus pullus;1
+FAUTEM;2018;Transect arthropode Session 2;Heteroptera;Chlamydatus pullus;1
+CHAVIN;2018;Transect arthropode Session 2;Heteroptera;Chlamydatus pullus;1
+MOZIN_AVEC_GESTION;2018;Transect arthropode Session 2;Heteroptera;Chlamydatus pullus;1
+MOZIN_AVEC_GESTION;2019;Transect arthropodes P1;Hétéroptères;Chlamydatus pullus;1
+OLSER;2019;Transect arthropodes P1;Hétéroptères;Chlamydatus pullus;1
+ROROLL;2019;Transect arthropodes P1;Hétéroptères;Chlamydatus pullus;1
+ALBAR;2019;Transect arthropodes P2;Hétéroptères;Chlamydatus pullus;1
+LUAUB;2019;Transect arthropodes P2;Hétéroptères;Chlamydatus pullus;1
+PAREX;2019;Transect arthropodes P2;Hétéroptères;Chlamydatus pullus;1
+AMROU;2017;Transect arthropode Session 1;Heteroptera;Chlamydatus evanescens;1
+MUENT;2017;Transect arthropode Session 1;Heteroptera;Chlamydatus evanescens;1
+ROROL;2017;Plaques;Heteroptera;Chlamydatus evanescens;1
+ROROL;2017;Transect arthropode Session 2;Heteroptera;Chlamydatus evanescens;1
+PROMA;2017;Transect arthropode Session 2;Heteroptera;Chlamydatus evanescens;1
+SIBUET;2017;Transect arthropode Session 2;Heteroptera;Chlamydatus evanescens;1
+PULMA;2017;Transect arthropode Session 2;Heteroptera;Chlamydatus evanescens;1
+CIMOD;2018;Transect arthropode Session 1;Heteroptera;Chlamydatus evanescens;1
+EIDER;2018;Transect arthropode Session 1;Heteroptera;Chlamydatus evanescens;1
+LUAUB;2018;Transect arthropode Session 1;Heteroptera;Chlamydatus evanescens;1
+PAREX;2018;Transect arthropode Session 1;Heteroptera;Chlamydatus evanescens;1
+MECHO;2018;Transect arthropode Session 1;Heteroptera;Chlamydatus evanescens;1
+PULMA;2018;Transect arthropode Session 1;Heteroptera;Chlamydatus evanescens;1
+PAREX;2018;Transect arthropode Session 2;Heteroptera;Chlamydatus evanescens;1
+MECHO;2018;Transect arthropode Session 2;Heteroptera;Chlamydatus evanescens;1
+FAUTEM;2019;Transect arthropodes P2;Hétéroptères;Chlamydatus evanescens;1
+MECHO;2017;Transect arthropode Session 1;Heteroptera;Chlamydatus;1
+ECOBIO_BOIS;2019;Transect arthropodes P1;Hétéroptères;Chlamydatus;1
+ROROLL;2019;Transect arthropodes P1;Hétéroptères;Chlamydatus;1
+GOOPL;2019;Transect arthropodes P2;Hétéroptères;Chlamydatus;1
+PERIS;2019;Transect arthropodes P2;Hétéroptères;Chlamydatus;1
+GRENEL;2018;Transect arthropode Session 2;Hymenoptera;Chelonus;1
+PAREX;2017;Transect arthropode Session 2;Arachnida;Cheiracanthium;1
+CIROB;2018;Transect arthropode Session 2;Arachnida;Cheiracanthium;1
+PULMA;2018;Transect arthropode Session 1;Diptera;Cheilosia pagana;1
+ROROL;2017;Transect arthropode Session 1;Arachnida;Chalcoscirtus infimus;1
+SIBUET;2018;Transect arthropode Session 1;Arachnida;Chalcoscirtus infimus;1
+GTMBA;2019;Transect arthropodes P1;Coléoptères;Ceutorhynchus;1
+SIBUET;2018;Transect arthropode Session 2;Coleoptera;Cetonia aurata;1
+EIDER;2017;Transect arthropode Session 1;Mollusca;Cernuella aginnica;1
+MECHO;2018;Transect arthropode Session 2;Coleoptera;Ceratomegilla undecimnotata;1
+GOOPL;2019;Transect arthropodes P2;Hétéroptères;Ceraleptus lividus;1
+LUAUB;2017;Transect arthropode Session 1;Mollusca;Cepaea nemoralis;1
+BOUHOP;2017;Transect arthropode Session 1;Mollusca;Cepaea;1
+FAUTEM;2019;Transect arthropodes P1;Coléoptères;Cartodere bifasciata;1
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 2;Heteroptera;Carpocoris purpureipennis;1
+GOOPL;2019;Transect arthropodes P1;Coléoptères;Cantharis rustica;1
+EIDER;2017;Transect arthropode Session 1;Mollusca;Candidula intersecta;1
+AMROU;2017;Transect arthropode Session 1;Mollusca;Candidula intersecta;1
+RUWAT;2017;Transect arthropode Session 1;Mollusca;Candidula intersecta;1
+GOOPL;2017;Transect arthropode Session 1;Mollusca;Candidula intersecta;1
+WWF;2017;Transect arthropode Session 1;Mollusca;Candidula intersecta;1
+MOZIN_SANS_GESTION;2017;Transect arthropode Session 1;Mollusca;Candidula intersecta;1
+CHAVIN;2017;Plaques;Mollusca;Candidula intersecta;1
+GOOPL;2017;Transect arthropode Session 2;Mollusca;Candidula intersecta;1
+RUWAT;2017;Transect arthropode Session 2;Mollusca;Candidula intersecta;1
+OLSER;2017;Transect arthropode Session 2;Mollusca;Candidula;1
+ECOBIO_BOIS;2018;Transect arthropode Session 1;Heteroptera;Campyloneura virgula;1
+ECOBIO_BOIS;2018;Transect arthropode Session 2;Heteroptera;Campyloneura virgula;1
+ECOBIO_PRAIRIE;2018;Transect arthropode Session 2;Heteroptera;Campyloneura virgula;1
+ECOBIO_BOIS;2019;Transect arthropodes P1;Hétéroptères;Campyloneura virgula;1
+CHAVIN;2017;Transect arthropode Session 1;Heteroptera;Camptopus lateralis;1
+FRANK;2017;Transect arthropode Session 2;Heteroptera;Camptopus lateralis;1
+MOZIN_AVEC_GESTION;2018;Transect arthropode Session 1;Heteroptera;Camptopus lateralis;1
+OLSER;2017;Transect arthropode Session 1;Lepidoptera;Camptogramma bilineata;1
+OLSER;2017;Transect arthropode Session 1;Lepidoptera;Camptogramma bilineata;1
+FRANK;2019;Transect arthropodes P1;Diptères;Campiglossa;1
+ECOBIO_PRAIRIE;2018;Transect arthropode Session 2;Diptera;Camarota curvipennis;1
+PERIS;2018;Transect arthropode Session 2;Diptera;Camarota curvipennis;1
+WWF;2018;Transect arthropode Session 2;Diptera;Camarota curvipennis;1
+AMROU;2018;Transect arthropode Session 2;Diptera;Camarota curvipennis;1
+PROMA;2018;Transect arthropode Session 2;Diptera;Camarota curvipennis;1
+MECHO;2018;Transect arthropode Session 1;Coleoptera;Calathus melanocephalus;1
+PULMA;2018;Transect arthropode Session 1;Coleoptera;Calathus melanocephalus;1
+WWF;2018;Plaques;Coleoptera;Calathus melanocephalus;1
+AMROU;2018;Plaques;Coleoptera;Calathus melanocephalus;1
+PULMA;2018;Plaques;Coleoptera;Calathus melanocephalus;1
+KELLER;2019;Transect arthropodes P1;Coléoptères;Calathus melanocephalus;1
+SEINE;2019;Transect arthropodes P1;Coléoptères;Calathus melanocephalus;1
+KELLER;2019;Transect arthropodes P2;Coléoptères;Calathus melanocephalus;1
+ALBAR;2019;Transect arthropodes P2;Coléoptères;Calathus cinctus;1
+OLSER;2017;Transect arthropode Session 1;Coleoptera;Bruchus;1
+FRANK;2018;Transect arthropode Session 1;Coleoptera;Bruchus;1
+MOZIN_SANS_GESTION;2019;Transect arthropodes P1;Coléoptères;Bruchus;1
+OLSER;2019;Transect arthropodes P1;Coléoptères;Bruchus;1
+SEINE;2019;Transect arthropodes P1;Coléoptères;Bruchus;1
+PROMA;2018;Transect arthropode Session 1;Coleoptera;Bruchidius siliquastri;1
+CHAVIN;2019;Transect arthropodes P1;Hétéroptères;Brachyplax tenuis;1
+OLSER;2018;Transect arthropode Session 1;Hymenoptera;Brachymeria;1
+BOUTOU;2018;Transect arthropode Session 1;Diplopoda;Brachydesmus;1
+CIROB;2019;Transect arthropodes P2;Hyménoptères;Bombus terrestris ;1
+MECHO;2017;Transect arthropode Session 1;Hymenoptera;Bombus terrestris;1
+EIDER;2017;Hors protocole;Hymenoptera;Bombus pascuorum;1
+ROROL;2017;Transect arthropode Session 1;Hymenoptera;Bombus pascuorum;1
+GTMBA;2017;Transect arthropode Session 1;Hymenoptera;Bombus pascuorum;1
+CIMOD;2017;Transect arthropode Session 2;Hymenoptera;Bombus pascuorum;1
+CIROB;2018;Transect arthropode Session 2;Hymenoptera;Bombus pascuorum;1
+MECHO;2018;Plaques;Hymenoptera;Bombus pascuorum;1
+LUAUB;2017;Transect arthropode Session 1;Hymenoptera;Bombus lapidarius;1
+PAREX;2017;Transect arthropode Session 1;Hymenoptera;Bombus lapidarius;1
+PERIS;2017;Transect arthropode Session 1;Hymenoptera;Bombus lapidarius;1
+FRANK;2017;Transect arthropode Session 1;Hymenoptera;Bombus lapidarius;1
+CIMOD;2018;Transect arthropode Session 1;Hymenoptera;Bombus lapidarius;1
+MECHO;2017;Transect arthropode Session 2;Hymenoptera;Bombus;1
+AMROU;2018;Transect arthropode Session 1;Blattoptera;Blattella germanica;1
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 2;Heteroptera;Berytinus hirticornis;1
+CHAVIN;2018;Transect arthropode Session 1;Heteroptera;Berytinus;1
+BOUTOU;2019;Transect arthropodes P2;Hétéroptères;Berytinus;1
+FAUTEM;2017;Transect arthropode Session 2;Heteroptera;Beosus maritimus;1
+FAUTEM;2017;Plaques;Heteroptera;Beosus maritimus;1
+AMROU;2018;Transect arthropode Session 1;Heteroptera;Beosus maritimus;1
+WWF;2018;Plaques;Heteroptera;Beosus maritimus;1
+OLSER;2019;Transect arthropodes P1;Hétéroptères;Beosus maritimus;1
+ROROL;2018;Transect arthropode Session 2;Coleoptera;Bembidion;1
+SEINE;2019;Transect arthropodes P2;Coléoptères;Bembidion;1
+FRANK;2017;Transect arthropode Session 2;Arachnida;Ballus chalybeius;1
+GUER;2019;Transect arthropodes P1;Coléoptères;Axinotarsus marginalis;1
+SEINE;2018;Transect arthropode Session 2;Lepidoptera;Autographa gamma;1
+KELLER;2019;Transect arthropodes P1;Coléoptères;Athous ;1
+EIDER;2017;Transect arthropode Session 1;Hymenoptera;Athalia;1
+GOOPL;2018;Transect arthropode Session 2;Arachnida;Asagena phalerata;1
+CHAVIN;2017;Plaques;Isopoda;Armadillidium vulgare;1
+CHAVIN;2017;Transect arthropode Session 2;Isopoda;Armadillidium vulgare;1
+GOOPL;2017;Transect arthropode Session 1;Isopoda;Armadillidium nasatum;1
+CHAVIN;2017;Transect arthropode Session 1;Isopoda;Armadillidium nasatum;1
+EIDER;2017;Plaques;Isopoda;Armadillidium nasatum;1
+GOOPL;2017;Transect arthropode Session 2;Isopoda;Armadillidium nasatum;1
+GOOPL;2017;Transect arthropode Session 2;Isopoda;Armadillidium nasatum;1
+SIBUET;2017;Transect arthropode Session 2;Isopoda;Armadillidium nasatum;1
+GTMBA;2017;Transect arthropode Session 2;Isopoda;Armadillidium nasatum;1
+GTMBA;2018;Transect arthropode Session 1;Isopoda;Armadillidium nasatum;1
+ECOBIO_BOIS;2018;Transect arthropode Session 1;Isopoda;Armadillidium nasatum;1
+WWF;2018;Transect arthropode Session 1;Isopoda;Armadillidium nasatum;1
+SIBUET;2018;Transect arthropode Session 1;Isopoda;Armadillidium nasatum;1
+CIROB;2018;Transect arthropode Session 1;Isopoda;Armadillidium nasatum;1
+PULMA;2018;Transect arthropode Session 1;Isopoda;Armadillidium nasatum;1
+GRENEL;2018;Transect arthropode Session 1;Isopoda;Armadillidium nasatum;1
+ECOBIO_PRAIRIE;2018;Plaques;Isopoda;Armadillidium nasatum;1
+EIDER;2018;Transect arthropode Session 2;Isopoda;Armadillidium nasatum;1
+FAUTEM;2018;Transect arthropode Session 2;Isopoda;Armadillidium nasatum;1
+FAUTEM;2018;Plaques;Isopoda;Armadillidium nasatum;1
+GOOPL;2018;Transect arthropode Session 2;Isopoda;Armadillidium nasatum;1
+GTMBA;2018;Transect arthropode Session 2;Isopoda;Armadillidium nasatum;1
+GTMBA;2018;Plaques;Isopoda;Armadillidium nasatum;1
+WWF;2018;Plaques;Isopoda;Armadillidium nasatum;1
+AMROU;2018;Transect arthropode Session 2;Isopoda;Armadillidium nasatum;1
+AMROU;2018;Plaques;Isopoda;Armadillidium nasatum;1
+PULMA;2018;Transect arthropode Session 2;Isopoda;Armadillidium nasatum;1
+CIROB;2018;Transect arthropode Session 2;Isopoda;Armadillidium nasatum;1
+GRENEL;2018;Transect arthropode Session 2;Isopoda;Armadillidium nasatum;1
+ALBAR;2019;Transect arthropodes P1;Isopodes;Armadillidium nasatum;1
+CIROB;2019;Transect arthropodes P1;Crustacé;Armadillidium nasatum;1
+FAUTEM;2019;Transect arthropodes P2;Isopodes;Armadillidium nasatum;1
+GOOPL;2019;Transect arthropodes P2;Isopodes;Armadillidium nasatum;1
+GOOPL;2018;Transect arthropode Session 1;Isopoda;Armadillidium depressum;1
+FAUTEM;2019;Transect arthropodes P2;Isopodes;Armadillidium depressum;1
+GOOPL;2018;Transect arthropode Session 2;Lepidoptera;Aricia agestis;1
+FRANK;2017;Transect arthropode Session 1;Arachnida;Argiope bruennichi;1
+CIROB;2017;Transect arthropode Session 2;Arachnida;Argiope bruennichi;1
+SIBUET;2018;Transect arthropode Session 1;Arachnida;Argiope bruennichi;1
+CIROB;2019;Transect arthropodes P2;Araneae;Argiope;1
+FRANK ;2019;Transect arthropodes P2;Araneae;Argiope;1
+OLSER;2017;Transect arthropode Session 1;Hymenoptera;Arge;1
+MOZIN_AVEC_GESTION;2019;Transect arthropodes P2;Hétéroptères;Arenocoris waltli;1
+MOZIN_AVEC_GESTION;2019;Transect arthropodes P1;Hétéroptères;Arenocoris falleni;1
+GOOPL;2017;Transect arthropode Session 1;Arachnida;Araniella cucurbitina;1
+ALBAR;2017;Transect arthropode Session 1;Arachnida;Araneus diadematus;1
+ANTHEU;2017;Transect arthropode Session 1;Arachnida;Araneus diadematus;1
+PROMA;2017;Transect arthropode Session 2;Arachnida;Araneus diadematus;1
+GOOPL;2017;Transect arthropode Session 2;Arachnida;Araneus diadematus;1
+GOOPL;2018;Transect arthropode Session 2;Arachnida;Araneus diadematus;1
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 2;Arachnida;Araneus diadematus;1
+EIDER;2019;Transect arthropodes P1;Araneae;Araneus diadematus;1
+ECOBIO_PRAIRIE;2019;Transect arthropodes P2;Araneae;Araneus diadematus;1
+EIDER;2019;Transect arthropodes P2;Araneae;Araneus diadematus;1
+FRANK;2017;Transect arthropode Session 2;Arachnida;Araneus;1
+GOOPL;2017;Transect arthropode Session 2;Arachnida;Araneus;1
+FAUTEM;2017;Transect arthropode Session 2;Heteroptera;Apolygus;1
+CIMOD;2018;Transect arthropode Session 1;Hymenoptera;Apis mellifera;1
+MUENT;2018;Transect arthropode Session 1;Hymenoptera;Apis mellifera;1
+RUWAT;2018;Transect arthropode Session 1;Hymenoptera;Apis mellifera;1
+GRENEL;2018;Transect arthropode Session 1;Hymenoptera;Apis mellifera;1
+RUWAT;2018;Transect arthropode Session 2;Hymenoptera;Apis mellifera;1
+OLSER;2019;Transect arthropodes P2;Hyménoptères;Apis mellifera;1
+PAREX;2019;Transect arthropodes P2;Hyménoptères;Apis mellifera;1
+CHAVIN;2017;Transect arthropode Session 1;Homoptera;Aphrophora;1
+KELLER;2019;Transect arthropodes P1;Homoptères;Aphrophora;1
+BOUTOU;2018;Transect arthropode Session 1;Homoptera;Aphrodes makarovi;1
+CIROB;2018;Transect arthropode Session 1;Homoptera;Aphrodes makarovi;1
+CIROB;2018;Transect arthropode Session 2;Homoptera;Aphrodes carinatus;1
+MOZIN_SANS_GESTION;2019;Transect arthropodes P1;Homoptères;Aphrodes ;1
+OLSER;2019;Transect arthropodes P1;Homoptères;Aphrodes ;1
+WWF;2019;Transect arthropodes P1;Homoptères;Aphrodes ;1
+MECHO;2017;Transect arthropode Session 1;Homoptera;Aphrodes;1
+GTMBA;2017;Transect arthropode Session 1;Homoptera;Aphrodes;1
+GOOPL;2018;Transect arthropode Session 1;Homoptera;Aphrodes;1
+MECHO;2019;Transect arthropodes P1;Homoptères;Aphis;1
+GTMBA;2019;Transect arthropodes P1;Coléoptères;Anthrenus verbasci ;1
+CD93;2018;Transect arthropode Session 1;Coleoptera;Anthrenus;1
+GTMBA;2019;Transect arthropodes P1;Coléoptères;Anthrenus;1
+GOOPL;2018;Transect arthropode Session 2;Diptera;Anthrax;1
+MECHO;2019;Transect arthropodes P1;Coléoptères;Anthracus;1
+FAUTEM;2018;Transect arthropode Session 2;Heteroptera;Anthocoris;1
+ECOBIO_BOIS;2019;Transect arthropodes P2;Hétéroptères;Anthocoris;1
+GOOPL;2017;Transect arthropode Session 1;Lepidoptera;Anthocharis cardamines;1
+CHAVIN;2017;Plaques;Heteroptera;Anoplocerus elevatus;1
+CHAVIN;2017;Transect arthropode Session 2;Heteroptera;Anoplocerus elevatus;1
+MOZIN_SANS_GESTION;2017;Plaques;Heteroptera;Anoplocerus elevatus;1
+PAREX;2019;Transect arthropodes P1;Araneae;Anelosimus vittatus;1
+GOOPL;2017;Transect arthropode Session 1;Hymenoptera;Andrena niveata;1
+PERIS;2017;Transect arthropode Session 1;Hymenoptera;Andrena minutula;1
+BOUCHA;2017;Transect arthropode Session 1;Hymenoptera;Andrena minutula;1
+MECHO;2017;Transect arthropode Session 1;Hymenoptera;Andrena minutula;1
+CHAVIN;2017;Transect arthropode Session 2;Hymenoptera;Andrena floricola;1
+WWF;2018;Transect arthropode Session 1;Odonata;Anax imperator;1
+GOOPL;2018;Transect arthropode Session 2;Odonata;Anax imperator;1
+CIMOD;2017;Transect arthropode Session 1;Homoptera;Anaceratagallia;1
+EIDER;2017;Transect arthropode Session 1;Hymenoptera;Amblyteles armatorius;1
+PULMA;2019;Transect arthropodes P2;Coléoptères;Amara familiaris;1
+EIDER;2017;Transect arthropode Session 1;Coleoptera;Amara;1
+MOZIN_SANS_GESTION;2017;Plaques;Coleoptera;Amara;1
+CHAVIN;2018;Transect arthropode Session 1;Coleoptera;Amara;1
+PAREX;2018;Transect arthropode Session 2;Coleoptera;Amara;1
+CARON;2018;Transect arthropode Session 2;Coleoptera;Amara;1
+SEINE;2018;Transect arthropode Session 2;Coleoptera;Amara;1
+PULMA;2018;Transect arthropode Session 2;Coleoptera;Amara;1
+FRANK;2018;Transect arthropode Session 2;Coleoptera;Amara;1
+CARON;2019;Plaques;Coléoptères;Amara;1
+OLSER;2017;Transect arthropode Session 1;Coleoptera;Altica;1
+RUWAT;2017;Transect arthropode Session 1;Coleoptera;Altica;1
+MUENT;2017;Transect arthropode Session 1;Coleoptera;Altica;1
+FRANK;2017;Transect arthropode Session 1;Coleoptera;Altica;1
+PAREX;2017;Transect arthropode Session 2;Coleoptera;Altica;1
+ALBAR;2017;Transect arthropode Session 2;Coleoptera;Altica;1
+CIMOD;2017;Transect arthropode Session 2;Coleoptera;Altica;1
+FAUTEM;2018;Transect arthropode Session 1;Coleoptera;Altica;1
+MUENT;2018;Transect arthropode Session 1;Coleoptera;Altica;1
+ROROL;2018;Transect arthropode Session 2;Coleoptera;Altica;1
+CARON;2019;Transect arthropodes P1;Coléoptères;Altica;1
+FONTA;2019;Transect arthropodes P1;Coléoptères;Altica;1
+GUER;2019;Transect arthropodes P1;Coléoptères;Altica;1
+MECHO;2019;Transect arthropodes P1;Coléoptères;Altica;1
+MOZIN_AVEC_GESTION;2019;Transect arthropodes P1;Coléoptères;Altica;1
+MOZIN_AVEC_GESTION;2018;Transect arthropode Session 1;Hymenoptera;Alomya;1
+MOZIN_SANS_GESTION;2019;Transect arthropodes P1;Homoptères;Allygus;1
+MOZIN_SANS_GESTION;2017;Transect arthropode Session 1;Coleoptera;Alaocyba;1
+ALBAR;2017;Transect arthropode Session 1;Arachnida;Agyneta rurestris;1
+AMROU;2017;Transect arthropode Session 1;Arachnida;Agyneta rurestris;1
+MUENT;2017;Transect arthropode Session 2;Arachnida;Agyneta rurestris;1
+ANTHEU;2019;Transect arthropodes P1;Araneae;Agyneta rurestris;1
+FAUTEM;2019;Transect arthropodes P1;Araneae;Agyneta rurestris;1
+PROMA;2019;Transect arthropodes P2;Araneae;Agyneta rurestris;1
+ROROL;2019;Transect arthropodes P2;Araneae;Agyneta rurestris;1
+GTMBA;2017;Transect arthropode Session 1;Arachnida;Agyneta affinis;1
+CHAVIN;2017;Transect arthropode Session 1;Arachnida;Agyneta affinis;1
+LUAUB;2017;Transect arthropode Session 1;Arachnida;Agyneta;1
+AMROU;2018;Transect arthropode Session 1;Arachnida;Agyneta;1
+FONTA;2018;Transect arthropode Session 1;Arachnida;Agyneta;1
+ALBAR;2019;Transect arthropodes P1;Araneae;Agyneta;1
+CHAVIN;2019;Transect arthropodes P1;Araneae;Agyneta;1
+SEINE;2019;Transect arthropodes P1;Araneae;Agyneta;1
+CARON;2019;Transect arthropodes P2;Araneae;Agyneta;1
+CD93;2019;Transect arthropodes P2;Araneae;Agyneta;1
+GUER;2019;Transect arthropodes P2;Araneae;Agyneta;1
+GTMBA;2018;Transect arthropode Session 1;Homoptera;Agallia consobrina;1
+PAREX;2017;Transect arthropode Session 1;Homoptera;Agallia;1
+ECOBIO_BOIS;2019;Transect arthropodes P2;Homoptères;Agallia;1
+FONTA;2019;Transect arthropodes P2;Homoptères;Agallia;1
+FRANK;2019;Transect arthropodes P2;Homoptères;Agallia;1
+GTMBA WILD;2019;Transect arthropodes P2;Homoptères;Agallia;1
+ECOBIO_PRAIRIE;2017;Transect arthropode Session 1;Heteroptera;Aelia acuminata;1
+WWF;2017;Transect arthropode Session 1;Heteroptera;Aelia acuminata;1
+BOUTOU;2017;Transect arthropode Session 1;Heteroptera;Aelia acuminata;1
+FRANK;2017;Transect arthropode Session 1;Heteroptera;Aelia acuminata;1
+FRANK;2017;Transect arthropode Session 2;Heteroptera;Aelia acuminata;1
+CHAVIN;2017;Transect arthropode Session 2;Heteroptera;Aelia acuminata;1
+MOZIN_SANS_GESTION;2017;Plaques;Heteroptera;Aelia acuminata;1
+GOOPL;2017;Transect arthropode Session 2;Heteroptera;Aelia acuminata;1
+ALBAR;2017;Transect arthropode Session 2;Heteroptera;Aelia acuminata;1
+ROROL;2018;Transect arthropode Session 1;Heteroptera;Aelia acuminata;1
+CARON;2018;Transect arthropode Session 1;Heteroptera;Aelia acuminata;1
+FRANK;2018;Transect arthropode Session 1;Heteroptera;Aelia acuminata;1
+GRENEL;2018;Transect arthropode Session 1;Heteroptera;Aelia acuminata;1
+ECOBIO_PRAIRIE;2018;Transect arthropode Session 2;Heteroptera;Aelia acuminata;1
+BOUTOU;2018;Transect arthropode Session 2;Heteroptera;Aelia acuminata;1
+SEINE;2018;Transect arthropode Session 2;Heteroptera;Aelia acuminata;1
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 2;Heteroptera;Aelia acuminata;1
+MOZIN_SANS_GESTION;2019;Transect arthropodes P1;Hétéroptères;Aelia acuminata;1
+GOOPL;2019;Transect arthropodes P2;Hétéroptères;Aelia acuminata;1
+OLSER;2019;Transect arthropodes P2;Hétéroptères;Aelia acuminata;1
+CIROB;2017;Transect arthropode Session 2;Heteroptera;Adelphocoris lineolatus;1
+MOZIN_SANS_GESTION;2017;Transect arthropode Session 2;Heteroptera;Adelphocoris lineolatus;1
+ALBAR;2017;Transect arthropode Session 2;Heteroptera;Adelphocoris lineolatus;1
+ALBAR;2017;Transect arthropode Session 2;Heteroptera;Adelphocoris lineolatus;1
+FAUTEM;2018;Transect arthropode Session 2;Coleoptera;Adalia bipunctata;1
+EIDER;2018;Transect arthropode Session 1;Coleoptera;Acupalpus;1
+BOUCHA;2018;Transect arthropode Session 1;Coleoptera;Acupalpus;1
+ECOBIO_PRAIRIE;2018;Transect arthropode Session 1;Coleoptera;Acupalpus;1
+SIBUET;2018;Transect arthropode Session 1;Coleoptera;Acupalpus;1
+FRANK;2018;Transect arthropode Session 1;Coleoptera;Acupalpus;1
+PAREX;2018;Transect arthropode Session 2;Coleoptera;Acupalpus;1
+WWF;2019;Transect arthropodes P1;Hyménoptères;Acroricnus seductor ;1
+EIDER;2018;Plaques;Heteroptera;Acompus;1
+ALBAR;2017;Transect arthropode Session 1;Coleoptera;Acanthoscelides obtectus;1
+MECHO;2018;Plaques;Heteroptera;Acalypta;1
+KELLER;2019;Transect arthropodes P2;Hétéroptères;Acalypta;1
+ALBAR;2019;Transect arthropodes P1;Coléoptères;NA;1
+ALBAR;2019;Transect arthropodes P1;Araneae;NA;1
+BOUCHA;2019;Transect arthropodes P1;Araneae;NA;1
+BOUCHA;2019;Transect arthropodes P1;Mollusqua;NA;1
+BOUTOU;2019;Transect arthropodes P1;Diptères;NA;1
+BOUTOU;2019;Transect arthropodes P1;Lépidoptères;NA;1
+BOUTOU;2019;Transect arthropodes P1;Coléoptères;NA;1
+CARON;2019;Transect arthropodes P1;Homoptères;NA;1
+CARON;2019;Transect arthropodes P1;Hétéroptères;NA;1
+CD93;2019;Transect arthropodes P1;Hétéroptères;NA;1
+CHAVIN;2019;Transect arthropodes P1;Hétéroptères;NA;1
+EIDER;2019;Transect arthropodes P1;Mollusqua;NA;1
+EIDER;2019;Transect arthropodes P1;Diptères;NA;1
+FAUTEM;2019;Transect arthropodes P1;Diplopodes;NA;1
+GOOPL;2019;Transect arthropodes P1;Hétéroptères;NA;1
+GOOPL;2019;Transect arthropodes P1;Homoptères;NA;1
+GRENEL;2019;Transect arthropodes P1;Diptères;NA;1
+GRENEL;2019;Transect arthropodes P1;Hyménoptères;NA;1
+GTMBA;2019;Transect arthropodes P1;Diptères;NA;1
+GTMBA;2019;Transect arthropodes P1;Hyménoptères;NA;1
+GTMBA;2019;Transect arthropodes P1;Coléoptères;NA;1
+GTMBA WILD;2019;Transect arthropodes P1;Mollusqua;NA;1
+GTMBA WILD;2019;Transect arthropodes P1;Homoptères;NA;1
+KELLER;2019;Transect arthropodes P1;Diptères;NA;1
+KELLER;2019;Transect arthropodes P1;Hyménoptères;NA;1
+LUAUB;2019;Transect arthropodes P1;Diptères;NA;1
+LUAUB;2019;Transect arthropodes P1;Homoptères;NA;1
+MECHO;2019;Transect arthropodes P1;Homoptères;NA;1
+MECHO;2019;Transect arthropodes P1;Psocoptère;NA;1
+MOZIN_AVEC_GESTION;2019;Transect arthropodes P1;Diptères;NA;1
+MOZIN_AVEC_GESTION;2019;Transect arthropodes P1;Araneae;NA;1
+MOZIN_AVEC_GESTION;2019;Transect arthropodes P1;Araneae;NA;1
+MOZIN_SANS_GESTION;2019;Transect arthropodes P1;Diptères;NA;1
+MOZIN_SANS_GESTION;2019;Transect arthropodes P1;Homoptères;NA;1
+MOZIN_SANS_GESTION;2019;Transect arthropodes P1;Diptères;NA;1
+MOZIN_SANS_GESTION;2019;Transect arthropodes P1;Araneae;NA;1
+OLSER;2019;Transect arthropodes P1;Coléoptères;NA;1
+OLSER;2019;Transect arthropodes P1;Coléoptères;NA;1
+PAREX;2019;Transect arthropodes P1;Collemboles;NA;1
+PROMA;2019;Transect arthropodes P1;Homoptères;NA;1
+PROMA;2019;Transect arthropodes P1;Arachnide;NA;1
+PROMA;2019;Transect arthropodes P1;Collembole;NA;1
+PULMA;2019;Transect arthropodes P1;Homoptères;NA;1
+PULMA;2019;Transect arthropodes P1;Homoptères;NA;1
+PULMA;2019;Transect arthropodes P1;Hyménoptères;NA;1
+SEINE;2019;Transect arthropodes P1;Homoptères;NA;1
+SIBUET;2019;Transect arthropodes P1;Araneae;NA;1
+ANTHEU;2019;Transect arthropodes P2;Araneae;NA;1
+BOUTOU;2019;Transect arthropodes P2;Diptères;NA;1
+CARON;2019;Transect arthropodes P2;Homoptères;NA;1
+CARON;2019;Transect arthropodes P2;Diptères;NA;1
+CARON;2019;Transect arthropodes P2;Hyménoptères;NA;1
+CD93;2019;Transect arthropodes P2;Diptères;NA;1
+CD93;2019;Transect arthropodes P2;Hyménoptères;NA;1
+ECOBIO_BOIS;2019;Transect arthropodes P2;Araneae;NA;1
+FAUTEM;2019;Transect arthropodes P2;Araneae;NA;1
+FONTA;2019;Transect arthropodes P2;Homoptères;NA;1
+GOOPL;2019;Transect arthropodes P2;Hétéroptères;NA;1
+GOOPL;2019;Transect arthropodes P2;Homoptères;NA;1
+GOOPL;2019;Transect arthropodes P2;Coléoptères;NA;1
+GTMBA;2019;Transect arthropodes P2;Hétéroptères;NA;1
+GTMBA;2019;Transect arthropodes P2;Coléoptères;NA;1
+GTMBA;2019;Transect arthropodes P2;Araneae;NA;1
+GUER;2019;Transect arthropodes P2;Collemboles;NA;1
+GUER;2019;Transect arthropodes P2;Homoptères;NA;1
+LUAUB;2019;Transect arthropodes P2;Mollusqua;NA;1
+MECHO;2019;Transect arthropodes P2;Homoptères;NA;1
+MECHO;2019;Transect arthropodes P2;Homoptères;NA;1
+MECHO;2019;Transect arthropodes P2;Diptères;NA;1
+MOZIN_AVEC_GESTION;2019;Transect arthropodes P2;Hétéroptères;NA;1
+MOZIN_SANS_GESTION;2019;Transect arthropodes P2;Hyménoptères;NA;1
+OLSER;2019;Transect arthropodes P2;Araneae;NA;1
+PAREX;2019;Transect arthropodes P2;Araneae;NA;1
+PERIS;2019;Transect arthropodes P2;Araneae;NA;1
+PERIS;2019;Transect arthropodes P2;Homoptères;NA;1
+PROMA;2019;Transect arthropodes P2;Homoptères;NA;1
+PROMA;2019;Transect arthropodes P2;Hyménoptères;NA;1
+PROMA;2019;Transect arthropodes P2;Hétéroptères;NA;1
+PULMA;2019;Transect arthropodes P2;Hétéroptères;NA;1
+PULMA;2019;Transect arthropodes P2;Mollusqua;NA;1
+SIBUET;2019;Transect arthropodes P2;Homoptères;NA;1
+WWF;2019;Transect arthropodes P2;Homoptères;NA;1
+GUER;2019;Transect arthropodes P1;Homoptères;Zyginidia;2
+MOZIN_AVEC_GESTION;2019;Transect arthropodes P1;Homoptères;Zyginidia;2
+CIROB;2019;Transect arthropodes P1;Araneae;Zygiella x-notata;2
+WWF;2017;Transect arthropode Session 1;Arachnida;Xysticus kochi;2
+SIBUET;2017;Transect arthropode Session 1;Arachnida;Xysticus;2
+CIMOD;2018;Transect arthropode Session 2;Arachnida;Xysticus;2
+PULMA;2018;Transect arthropode Session 2;Arachnida;Xysticus;2
+MOZIN_AVEC_GESTION;2018;Transect arthropode Session 2;Arachnida;Xysticus;2
+CIROB;2019;Transect arthropodes P2;Araneae;Xysticus;2
+PULMA;2019;Transect arthropodes P2;Araneae;Xysticus;2
+ROROL;2019;Transect arthropodes P2;Araneae;Xysticus;2
+PULMA;2017;Transect arthropode Session 1;Mollusca;Xerotricha conspurcata;2
+ECOBIO_BOIS;2019;Transect arthropodes P2;Coléoptères;Vibidia duodecimguttata;2
+ECOBIO_BOIS;2018;Transect arthropode Session 2;Diptera;Toxoneura muliebris;2
+MOZIN_SANS_GESTION;2019;Transect arthropodes P1;Diptères;Thereva;2
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 1;Diptera;Thecophora atra;2
+PROMA;2018;Transect arthropode Session 1;Diptera;Thecophora atra;2
+GUER;2019;Transect arthropodes P2;Orthoptères;Tettigonia viridissima;2
+RUWAT;2017;Transect arthropode Session 1;Hymenoptera;Tetramorium;2
+CIROB;2017;Transect arthropode Session 1;Hymenoptera;Tetramorium;2
+ALBAR;2018;Transect arthropode Session 1;Hymenoptera;Tetramorium;2
+ECOBIO_BOIS;2018;Plaques;Hymenoptera;Tetramorium;2
+ROROL;2018;Transect arthropode Session 2;Hymenoptera;Tetramorium;2
+MOZIN_AVEC_GESTION;2019;Transect arthropodes P1;Hyménoptères;Tetramorium;2
+FAUTEM;2017;Transect arthropode Session 1;Arachnida;Tenuiphantes tenuis;2
+ANTHEU;2017;Transect arthropode Session 2;Arachnida;Tenuiphantes tenuis;2
+ALBAR;2019;Transect arthropodes P2;Araneae;Tenuiphantes tenuis;2
+SEINE;2018;Transect arthropode Session 1;Arachnida;Tenuiphantes;2
+GOOPL;2017;Transect arthropode Session 2;Heteroptera;Stygnocoris sabulosus;2
+FRANK;2018;Transect arthropode Session 1;Heteroptera;Stictopleurus punctatonervosus;2
+FRANK;2017;Transect arthropode Session 2;Diptera;Sphaerophoria scripta;2
+GOOPL;2017;Transect arthropode Session 2;Diptera;Sphaerophoria scripta;2
+CIROB;2019;Transect arthropodes P1;Diptères;Sphaerophoria scripta;2
+GTMBA;2019;Transect arthropodes P1;Coléoptères;Spermophagus;2
+FRANK;2019;Transect arthropodes P1;Coléoptères;Sitona;2
+GUER;2019;Transect arthropodes P2;Chilopodes;Sigibius;2
+WWF;2018;Transect arthropode Session 1;Coleoptera;Scymnus rubromaculatus;2
+FRANK;2018;Transect arthropode Session 1;Diptera;Sapromyza sexpunctata;2
+MECHO;2017;Transect arthropode Session 1;Arachnida;Runcinia grammica;2
+MOZIN_SANS_GESTION;2017;Transect arthropode Session 1;Arachnida;Runcinia grammica;2
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 1;Arachnida;Runcinia grammica;2
+BOUTOU;2019;Transect arthropodes P1;Araneae;Runcinia grammica;2
+FRANK;2019;Transect arthropodes P1;Araneae;Runcinia grammica;2
+PAREX;2019;Transect arthropodes P1;Araneae;Runcinia grammica;2
+PAREX;2019;Transect arthropodes P2;Araneae;Runcinia grammica;2
+MOZIN_SANS_GESTION;2017;Plaques;Heteroptera;Rhyparochromus vulgaris;2
+GOOPL;2017;Plaques;Heteroptera;Rhyparochromus;2
+WWF;2017;Transect arthropode Session 1;Heteroptera;Rhopalus subrufus;2
+MOZIN_SANS_GESTION;2017;Transect arthropode Session 1;Heteroptera;Rhopalus subrufus;2
+SIBUET;2018;Transect arthropode Session 1;Heteroptera;Rhopalus subrufus;2
+OLSER;2018;Transect arthropode Session 1;Heteroptera;Rhopalus subrufus;2
+GOOPL;2018;Transect arthropode Session 2;Heteroptera;Rhopalus subrufus;2
+WWF;2017;Transect arthropode Session 1;Heteroptera;Rhopalus;2
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 1;Coleoptera;Rhopalapion longirostre;2
+MOZIN_SANS_GESTION;2017;Plaques;Heteroptera;Pyrrhocoris apterus;2
+WWF;2018;Transect arthropode Session 1;Heteroptera;Pyrrhocoris apterus;2
+MOZIN_AVEC_GESTION;2019;Transect arthropodes P1;Hétéroptères;Pyrrhocoris apterus;2
+ECOBIO_BOIS;2018;Transect arthropode Session 2;Coleoptera;Psylliodes;2
+RUWAT;2017;Transect arthropode Session 1;Arachnida;Pseudeuophrys lanigera;2
+ANTHEU;2017;Transect arthropode Session 1;Arachnida;Pseudeuophrys erratica;2
+PULMA;2018;Transect arthropode Session 2;Arachnida;Pseudeuophrys erratica;2
+PULMA;2018;Plaques;Arachnida;Pseudeuophrys;2
+ECOBIO_PRAIRIE;2019;Transect arthropodes P2;Homoptères;Psammotettix;2
+GOOPL;2017;Transect arthropode Session 1;Isopoda;Porcellio scaber;2
+ECOBIO_BOIS;2017;Plaques;Isopoda;Porcellio scaber;2
+GOOPL;2017;Transect arthropode Session 2;Isopoda;Porcellio scaber;2
+KELLER;2019;Transect arthropodes P1;Isopodes;Porcellio scaber;2
+GUER;2019;Transect arthropodes P2;Isopodes;Porcellio scaber;2
+FAUTEM;2017;Transect arthropode Session 1;Hymenoptera;Polistes dominula;2
+CIROB;2017;Transect arthropode Session 1;Hymenoptera;Polistes dominula;2
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 1;Coleoptera;Podagrica fuscipes;2
+GOOPL;2017;Transect arthropode Session 1;Lepidoptera;Pieris brassicae;2
+ECOBIO_BOIS;2018;Transect arthropode Session 2;Heteroptera;Phytocoris;2
+GRENEL;2018;Transect arthropode Session 2;Heteroptera;Phytocoris;2
+GOOPL;2017;Transect arthropode Session 1;Coleoptera;Philonthus;2
+CIMOD;2018;Transect arthropode Session 2;Hymenoptera;Philanthus triangulum;2
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 2;Homoptera;Philaenus spumarius;2
+MOZIN_SANS_GESTION;2019;Transect arthropodes P1;Homoptères;Philaenus spumarius;2
+GOOPL;2019;Transect arthropodes P2;Diptères;Pherbellia cinerella;2
+GOOPL;2017;Transect arthropode Session 1;Orthoptera;Phaneroptera;2
+PROMA;2017;Transect arthropode Session 2;Heteroptera;Peritrechus gracilicornis;2
+KELLER;2019;Transect arthropodes P2;Hétéroptères;Peritrechus;2
+SEINE;2019;Transect arthropodes P2;Araneae;Pardosa proxima;2
+GRENEL;2018;Transect arthropode Session 2;Arachnida;Pardosa;2
+GTMBA;2019;Transect arthropodes P2;Araneae;Pardosa;2
+FAUTEM;2017;Transect arthropode Session 2;Diptera;Paragus quadrifasciatus;2
+MECHO;2018;Transect arthropode Session 2;Arachnida;Ozyptila;2
+CD93;2019;Transect arthropodes P1;Araneae;Oxyopes lineatus;2
+GOOPL;2017;Transect arthropode Session 2;Mollusca;Oxychilus cellarius;2
+MOZIN_SANS_GESTION;2017;Transect arthropode Session 2;Heteroptera;Oxycarenus lavaterae;2
+FAUTEM;2018;Plaques;Diplopoda;Oxidus gracilis;2
+FAUTEM;2018;Transect arthropode Session 1;Coleoptera;Oulema;2
+PROMA;2017;Transect arthropode Session 1;Coleoptera;Otiorhynchus sulcatus;2
+PROMA;2017;Transect arthropode Session 2;Coleoptera;Otiorhynchus sulcatus;2
+PROMA;2017;Plaques;Coleoptera;Otiorhynchus sulcatus;2
+ANTHEU;2018;Transect arthropode Session 1;Arachnida;Ostearius melanopygius;2
+FRANK;2018;Transect arthropode Session 1;Heteroptera;Orius;2
+CHAVIN;2019;Transect arthropodes P1;Hétéroptères;Orius;2
+WWF;2018;Transect arthropode Session 1;Collembola;Orchesella cincta;2
+CIROB;2019;Transect arthropodes P2;Coléoptères;Olibrus;2
+FRANK;2019;Transect arthropodes P2;Coléoptères;Olibrus;2
+KELLER;2019;Transect arthropodes P1;Coléoptères;Oedemera nobilis;2
+GTMBA;2019;Transect arthropodes P2;Coléoptères;Oedemera nobilis;2
+WWF;2019;Transect arthropodes P1;Coléoptères;Oedemera lurida;2
+BOUTOU;2018;Transect arthropode Session 1;Heteroptera;Nysius thymi;2
+OLSER;2017;Transect arthropode Session 1;Heteroptera;Nysius senecionis;2
+FRANK;2018;Transect arthropode Session 1;Heteroptera;Nysius senecionis;2
+LUAUB;2018;Transect arthropode Session 1;Heteroptera;Nysius immunis;2
+PERIS;2018;Transect arthropode Session 1;Heteroptera;Nysius immunis;2
+BOUCHA;2018;Transect arthropode Session 2;Heteroptera;Nysius immunis;2
+BOUCHA;2019;Transect arthropodes P1;Hétéroptères;Nysius immunis;2
+GTMBA WILD;2019;Transect arthropodes P1;Hétéroptères;Nysius immunis;2
+CD93;2019;Transect arthropodes P2;Hétéroptères;Nysius immunis;2
+PERIS;2019;Transect arthropodes P2;Hétéroptères;Nysius immunis;2
+LUAUB;2017;Transect arthropode Session 1;Heteroptera;Nysius graminicola;2
+FRANK;2017;Transect arthropode Session 1;Heteroptera;Nysius graminicola;2
+FRANK;2017;Transect arthropode Session 2;Heteroptera;Nysius graminicola;2
+RUWATT;2019;Transect arthropodes P2;Hétéroptères;Nysius graminicola;2
+LUAUB;2017;Transect arthropode Session 1;Heteroptera;Nysius ericae;2
+OLSER;2019;Transect arthropodes P1;Hétéroptères;Nysius ericae;2
+RUWAT;2019;Transect arthropodes P1;Hétéroptères;Nysius ;2
+CIMOD;2017;Transect arthropode Session 1;Heteroptera;Nysius;2
+LUAUB;2018;Transect arthropode Session 2;Heteroptera;Nysius;2
+MUENT;2018;Transect arthropode Session 2;Heteroptera;Nysius;2
+ALBAR;2018;Transect arthropode Session 2;Heteroptera;Nysius;2
+CHAVIN;2018;Transect arthropode Session 2;Heteroptera;Nysius;2
+SIBUET;2018;Transect arthropode Session 2;Heteroptera;Nysius;2
+PULMA;2019;Transect arthropodes P2;Hétéroptères;Nysius;2
+FONTA;2017;Transect arthropode Session 1;Coleoptera;Notiophilus substriatus;2
+MECHO;2017;Transect arthropode Session 2;Heteroptera;Nabis pseudoferus pseudoferus;2
+FRANK;2017;Transect arthropode Session 1;Heteroptera;Nabis pseudoferus;2
+MECHO;2017;Transect arthropode Session 1;Heteroptera;Nabis;2
+MOZIN_SANS_GESTION;2017;Transect arthropode Session 1;Heteroptera;Nabis;2
+BOUTOU;2017;Transect arthropode Session 1;Heteroptera;Nabis;2
+ALBAR;2018;Transect arthropode Session 1;Heteroptera;Nabis;2
+MECHO;2018;Transect arthropode Session 1;Heteroptera;Nabis;2
+SEINE;2018;Transect arthropode Session 1;Heteroptera;Nabis;2
+GRENEL;2018;Transect arthropode Session 2;Heteroptera;Nabis;2
+KELLER;2019;Transect arthropodes P2;Hétéroptères;Nabis;2
+CIROB;2019;Transect arthropodes P2;Hyménoptères;Myrmica scabrinodis;2
+EIDER;2018;Transect arthropode Session 1;Diptera;Minettia;2
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 1;Diptera;Minettia;2
+MECHO;2017;Transect arthropode Session 1;Coleoptera;Microlestes minutulus;2
+ROROL;2018;Transect arthropode Session 1;Coleoptera;Microlestes;2
+CHAVIN;2018;Transect arthropode Session 1;Coleoptera;Microlestes;2
+PULMA;2017;Transect arthropode Session 2;Diptera;Meromyza;2
+GTMBA;2018;Transect arthropode Session 1;Diptera;Melanostoma mellinum;2
+BOUCHA;2018;Transect arthropode Session 1;Diptera;Melanostoma mellinum;2
+PROMA;2017;Transect arthropode Session 1;Homoptera;Megophthalmus;2
+FRANK;2017;Transect arthropode Session 1;Heteroptera;Megalonotus sabulicola;2
+RUWAT;2018;Transect arthropode Session 1;Heteroptera;Megalonotus sabulicola;2
+GOOPL;2017;Plaques;Heteroptera;Megalonotus praetextatus;2
+MOZIN_AVEC_GESTION;2019;Transect arthropodes P1;Hétéroptères;Megalonotus praetextatus;2
+RUWAT;2017;Transect arthropode Session 2;Heteroptera;Megalonotus;2
+KELLER;2019;Transect arthropodes P1;Hétéroptères;Megalonothus ;2
+AMROU;2019;Transect arthropodes P2;Hyménoptères;Megaghile pilidens;2
+OLSER;2017;Transect arthropode Session 1;Arachnida;Mangora acalypha;2
+ANTHEU;2017;Transect arthropode Session 2;Arachnida;Mangora acalypha;2
+ALBAR;2018;Transect arthropode Session 1;Arachnida;Mangora acalypha;2
+ALBAR;2019;Transect arthropodes P1;Araneae;Mangora acalypha;2
+CARON;2019;Transect arthropodes P1;Araneae;Mangora acalypha;2
+CHAVIN;2019;Transect arthropodes P1;Araneae;Mangora acalypha;2
+CIROB;2019;Transect arthropodes P1;Araneae;Mangora acalypha;2
+GOOPL;2019;Transect arthropodes P1;Araneae;Mangora acalypha;2
+PULMA;2019;Transect arthropodes P1;Araneae;Mangora acalypha;2
+FRANK;2017;Transect arthropode Session 1;Heteroptera;Lygus pratensis;2
+GTMBA;2017;Transect arthropode Session 1;Heteroptera;Lygus pratensis;2
+ROROL;2017;Transect arthropode Session 2;Heteroptera;Lygus pratensis;2
+ALBAR;2018;Transect arthropode Session 1;Heteroptera;Lygus pratensis;2
+CHAVIN;2018;Transect arthropode Session 2;Heteroptera;Lygus pratensis;2
+GRENEL;2018;Transect arthropode Session 2;Heteroptera;Lygus pratensis;2
+GOOPL;2017;Transect arthropode Session 1;Heteroptera;Lygus gemellatus;2
+BOUTOU;2018;Transect arthropode Session 1;Coleoptera;Longitarsus;2
+BOUTOU;2019;Transect arthropodes P1;Coléoptères;Longitarsus;2
+CHAVIN;2019;Transect arthropodes P1;Coléoptères;Longitarsus;2
+BOUHOP;2017;Plaques;Chilopoda;Lithobius;2
+LUAUB;2018;Transect arthropode Session 1;Chilopoda;Lithobius;2
+MECHO;2018;Transect arthropode Session 1;Chilopoda;Lithobius;2
+AMROU;2017;Transect arthropode Session 1;Mollusca;Lauria cylindracea;2
+ECOBIO_BOIS;2018;Transect arthropode Session 2;Hymenoptera;Lasius platythorax;2
+GOOPL;2017;Transect arthropode Session 1;Hymenoptera;Lasius niger;2
+SEINE;2018;Transect arthropode Session 1;Hymenoptera;Lasius niger;2
+GOOPL;2018;Transect arthropode Session 1;Hymenoptera;Lasius niger;2
+GRENEL;2018;Transect arthropode Session 1;Hymenoptera;Lasius niger;2
+PERIS;2018;Transect arthropode Session 1;Hymenoptera;Lasius niger;2
+OLSER;2018;Transect arthropode Session 1;Hymenoptera;Lasius niger;2
+ECOBIO_PRAIRIE;2018;Transect arthropode Session 2;Hymenoptera;Lasius niger;2
+FAUTEM;2018;Plaques;Hymenoptera;Lasius niger;2
+WWF;2018;Transect arthropode Session 2;Hymenoptera;Lasius niger;2
+CHAVIN;2018;Transect arthropode Session 2;Hymenoptera;Lasius niger;2
+CHAVIN;2019;Transect arthropodes P1;Hyménoptères;Lasius niger;2
+WWF;2019;Transect arthropodes P1;Hyménoptères;Lasius niger;2
+GOOPL;2019;Transect arthropodes P2;Hyménoptères;Lasius niger;2
+WWF;2019;Transect arthropodes P2;Hyménoptères;Lasius niger;2
+ROROL;2018;Transect arthropode Session 1;Hymenoptera;Lasius emarginatus;2
+CD93;2018;Transect arthropode Session 1;Hymenoptera;Lasius emarginatus;2
+FONTA;2018;Transect arthropode Session 1;Hymenoptera;Lasius emarginatus;2
+MUENT;2018;Transect arthropode Session 2;Hymenoptera;Lasius emarginatus;2
+FONTA;2019;Transect arthropodes P1;Hyménoptères;Lasius emarginatus;2
+WWF;2019;Transect arthropodes P1;Hyménoptères;Lasius emarginatus;2
+PULMA;2018;Transect arthropode Session 1;Hymenoptera;Lasius alienus;2
+FRANK;2019;Transect arthropodes P2;Hyménoptères;Lasius ;2
+OLSER;2017;Transect arthropode Session 1;Lepidoptera;Lasiommata maera;2
+MOZIN_AVEC_GESTION;2018;Transect arthropode Session 2;Lepidoptera;Lasiommata maera;2
+CHAVIN;2017;Transect arthropode Session 1;Hymenoptera;Lasioglossum quadrinotatum;2
+FRANK;2017;Transect arthropode Session 1;Hymenoptera;Lasioglossum prasinum;2
+CIROB;2019;Transect arthropodes P2;Hyménoptères;Lasioglossum pauxilum;2
+CHAVIN;2017;Transect arthropode Session 1;Hymenoptera;Lasioglossum pauxillum;2
+BOUHOP;2017;Transect arthropode Session 2;Hymenoptera;Lasioglossum morio;2
+ALBAR;2017;Transect arthropode Session 2;Hymenoptera;Lasioglossum morio;2
+GTMBA;2018;Transect arthropode Session 1;Hymenoptera;Lasioglossum morio;2
+CIROB;2018;Transect arthropode Session 1;Hymenoptera;Lasioglossum morio;2
+OLSER;2018;Transect arthropode Session 1;Hymenoptera;Lasioglossum morio;2
+WWF;2018;Transect arthropode Session 2;Hymenoptera;Lasioglossum morio;2
+AMROU;2019;Transect arthropodes P2;Hyménoptères;Lasioglossum morio;2
+FONTA;2019;Transect arthropodes P2;Hyménoptères;Lasioglossum morio;2
+PULMA;2019;Transect arthropodes P2;Hyménoptères;Lasioglossum malachurum;2
+CIROB;2017;Transect arthropode Session 2;Hymenoptera;Lasioglossum limbellum;2
+CHAVIN;2018;Transect arthropode Session 1;Hymenoptera;Lasioglossum leucozonium;2
+MECHO;2018;Transect arthropode Session 2;Hymenoptera;Lasioglossum leucozonium;2
+ECOBIO_PRAIRIE;2019;Transect arthropodes P2;Hyménoptères;Lasioglossum leucozonium;2
+LUAUB;2018;Transect arthropode Session 2;Hymenoptera;Lasioglossum laticeps;2
+PULMA;2019;Transect arthropodes P1;Hyménoptères;Lasioglossum laticeps;2
+ECOBIO_BOIS;2018;Transect arthropode Session 2;Homoptera;Lamprotettix nitidulus;2
+GOOPL;2017;Transect arthropode Session 1;Hymenoptera;Isodontia mexicana;2
+CIMOD;2017;Transect arthropode Session 2;Heteroptera;Ischnocoris angustulus;2
+EIDER;2018;Plaques;Hymenoptera;Hypoponera eduardi;2
+GOOPL;2017;Transect arthropode Session 1;Hymenoptera;Hylaeus punctulatissimus;2
+FAUTEM;2017;Transect arthropode Session 1;Hymenoptera;Hylaeus hyalinatus;2
+SEINE;2019;Transect arthropodes P1;Coléoptères;Hoplia philanthus;2
+CHAVIN;2018;Transect arthropode Session 2;Coleoptera;Hippodamia variegata;2
+CIROB;2019;Transect arthropodes P1;Coléoptères;Hippodamia variegata;2
+ECOBIO_PRAIRIE;2019;Transect arthropodes P2;Coléoptères;Hippodamia variegata;2
+PERIS;2019;Transect arthropodes P2;Coléoptères;Hippodamia variegata;2
+SEINE;2019;Transect arthropodes P2;Coléoptères;Hippodamia variegata;2
+OLSER;2017;Transect arthropode Session 2;Heteroptera;Himacerus mirmicoides;2
+GRENEL;2018;Transect arthropode Session 1;Heteroptera;Himacerus mirmicoides;2
+CD93;2018;Transect arthropode Session 2;Heteroptera;Himacerus mirmicoides;2
+ECOBIO_BOIS;2017;Transect arthropode Session 1;Heteroptera;Heterotoma planicornis;2
+LUAUB;2017;Transect arthropode Session 1;Arachnida;Heliophanus tribulosus;2
+AMROU;2018;Transect arthropode Session 1;Arachnida;Heliophanus tribulosus;2
+FONTA;2018;Transect arthropode Session 1;Arachnida;Heliophanus tribulosus;2
+FONTA;2018;Transect arthropode Session 2;Arachnida;Heliophanus tribulosus;2
+GRENEL;2018;Transect arthropode Session 2;Arachnida;Heliophanus tribulosus;2
+AMROU;2019;Transect arthropodes P1;Araneae;Heliophanus tribulosus;2
+PULMA;2019;Transect arthropodes P1;Araneae;Heliophanus tribulosus;2
+PROMA;2018;Transect arthropode Session 1;Arachnida;Heliophanus cupreus;2
+SEINE;2019;Transect arthropodes P2;Coléoptères;Harpalus;2
+GOOPL;2017;Transect arthropode Session 1;Heteroptera;Halticus luteicollis;2
+FRANK;2017;Transect arthropode Session 2;Hymenoptera;Halictus scabiosae;2
+FRANK;2019;Transect arthropodes P1;Hyménoptères;Halictus maculatus;2
+PAREX;2017;Transect arthropode Session 1;Heteroptera;Geocoris megacephalus;2
+WWF;2019;Transect arthropodes P2;Hyménoptères;Formica cunicularia;2
+SEINE;2019;Transect arthropodes P2;Diptères;Fannia canicularis;2
+ECOBIO_BOIS;2017;Transect arthropode Session 1;Homoptera;Euscelis;2
+GUER;2019;Transect arthropodes P2;Homoptères;Eupteryx ;2
+ROROL;2017;Plaques;Arachnida;Eratigena atrica;2
+FRANK;2017;Transect arthropode Session 2;Diptera;Ensina sonchi;2
+ECOBIO_PRAIRIE;2019;Transect arthropodes P2;Hétéroptères;Emblethis griseus;2
+ANTHEU;2019;Transect arthropodes P2;Homoptères;Elymana sulphurella;2
+RUWATT;2019;Transect arthropodes P2;Homoptères;Elymana sulphurella;2
+LUAUB;2017;Transect arthropode Session 1;Blattoptera;Ectobius vinzi;2
+CD93;2018;Transect arthropode Session 2;Blattoptera;Ectobius vinzi;2
+GOOPL;2017;Transect arthropode Session 1;Heteroptera;Dolycoris baccarum;2
+ALBAR;2018;Transect arthropode Session 1;Diptera;Dolichopus;2
+OLSER;2019;Transect arthropodes P1;Hétéroptères;Dicyphus;2
+OLSER;2019;Transect arthropodes P2;Hétéroptères;Dicyphus;2
+EIDER;2018;Transect arthropode Session 1;Diptera;Delia platura;2
+BOUCHA;2019;Transect arthropodes P1;Diptères;Delia platura;2
+EIDER;2019;Transect arthropodes P1;Diptères;Delia platura;2
+CIROB;2019;Transect arthropodes P2;Diptères;Delia platura;2
+ROROL;2018;Transect arthropode Session 1;Diptera;Delia;2
+ECOBIO_PRAIRIE;2019;Transect arthropodes P2;Hyménoptères;Cynips;2
+GUER;2019;Transect arthropodes P2;Diplopodes;Cylindroiulus;2
+SIBUET;2018;Transect arthropode Session 2;Hymenoptera;Crossocerus;2
+CARON;2019;Transect arthropodes P2;Coléoptères;Corticarina;2
+CHAVIN;2017;Transect arthropode Session 1;Heteroptera;Coriomeris denticulatus;2
+GOOPL;2019;Transect arthropodes P2;Hétéroptères;Coriomeris denticulatus;2
+MECHO;2018;Transect arthropode Session 2;Heteroptera;Coranus kerzhneri;2
+WWF;2017;Transect arthropode Session 2;Mollusca;Cochlicopa lubrica;2
+PULMA;2017;Transect arthropode Session 2;Mollusca;Cochlicopa lubrica;2
+PAREX;2017;Transect arthropode Session 1;Coleoptera;Coccinella septempunctata;2
+PERIS;2017;Transect arthropode Session 1;Coleoptera;Coccinella septempunctata;2
+MUENT;2018;Transect arthropode Session 1;Coleoptera;Coccinella septempunctata;2
+ANTHEU;2018;Transect arthropode Session 1;Coleoptera;Coccinella septempunctata;2
+MECHO;2018;Transect arthropode Session 1;Coleoptera;Coccinella septempunctata;2
+PULMA;2019;Transect arthropodes P1;Coléoptères;Coccinella septempunctata;2
+ROROL;2017;Transect arthropode Session 1;Homoptera;Circulifer haematoceps;2
+FAUTEM;2017;Transect arthropode Session 1;Homoptera;Circulifer haematoceps;2
+FRANK;2017;Transect arthropode Session 2;Nevroptera;Chrysoperla;2
+ECOBIO_BOIS;2017;Transect arthropode Session 2;Nevroptera;Chrysoperla;2
+AMROU;2018;Transect arthropode Session 1;Nevroptera;Chrysoperla;2
+BOUTOU;2019;Transect arthropodes P1;Orthoptères;Chortippus;2
+FRANK;2019;Transect arthropodes P1;Orthoptères;Chortippus;2
+CHAVIN;2017;Transect arthropode Session 1;Orthoptera;Chorthippus brunneus;2
+MOZIN_SANS_GESTION;2017;Transect arthropode Session 1;Orthoptera;Chorthippus ;2
+ROROL;2017;Transect arthropode Session 1;Orthoptera;Chorthippus;2
+CIROB;2019;Transect arthropodes P1;Orthoptères;Chorthippus;2
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 1;Diptera;Chloromyia formosa;2
+GOOPL;2017;Transect arthropode Session 1;Heteroptera;Chlamydatus evanescens;2
+WWF;2017;Transect arthropode Session 1;Heteroptera;Chlamydatus evanescens;2
+MUENT;2018;Transect arthropode Session 1;Heteroptera;Chlamydatus evanescens;2
+CARON;2018;Transect arthropode Session 1;Heteroptera;Chlamydatus evanescens;2
+ALBAR;2018;Transect arthropode Session 2;Heteroptera;Chlamydatus evanescens;2
+CD93;2019;Transect arthropodes P1;Hétéroptères;Chlamydatus evanescens;2
+ROROLL;2019;Transect arthropodes P1;Hétéroptères;Chlamydatus evanescens;2
+ANTHEU;2019;Transect arthropodes P2;Hétéroptères;Chlamydatus evanescens;2
+PROMA;2019;Transect arthropodes P2;Hétéroptères;Chlamydatus evanescens;2
+FRANK;2017;Transect arthropode Session 1;Heteroptera;Camptopus lateralis;2
+GTMBA;2017;Transect arthropode Session 1;Heteroptera;Camptopus lateralis;2
+CHAVIN;2017;Transect arthropode Session 2;Heteroptera;Camptopus lateralis;2
+FAUTEM;2018;Transect arthropode Session 1;Lepidoptera;Camptogramma bilineata;2
+CD93;2018;Transect arthropode Session 2;Diptera;Camarota curvipennis;2
+ECOBIO_BOIS;2017;Transect arthropode Session 1;Coleoptera;Calathus melanocephalus;2
+ECOBIO_PRAIRIE;2017;Transect arthropode Session 1;Coleoptera;Bruchus;2
+FRANK;2019;Transect arthropodes P1;Coléoptères;Bruchus;2
+BOUTOU;2019;Transect arthropodes P1;Hétéroptères;Brachyplax tenuis;2
+GOOPL;2017;Plaques;Heteroptera;Beosus maritimus;2
+GTMBA;2019;Transect arthropodes P1;Hétéroptères;Beosus maritimus;2
+FAUTEM;2017;Transect arthropode Session 1;Isopoda;Armadillidium nasatum;2
+CIROB;2017;Transect arthropode Session 2;Isopoda;Armadillidium nasatum;2
+FAUTEM;2017;Transect arthropode Session 2;Isopoda;Armadillidium nasatum;2
+AMROU;2017;Transect arthropode Session 2;Isopoda;Armadillidium nasatum;2
+GTMBA;2017;Transect arthropode Session 2;Isopoda;Armadillidium nasatum;2
+PULMA;2017;Plaques;Isopoda;Armadillidium nasatum;2
+FAUTEM;2018;Transect arthropode Session 1;Isopoda;Armadillidium nasatum;2
+RUWAT;2018;Transect arthropode Session 1;Isopoda;Armadillidium nasatum;2
+BOUTOU;2018;Transect arthropode Session 1;Isopoda;Armadillidium nasatum;2
+FAUTEM;2019;Transect arthropodes P1;Isopodes;Armadillidium nasatum;2
+KELLER;2019;Transect arthropodes P1;Isopodes;Armadillidium nasatum;2
+GOOPL;2019;Transect arthropodes P2;Isopodes;Armadillidium nasatum;2
+GTMBA;2019;Transect arthropodes P2;Isopodes;Armadillidium nasatum;2
+SEINE;2019;Transect arthropodes P2;Crustacé;Armadillidium nasatum;2
+MOZIN_AVEC_GESTION;2018;Transect arthropode Session 2;Lepidoptera;Aricia agestis;2
+MOZIN_SANS_GESTION;2017;Transect arthropode Session 1;Arachnida;Argiope bruennichi;2
+ROROL;2017;Transect arthropode Session 1;Arachnida;Araneus diadematus;2
+CIMOD;2017;Transect arthropode Session 1;Homoptera;Aphrodes makarovi;2
+GTMBA WILD;2019;Transect arthropodes P2;Homoptères;Aphrodes;2
+MECHO;2017;Transect arthropode Session 1;Homoptera;Anaceratagallia;2
+PULMA;2017;Transect arthropode Session 1;Coleoptera;Amara aenea;2
+ALBAR;2018;Transect arthropode Session 1;Coleoptera;Amara;2
+MOZIN_SANS_GESTION;2019;Transect arthropodes P1;Coléoptères;Amara;2
+WWF;2019;Transect arthropodes P2;Coléoptères;Amara;2
+GTMBA;2019;Transect arthropodes P2;Hétéroptères;Alydus calcaratus;2
+CARON;2018;Transect arthropode Session 1;Coleoptera;Altica;2
+GTMBA WILD;2019;Transect arthropodes P1;Coléoptères;Altica;2
+PAREX;2019;Transect arthropodes P1;Coléoptères;Altica;2
+KELLER;2019;Transect arthropodes P2;Araneae;Agyneta;2
+KELLER;2019;Transect arthropodes P2;Homoptères;Agallia;2
+CHAVIN;2017;Transect arthropode Session 1;Heteroptera;Aelia acuminata;2
+CIROB;2017;Transect arthropode Session 2;Heteroptera;Aelia acuminata;2
+MOZIN_SANS_GESTION;2017;Transect arthropode Session 2;Heteroptera;Aelia acuminata;2
+WWF;2018;Transect arthropode Session 2;Heteroptera;Aelia acuminata;2
+KELLER;2019;Transect arthropodes P2;Hétéroptères;Aelia acuminata;2
+CARON;2018;Transect arthropode Session 1;Coleoptera;Acupalpus;2
+ECOBIO_BOIS;2019;Transect arthropodes P2;Homoptères;NA;2
+CARON;2019;Transect arthropodes P1;Homoptères;NA;2
+CHAVIN;2019;Transect arthropodes P1;Diptères;NA;2
+CIROB;2019;Transect arthropodes P1;Diptères;NA;2
+CIROB;2019;Transect arthropodes P1;Diptères;NA;2
+ECOBIO_PRAIRIE;2019;Transect arthropodes P1;Diptères;NA;2
+EIDER;2019;Transect arthropodes P1;Hyménoptères;NA;2
+EIDER;2019;Transect arthropodes P1;Diptères;NA;2
+FONTA;2019;Transect arthropodes P1;Araneae;NA;2
+GOOPL;2019;Transect arthropodes P1;Homoptères;NA;2
+GRENEL;2019;Transect arthropodes P1;Dermaptères;NA;2
+GUER;2019;Transect arthropodes P1;Hyménoptères;NA;2
+SEINE;2019;Transect arthropodes P1;Coléoptères;NA;2
+SIBUET;2019;Transect arthropodes P1;Mollusqua;NA;2
+WWF;2019;Transect arthropodes P1;Mollusqua;NA;2
+AMROU;2019;Transect arthropodes P2;Homoptères;NA;2
+ECOBIO_PRAIRIE;2019;Transect arthropodes P2;Hyménoptères;NA;2
+EIDER;2019;Transect arthropodes P2;Homoptères;NA;2
+EIDER;2019;Transect arthropodes P2;Hétéroptères;NA;2
+FAUTEM;2019;Transect arthropodes P2;Orthoptères;NA;2
+GTMBA WILD;2019;Transect arthropodes P2;Hétéroptères;NA;2
+GUER;2019;Transect arthropodes P2;Homoptères;NA;2
+KELLER;2019;Transect arthropodes P2;Coléoptères;NA;2
+MOZIN_AVEC_GESTION;2019;Transect arthropodes P2;Hétéroptères;NA;2
+PERIS;2019;Transect arthropodes P2;Mollusqua;NA;2
+GOOPL;2017;Transect arthropode Session 1;Arachnida;Xysticus kochi;3
+ANTHEU;2019;Transect arthropodes P2;Araneae;Xysticus;3
+CD93;2019;Transect arthropodes P2;Araneae;Xysticus;3
+LUAUB;2019;Transect arthropodes P2;Araneae;Xysticus;3
+PULMA;2019;Transect arthropodes P2;Hétéroptères;Trapezonotus dispar;3
+ECOBIO_PRAIRIE;2018;Transect arthropode Session 2;Diptera;Thaumatomyia notata;3
+ECOBIO_PRAIRIE;2018;Transect arthropode Session 1;Hymenoptera;Tetramorium;3
+BOUCHA;2019;Transect arthropodes P1;Hyménoptères;Tetramorium;3
+ROROLL;2019;Transect arthropodes P1;Hyménoptères;Tetramorium;3
+PULMA;2018;Transect arthropode Session 2;Hymenoptera;Tapinoma nigerrimum;3
+CHAVIN;2017;Transect arthropode Session 1;Heteroptera;Stictopleurus punctatonervosus;3
+ECOBIO_BOIS;2017;Transect arthropode Session 2;Heteroptera;Stenodema sericans;3
+GTMBA;2019;Transect arthropodes P2;Diptères;Sphaerophoria scripta;3
+GTMBA;2017;Transect arthropode Session 1;Coleoptera;Sitona lineatus;3
+CARON;2019;Plaques;Chilopodes;Sigibius;3
+SEINE;2018;Transect arthropode Session 1;Lepidoptera;Sesia apiformis;3
+PROMA;2019;Transect arthropodes P2;Diptères;Sepsis;3
+GOOPL;2017;Plaques;Heteroptera;Scolopostethus;3
+MOZIN_AVEC_GESTION;2018;Transect arthropode Session 1;Diptera;Sapromyza sexpunctata;3
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 1;Diptera;Sapromyza sexpunctata;3
+BOUTOU;2018;Transect arthropode Session 1;Arachnida;Runcinia grammica;3
+GTMBA;2019;Transect arthropodes P1;Araneae;Runcinia grammica;3
+GTMBA;2019;Transect arthropodes P2;Araneae;Runcinia grammica;3
+GOOPL;2017;Transect arthropode Session 1;Heteroptera;Rhopalus;3
+MOZIN_AVEC_GESTION;2018;Transect arthropode Session 1;Heteroptera;Pyrrhocoris apterus;3
+MOZIN_AVEC_GESTION;2019;Transect arthropodes P2;Hétéroptères;Pyrrhocoris apterus;3
+BOUCHA;2017;Transect arthropode Session 1;Homoptera;Psammotettix;3
+EIDER;2017;Transect arthropode Session 1;Isopoda;Porcellionides pruinosus;3
+WWF;2017;Transect arthropode Session 2;Isopoda;Porcellio scaber;3
+GUER;2019;Transect arthropodes P1;Isopodes;Porcellio scaber;3
+PROMA;2017;Transect arthropode Session 1;Lepidoptera;Pieris rapae;3
+GTMBA;2018;Transect arthropode Session 1;Arachnida;Pardosa;3
+PAREX;2018;Transect arthropode Session 1;Arachnida;Ozyptila;3
+FAUTEM;2018;Transect arthropode Session 1;Diplopoda;Oxidus gracilis;3
+CHAVIN;2017;Transect arthropode Session 1;Coleoptera;Olibrus;3
+CHAVIN;2019;Transect arthropodes P1;Coléoptères;Olibrus;3
+MECHO;2019;Transect arthropodes P2;Coléoptères;Olibrus;3
+EIDER;2017;Transect arthropode Session 1;Coleoptera;Oedemera nobilis;3
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 1;Coleoptera;Oedemera nobilis;3
+GOOPL;2017;Transect arthropode Session 1;Coleoptera;Oedemera lurida;3
+GOOPL;2019;Transect arthropodes P2;Coléoptères;Oedemera lurida;3
+ALBAR;2017;Transect arthropode Session 1;Heteroptera;Nysius senecionis;3
+FAUTEM;2017;Transect arthropode Session 2;Heteroptera;Nysius immunis;3
+RUWAT;2019;Transect arthropodes P1;Hétéroptères;Nysius immunis;3
+PROMA;2019;Transect arthropodes P2;Hétéroptères;Nysius immunis;3
+MOZIN_SANS_GESTION;2017;Transect arthropode Session 1;Heteroptera;Nysius graminicola;3
+CHAVIN;2017;Transect arthropode Session 1;Heteroptera;Nysius graminicola;3
+PULMA;2017;Transect arthropode Session 2;Heteroptera;Nysius graminicola;3
+KELLER;2019;Transect arthropodes P2;Hétéroptères;Nysius graminicola;3
+ROROLL;2019;Transect arthropodes P1;Hétéroptères;Nysius ;3
+CIROB;2018;Transect arthropode Session 2;Heteroptera;Nysius;3
+MECHO;2019;Transect arthropodes P1;Hétéroptères;Nysius;3
+GOOPL;2019;Transect arthropodes P1;Hétéroptères;Nyius;3
+MOZIN_SANS_GESTION;2017;Transect arthropode Session 2;Heteroptera;Nezara viridula;3
+BOUTOU;2019;Transect arthropodes P1;Hétéroptères;Nabis;3
+CARON;2019;Plaques;Hyménoptères;Myrmica scabrinodis;3
+ALBAR;2018;Transect arthropode Session 1;Diptera;Minettia;3
+MECHO;2019;Transect arthropodes P1;Coléoptères;Microlestes;3
+ALBAR;2019;Transect arthropodes P1;Hétéroptères;Metopoplax ditomoides;3
+ALBAR;2017;Transect arthropode Session 1;Coleoptera;Meligethes;3
+ALBAR;2017;Transect arthropode Session 1;Arachnida;Mangora acalypha;3
+OLSER;2017;Transect arthropode Session 2;Heteroptera;Lygus pratensis;3
+FRANK;2018;Transect arthropode Session 1;Heteroptera;Lygus pratensis;3
+FRANK;2019;Transect arthropodes P1;Hétéroptères;Lygus;3
+FRANK;2019;Transect arthropodes P2;Coléoptères;Longitarsus;3
+CIMOD;2017;Transect arthropode Session 1;Hymenoptera;Lasius niger;3
+ECOBIO_BOIS;2017;Transect arthropode Session 1;Hymenoptera;Lasius niger;3
+BOUHOP;2017;Transect arthropode Session 1;Hymenoptera;Lasius niger;3
+CIMOD;2018;Transect arthropode Session 1;Hymenoptera;Lasius niger;3
+FAUTEM;2018;Transect arthropode Session 1;Hymenoptera;Lasius niger;3
+PROMA;2018;Transect arthropode Session 1;Hymenoptera;Lasius niger;3
+CIROB;2017;Transect arthropode Session 1;Hymenoptera;Lasioglossum morio;3
+GTMBA;2017;Transect arthropode Session 1;Hymenoptera;Lasioglossum morio;3
+GTMBA;2017;Transect arthropode Session 2;Hymenoptera;Lasioglossum morio;3
+MOZIN_AVEC_GESTION;2018;Transect arthropode Session 1;Hymenoptera;Lasioglossum leucozonium;3
+CARON;2019;Transect arthropodes P2;Chilopodes;Lamyctes emarginatus;3
+CIROB;2019;Transect arthropodes P2;Coléoptères;Hippodamia variegata;3
+MOZIN_AVEC_GESTION;2019;Transect arthropodes P2;Coléoptères;Hippodamia variegata;3
+GOOPL;2017;Transect arthropode Session 1;Arachnida;Heliophanus;3
+FAUTEM;2017;Transect arthropode Session 1;Coleoptera;Harmonia axyridis;3
+ECOBIO_BOIS;2017;Transect arthropode Session 1;Dermaptera;Forficula auricularia;3
+ALBAR;2018;Transect arthropode Session 1;Diptera;Eupeodes corollae;3
+ECOBIO_BOIS;2017;Transect arthropode Session 1;Arachnida;Enoplognatha;3
+PAREX;2017;Transect arthropode Session 2;Blattoptera;Ectobius vinzi;3
+BOUTOU;2018;Transect arthropode Session 1;Blattoptera;Ectobius vinzi;3
+CHAVIN;2018;Transect arthropode Session 1;Diptera;Delia;3
+SEINE;2019;Transect arthropodes P1;Coléoptères;Corticaria;3
+PROMA;2017;Transect arthropode Session 1;Mollusca;Cornu aspersum;3
+GOOPL;2018;Transect arthropode Session 2;Heteroptera;Corizus hyoscyami hyoscyami;3
+CIMOD;2017;Transect arthropode Session 1;Orthoptera;Chorthippus;3
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 1;Orthoptera;Chorthippus;3
+PERIS;2018;Transect arthropode Session 2;Heteroptera;Chlamydatus evanescens;3
+ANTHEU;2018;Transect arthropode Session 2;Heteroptera;Chlamydatus evanescens;3
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 2;Lepidoptera;Carcharodus alceae;3
+WWF;2017;Transect arthropode Session 2;Mollusca;Candidula intersecta;3
+MECHO;2018;Transect arthropode Session 1;Coleoptera;Bembidion;3
+AMROU;2018;Transect arthropode Session 1;Isopoda;Armadillidium nasatum;3
+MOZIN_SANS_GESTION;2017;Transect arthropode Session 1;Homoptera;Aphrodes;3
+CIROB;2019;Transect arthropodes P1;Homoptères;Aphrodes;3
+PROMA;2017;Transect arthropode Session 2;Coleoptera;Amara;3
+MOZIN_SANS_GESTION;2017;Transect arthropode Session 1;Heteroptera;Aelia acuminata;3
+WWF;2019;Transect arthropodes P1;Hétéroptères;Aelia acuminata;3
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 2;Heteroptera;Adelphocoris lineolatus;3
+ECOBIO_BOIS;2019;Transect arthropodes P2;Homoptères;NA;3
+ANTHEU;2019;Transect arthropodes P1;Homoptères;NA;3
+ANTHEU;2019;Transect arthropodes P1;Collemboles;NA;3
+BOUCHA;2019;Transect arthropodes P1;Homoptères;NA;3
+CHAVIN;2019;Transect arthropodes P1;Homoptères;NA;3
+CIROB;2019;Transect arthropodes P1;Diptères;NA;3
+ECOBIO_PRAIRIE;2019;Transect arthropodes P1;Homoptères;NA;3
+EIDER;2019;Transect arthropodes P1;Homoptères;NA;3
+GOOPL;2019;Transect arthropodes P1;Diptères;NA;3
+KELLER;2019;Transect arthropodes P1;Mollusqua;NA;3
+PROMA;2019;Transect arthropodes P1;Homoptères;NA;3
+ROROLL;2019;Transect arthropodes P1;Homoptères;NA;3
+SEINE;2019;Transect arthropodes P1;Homoptères;NA;3
+SIBUET;2019;Transect arthropodes P1;Homoptères;NA;3
+ALBAR;2019;Transect arthropodes P2;Araneae;NA;3
+BOUTOU;2019;Transect arthropodes P2;Homoptères;NA;3
+PROMA;2019;Transect arthropodes P2;Homoptères;NA;3
+ROROL;2019;Transect arthropodes P2;Hétéroptères;NA;3
+SEINE;2019;Transect arthropodes P2;Homoptères;NA;3
+FRANK ;2019;Transect arthropodes P2;Araneae;Xysticus ;4
+ALBAR;2019;Transect arthropodes P2;Araneae;Xysticus;4
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 1;Diptera;Tricimba;4
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 1;Diptera;Thereva;4
+MOZIN_AVEC_GESTION;2018;Transect arthropode Session 1;Diptera;Thecophora atra;4
+PULMA;2019;Transect arthropodes P2;Diptères;Thecophora atra;4
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 1;Diptera;Thaumatomyia notata;4
+WWF;2019;Transect arthropodes P2;Orthoptères;Tettigonia viridissima;4
+BOUTOU;2019;Transect arthropodes P1;Hyménoptères;Tetramorium;4
+GOOPL;2017;Transect arthropode Session 1;Arachnida;Tenuiphantes tenuis;4
+ALBAR;2018;Transect arthropode Session 1;Arachnida;Tenuiphantes;4
+PULMA;2017;Transect arthropode Session 1;Hymenoptera;Tapinoma nigerrimum;4
+MECHO;2018;Transect arthropode Session 2;Heteroptera;Stictopleurus abutilon;4
+GOOPL;2019;Transect arthropodes P2;Diptères;Sphaerophoria scripta;4
+BOUTOU;2017;Transect arthropode Session 1;Arachnida;Runcinia grammica;4
+MECHO;2018;Transect arthropode Session 2;Arachnida;Runcinia grammica;4
+CIROB;2019;Transect arthropodes P2;Araneae;Runcinia grammica;4
+CIROB;2017;Transect arthropode Session 2;Heteroptera;Rhopalus subrufus;4
+MOZIN_SANS_GESTION;2019;Transect arthropodes P1;Coléoptères;Rhopalapion longirostre;4
+PULMA;2018;Transect arthropode Session 2;Heteroptera;Pyrrhocoris apterus;4
+GRENEL;2019;Transect arthropodes P1;Isopodes;Porcellio scaber;4
+MOZIN_SANS_GESTION;2019;Transect arthropodes P1;Isopodes;Porcellio scaber;4
+GOOPL;2017;Transect arthropode Session 1;Odonata;Platycnemis pennipes;4
+GOOPL;2019;Transect arthropodes P2;Odonates;Platycnemis pennipes;4
+CHAVIN;2019;Transect arthropodes P1;Homoptères;Philaenus spumarius;4
+AMROU;2018;Transect arthropode Session 1;Diptera;Pherbellia cinerella;4
+EIDER;2019;Transect arthropodes P2;Diptères;Pherbellia cinerella;4
+GTMBA;2019;Transect arthropodes P2;Diptères;Pherbellia cinerella;4
+MOZIN_SANS_GESTION;2019;Transect arthropodes P2;Hétéroptères;Oxycarenus lavaterae;4
+FAUTEM;2019;Transect arthropodes P2;Polydesmida;Oxidus gracilis;4
+SEINE;2019;Transect arthropodes P1;Coléoptères;Oedemera nobilis;4
+CIROB;2017;Transect arthropode Session 2;Heteroptera;Nysius immunis;4
+FONTA;2017;Transect arthropode Session 2;Heteroptera;Nysius immunis;4
+PERIS;2017;Transect arthropode Session 2;Heteroptera;Nysius immunis;4
+BOUCHA;2018;Transect arthropode Session 1;Heteroptera;Nysius immunis;4
+FRANK;2019;Transect arthropodes P1;Hétéroptères;Nysius immunis;4
+LUAUB;2019;Transect arthropodes P2;Hétéroptères;Nysius immunis;4
+ROROL;2019;Transect arthropodes P2;Hétéroptères;Nysius immunis;4
+BOUCHA;2017;Transect arthropode Session 1;Heteroptera;Nysius graminicola;4
+MECHO;2017;Transect arthropode Session 2;Heteroptera;Nysius graminicola;4
+GTMBA;2017;Transect arthropode Session 2;Heteroptera;Nysius graminicola;4
+PAREX;2019;Transect arthropodes P1;Hétéroptères;Nysius graminicola;4
+GTMBA WILD;2019;Transect arthropodes P2;Hétéroptères;Nysius graminicola;4
+SIBUET;2019;Transect arthropodes P2;Hétéroptères;Nysius graminicola;4
+RUWAT;2017;Transect arthropode Session 2;Heteroptera;Nysius;4
+SIBUET;2017;Transect arthropode Session 2;Heteroptera;Nysius;4
+ALBAR;2019;Transect arthropodes P1;Hétéroptères;Nysius;4
+PROMA;2019;Transect arthropodes P2;Hétéroptères;Nysius;4
+KELLER;2019;Transect arthropodes P2;Hétéroptères;Nezera viridula;4
+GOOPL;2017;Transect arthropode Session 1;Heteroptera;Nezara viridula;4
+MOZIN_SANS_GESTION;2019;Transect arthropodes P1;Araneae;Neottiura bimaculata;4
+GTMBA;2017;Transect arthropode Session 1;Heteroptera;Nabis;4
+CHAVIN;2017;Transect arthropode Session 1;Heteroptera;Nabis;4
+ECOBIO_BOIS;2019;Transect arthropodes P1;Hyménoptères;Myrmica scabrinodis;4
+GTMBA;2017;Transect arthropode Session 2;Mollusca;Monacha;4
+ALBAR;2019;Transect arthropodes P1;Diptères;Minettia;4
+ROROL;2018;Transect arthropode Session 1;Arachnida;Mangora acalypha;4
+KELLER;2019;Transect arthropodes P1;Araneae;Mangora acalypha;4
+PAREX;2017;Transect arthropode Session 2;Heteroptera;Lygus pratensis;4
+BOUHOP;2017;Transect arthropode Session 2;Heteroptera;Lygus pratensis;4
+MECHO;2018;Transect arthropode Session 2;Heteroptera;Lygus pratensis;4
+CARON;2019;Transect arthropodes P2;Hyménoptères;Lasius niger ;4
+ECOBIO_PRAIRIE;2018;Transect arthropode Session 1;Hymenoptera;Lasius niger;4
+MECHO;2018;Plaques;Hymenoptera;Lasius niger;4
+CHAVIN;2019;Transect arthropodes P1;Hyménoptères;Lasius niger;4
+ECOBIO_PRAIRIE;2019;Transect arthropodes P1;Hyménoptères;Lasius niger;4
+MECHO;2019;Plaques;Hyménoptères;Lasius;4
+ECOBIO_PRAIRIE;2019;Transect arthropodes P2;Hyménoptères;Lasioglossum quadrinotatum;4
+GTMBA;2017;Transect arthropode Session 1;Hymenoptera;Lasioglossum minutulum;4
+PAREX;2019;Transect arthropodes P2;Hyménoptères;Lasioglossum leucozonium;4
+PULMA;2019;Transect arthropodes P2;Hyménoptères;Lasioglossum laticeps;4
+GRENEL;2019;Transect arthropodes P1;Homoptères;Javesella pellucida;4
+FRANK;2017;Transect arthropode Session 1;Coleoptera;Hippodamia variegata;4
+CIROB;2017;Transect arthropode Session 1;Heteroptera;Himacerus mirmicoides;4
+GOOPL;2017;Transect arthropode Session 2;Heteroptera;Graphosoma italicum;4
+PERIS;2018;Transect arthropode Session 1;Homoptera;Eupteryx decemnotata;4
+CIROB;2017;Transect arthropode Session 1;Blattoptera;Ectobius vinzi;4
+OLSER;2019;Transect arthropodes P2;Hétéroptères;Dolychoris baccarum;4
+AMROU;2017;Transect arthropode Session 1;Homoptera;Circulifer haematoceps;4
+SEINE;2019;Transect arthropodes P2;Orthoptères;Chothippus brunneus;4
+CHAVIN;2019;Transect arthropodes P1;Orthoptères;Chortippus;4
+RUWAT;2019;Transect arthropodes P1;Orthoptères;Chortippus;4
+GTMBA;2019;Transect arthropodes P2;Orthoptères;Chortippus;4
+ECOBIO_PRAIRIE;2019;Transect arthropodes P2;Orthoptères;Chorthippus brunneus;4
+RUWATT;2019;Transect arthropodes P2;Orthoptères;Chorthippus;4
+MOZIN_SANS_GESTION;2019;Transect arthropodes P1;Diptères;Chloromyia formosa;4
+PAREX;2019;Transect arthropodes P1;Hétéroptères;Chlamydatus evanescens;4
+RUWAT;2018;Transect arthropode Session 1;Arachnida;Chalcoscirtus infimus;4
+CIROB;2017;Transect arthropode Session 1;Mollusca;Cernuella aginnica;4
+SIBUET;2017;Transect arthropode Session 2;Mollusca;Candidula intersecta;4
+GRENEL;2018;Transect arthropode Session 2;Homoptera;Asiraca clavicornis;4
+GRENEL;2019;Transect arthropodes P1;Homoptères;Asiraca clavicornis;4
+PULMA;2019;Transect arthropodes P2;Isopodes;Armadillidium depressum;4
+ECOBIO_PRAIRIE;2018;Transect arthropode Session 2;Coleoptera;Altica;4
+GOOPL;2019;Transect arthropodes P1;Hétéroptères;Aelia acuminata;4
+ECOBIO_PRAIRIE;2019;Transect arthropodes P2;Hétéroptères;Aelia acuminata;4
+ALBAR;2018;Transect arthropode Session 1;Coleoptera;Acupalpus;4
+ANTHEU;2019;Transect arthropodes P1;Homoptères;NA;4
+CARON;2019;Transect arthropodes P1;Hétéroptères;NA;4
+CHAVIN;2019;Transect arthropodes P1;Homoptères;NA;4
+FAUTEM;2019;Transect arthropodes P1;Diptères;NA;4
+GTMBA;2019;Transect arthropodes P1;Homoptères;NA;4
+MOZIN_AVEC_GESTION;2019;Transect arthropodes P1;Orthoptères;NA;4
+MOZIN_SANS_GESTION;2019;Transect arthropodes P1;Araneae;NA;4
+PROMA;2019;Transect arthropodes P1;Diptères;NA;4
+SEINE;2019;Transect arthropodes P1;Collemboles;NA;4
+GOOPL;2019;Transect arthropodes P2;Orthoptères;NA;4
+PULMA;2019;Transect arthropodes P2;Araneae;NA;4
+SIBUET;2019;Transect arthropodes P2;Diptères;NA;4
+BOUTOU;2019;Transect arthropodes P1;Araneae;Xysticus;5
+OLSER;2017;Transect arthropode Session 1;Orthoptera;Tettigonia viridissima;5
+BOUTOU;2018;Transect arthropode Session 1;Hymenoptera;Tetramorium;5
+SEINE;2019;Transect arthropodes P1;Diptères;Sapromyza sexpunctata ;5
+GTMBA;2017;Transect arthropode Session 1;Arachnida;Runcinia grammica;5
+MECHO;2019;Transect arthropodes P2;Araneae;Runcinia grammica;5
+BOUTOU;2019;Transect arthropodes P2;Homoptères;Psammotettix;5
+MOZIN_AVEC_GESTION;2019;Transect arthropodes P2;Coléoptères;Protapion trifolii;5
+OLSER;2017;Transect arthropode Session 1;Homoptera;Philaenus spumarius;5
+MOZIN_AVEC_GESTION;2018;Transect arthropode Session 1;Homoptera;Philaenus spumarius;5
+FRANK;2019;Transect arthropodes P1;Homoptères;Philaenus spumarius;5
+SEINE;2019;Transect arthropodes P1;Homoptères;Philaenus spumarius;5
+EIDER;2019;Transect arthropodes P1;Diptères;Pherbellia cinerella;5
+OLSER;2017;Transect arthropode Session 2;Heteroptera;Nysius immunis;5
+CIROB;2018;Transect arthropode Session 1;Heteroptera;Nysius immunis;5
+RUWAT;2017;Transect arthropode Session 1;Heteroptera;Nysius graminicola;5
+PROMA;2019;Transect arthropodes P1;Hétéroptères;Nysius graminicola;5
+AMROU;2019;Transect arthropodes P2;Hétéroptères;Nysius graminicola;5
+GTMBA WILD;2019;Transect arthropodes P1;Hétéroptères;Nysius ;5
+BOUTOU;2019;Transect arthropodes P1;Hétéroptères;Nysius;5
+ROROLL;2019;Transect arthropodes P1;Hétéroptères;Nysius;5
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 1;Arachnida;Neottiura bimaculata;5
+MOZIN_SANS_GESTION;2019;Transect arthropodes P1;Araneae;Mangora acalypha;5
+FRANK;2017;Transect arthropode Session 2;Heteroptera;Lygus pratensis;5
+ECOBIO_BOIS;2017;Transect arthropode Session 2;Coleoptera;Longitarsus;5
+AMROU;2019;Transect arthropodes P1;Hyménoptères;Lasius niger;5
+FAUTEM;2019;Transect arthropodes P1;Hyménoptères;Lasius niger;5
+FAUTEM;2019;Transect arthropodes P2;Hyménoptères;Lasius niger;5
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 2;Lepidoptera;Lasiommata maera;5
+OLSER;2019;Transect arthropodes P2;Coléoptères;Hippodamia variegata;5
+LUAUB;2019;Transect arthropodes P2;Araneae;Heliophanus;5
+OLSER;2017;Transect arthropode Session 2;Hymenoptera;Halictus maculatus;5
+PAREX;2019;Transect arthropodes P2;Hétéroptères;Geocoris megacephalus;5
+CIMOD;2017;Transect arthropode Session 1;Coleoptera;Coccinella septempunctata;5
+CIMOD;2018;Transect arthropode Session 1;Coleoptera;Coccinella septempunctata;5
+MUENT;2017;Transect arthropode Session 1;Homoptera;Circulifer haematoceps;5
+MOZIN_AVEC_GESTION;2018;Transect arthropode Session 1;Orthoptera;Chorthippus;5
+OLSER;2019;Transect arthropodes P2;Orthoptères;Chorthippus;5
+PERIS;2017;Transect arthropode Session 2;Heteroptera;Chlamydatus pullus;5
+ANTHEU;2018;Transect arthropode Session 1;Heteroptera;Chlamydatus evanescens;5
+FONTA;2018;Transect arthropode Session 1;Heteroptera;Chlamydatus evanescens;5
+ROROL;2019;Transect arthropodes P2;Hétéroptères;Chlamydatus evanescens;5
+AMROU;2017;Transect arthropode Session 2;Mollusca;Candidula intersecta;5
+MOZIN_SANS_GESTION;2019;Transect arthropodes P2;Coléoptères;Calathus cinctus;5
+CIROB;2019;Transect arthropodes P2;Coléoptères;Axinotarsus pulicarius;5
+CHAVIN;2019;Transect arthropodes P1;Isopodes;Armadillidium nasatum;5
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 2;Lepidoptera;Aricia agestis;5
+MOZIN_AVEC_GESTION;2018;Transect arthropode Session 1;Heteroptera;Arenocoris waltlii;5
+CIROB;2017;Transect arthropode Session 1;Coleoptera;Altica;5
+ANTHEU;2019;Transect arthropodes P1;Homoptères;NA;5
+BOUTOU;2019;Transect arthropodes P1;Diptères;NA;5
+ECOBIO_BOIS;2019;Transect arthropodes P1;Homoptères;NA;5
+SEINE;2019;Transect arthropodes P1;Diptères;NA;5
+SEINE;2019;Transect arthropodes P1;Diptères;NA;5
+BOUCHA;2019;Transect arthropodes P2;Diptères;NA;5
+CARON;2019;Transect arthropodes P2;Diptères;NA;5
+KELLER;2019;Transect arthropodes P2;Araneae;Xysticus;6
+GTMBA;2018;Transect arthropode Session 1;Hymenoptera;Tetramorium;6
+GTMBA;2019;Transect arthropodes P2;Hyménoptères;Tetramorium;6
+PULMA;2019;Transect arthropodes P2;Hyménoptères;Tapinoma;6
+CHAVIN;2017;Transect arthropode Session 1;Arachnida;Runcinia grammica;6
+GOOPL;2017;Transect arthropode Session 2;Heteroptera;Rhopalus subrufus;6
+MOZIN_SANS_GESTION;2019;Transect arthropodes P2;Hétéroptères;Pyrrhocoris apterus;6
+ECOBIO_PRAIRIE;2017;Transect arthropode Session 1;Homoptera;Philaenus spumarius;6
+GTMBA;2017;Transect arthropode Session 1;Homoptera;Philaenus spumarius;6
+ECOBIO_PRAIRIE;2017;Transect arthropode Session 1;Heteroptera;Nysius graminicola;6
+PULMA;2017;Transect arthropode Session 1;Heteroptera;Nysius graminicola;6
+PERIS;2019;Transect arthropodes P2;Hétéroptères;Nysius ;6
+GTMBA;2017;Transect arthropode Session 1;Heteroptera;Nysius;6
+LUAUB;2019;Transect arthropodes P1;Hétéroptères;Nysius;6
+MOZIN_SANS_GESTION;2019;Transect arthropodes P1;Hyménoptères;Lasioglossum laticeps;6
+MECHO;2019;Transect arthropodes P2;Coléoptères;Hippodamia variegata;6
+MOZIN_SANS_GESTION;2019;Transect arthropodes P2;Diptères;Chloromyia formosa;6
+ROROL;2019;Transect arthropodes P2;Hétéroptères;Chlamydatus pullus;6
+BOUCHA;2017;Transect arthropode Session 1;Heteroptera;Chlamydatus evanescens;6
+PROMA;2017;Transect arthropode Session 1;Mollusca;Cepaea nemoralis;6
+EIDER;2017;Transect arthropode Session 2;Mollusca;Candidula intersecta;6
+ECOBIO_BOIS;2019;Transect arthropodes P2;Hétéroptères;Campyloneura virgula;6
+MOZIN_SANS_GESTION;2019;Transect arthropodes P1;Coléoptères;Calathus cinctus;6
+MOZIN_AVEC_GESTION;2019;Transect arthropodes P2;Coléoptères;Bruchidius;6
+CIROB;2017;Transect arthropode Session 1;Homoptera;Aphrodes makarovi;6
+MECHO;2019;Transect arthropodes P2;Homoptères;Anaceratagallia;6
+CIROB;2019;Transect arthropodes P1;Homoptères;NA;6
+GTMBA;2019;Transect arthropodes P1;Homoptères;NA;6
+MUENT;2019;Transect arthropodes P1;Homoptères;NA;6
+ROROLL;2019;Transect arthropodes P1;Orthoptères;NA;6
+SEINE;2019;Transect arthropodes P1;Thynasoptera;NA;6
+LUAUB;2019;Transect arthropodes P2;Homoptères;NA;6
+AMROU;2017;Transect arthropode Session 2;Isopoda;Porcellio scaber;7
+GTMBA;2019;Transect arthropodes P2;Homoptères;Philaenus spumarius;7
+WWF;2017;Transect arthropode Session 1;Orthoptera;Phaneroptera;7
+SIBUET;2019;Transect arthropodes P1;Hétéroptères;Nysius;7
+MOZIN_SANS_GESTION;2017;Transect arthropode Session 2;Heteroptera;Lygus pratensis;7
+GOOPL;2017;Transect arthropode Session 2;Heteroptera;Lygus pratensis;7
+GTMBA;2017;Transect arthropode Session 1;Coleoptera;Hippodamia variegata;7
+SIBUET;2017;Transect arthropode Session 1;Heteroptera;Halticus apterus;7
+GTMBA;2017;Transect arthropode Session 1;Coleoptera;Cryptocephalus pusillus;7
+CHAVIN;2019;Transect arthropodes P1;Coléoptères;Cryptocephalus pusillus;7
+OLSER;2019;Transect arthropodes P2;Hétéroptères;Corizus hyoscyanmi;7
+MOZIN_SANS_GESTION;2019;Transect arthropodes P1;Orthoptères;Chortippus;7
+SEINE;2019;Transect arthropodes P1;Orthoptères;Chorthippus dorsatus;7
+MOZIN_AVEC_GESTION;2019;Transect arthropodes P2;Orthoptères;Chorthippus;7
+ALBAR;2018;Transect arthropode Session 1;Heteroptera;Chlamydatus evanescens;7
+GTMBA;2017;Transect arthropode Session 1;Coleoptera;Bruchidius imbricornis;7
+GOOPL;2017;Transect arthropode Session 1;Homoptera;Aphrodes;7
+GTMBA WILD;2019;Transect arthropodes P2;Coléoptères;Altica;7
+BOUTOU;2019;Transect arthropodes P1;Homoptères;NA;7
+LUAUB;2019;Transect arthropodes P1;Diptères;NA;7
+RUWAT;2019;Transect arthropodes P1;Homoptères;NA;7
+MECHO;2019;Transect arthropodes P2;Arachnides;NA;7
+PROMA;2019;Transect arthropodes P2;Diptères;NA;7
+ROROL;2019;Transect arthropodes P2;Homoptères;NA;7
+SIBUET;2019;Transect arthropodes P2;Collemboles;NA;7
+GTMBA;2019;Transect arthropodes P1;Homoptères;Philaenus spumarius;8
+ALBAR;2017;Transect arthropode Session 2;Heteroptera;Nysius immunis;8
+FAUTEM;2017;Transect arthropode Session 1;Heteroptera;Nysius graminicola;8
+SIBUET;2017;Transect arthropode Session 1;Heteroptera;Nysius graminicola;8
+CARON;2019;Transect arthropodes P2;Hétéroptères;Nysius;8
+ROROL;2019;Transect arthropodes P2;Hétéroptères;Nysius;8
+ECOBIO_BOIS;2019;Transect arthropodes P1;Hyménoptères;Lasius niger;8
+GRENEL;2019;Transect arthropodes P1;Hyménoptères;Lasius niger;8
+SEINE;2019;Transect arthropodes P2;Hyménoptères;Lasioglossum leucozonium;8
+CARON;2019;Transect arthropodes P1;Hétéroptères;Conostethus roseus;8
+CIROB;2019;Transect arthropodes P2;Orthoptères;Chortippus;8
+MOZIN_SANS_GESTION;2019;Transect arthropodes P2;Orthoptères;Chortippus;8
+CIROB;2019;Transect arthropodes P2;Homoptères;Aphrodes ;8
+CHAVIN;2019;Transect arthropodes P1;Diptères;NA;8
+SEINE;2019;Transect arthropodes P1;Collemboles;NA;8
+CD93;2019;Transect arthropodes P2;Homoptères;NA;8
+GUER;2019;Transect arthropodes P2;Hétéroptères;Nysius graminicola;9
+ECOBIO_PRAIRIE;2019;Transect arthropodes P2;Diptères;Meromyza;9
+ECOBIO_PRAIRIE;2019;Transect arthropodes P2;Hyménoptères;NA;9
+MOZIN_AVEC_GESTION;2019;Transect arthropodes P2;Homoptères;NA;9
+AMROU;2018;Transect arthropode Session 1;Isopoda;Porcellio scaber;10
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 2;Lepidoptera;Polyommatus icarus;10
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 2;Hymenoptera;Polistes dominula;10
+MUENT;2017;Transect arthropode Session 1;Heteroptera;Nysius graminicola;10
+GRENEL;2018;Transect arthropode Session 2;Heteroptera;Heterogaster urticae;10
+EIDER;2017;Transect arthropode Session 1;Hymenoptera;Halictus;10
+MOZIN_SANS_GESTION;2018;Transect arthropode Session 2;Arachnida;Argiope bruennichi;10
+LUAUB;2019;Transect arthropodes P2;Diptères;NA;10
+PERIS;2019;Transect arthropodes P2;Diptères;NA;10
+ECOBIO_BOIS;2019;Transect arthropodes P2;Hyménoptères;Lasius;11
+SEINE;2019;Transect arthropodes P2;Homoptères;Eupteryx ;11
+MOZIN_AVEC_GESTION;2019;Transect arthropodes P1;Homoptères;NA;11
+MOZIN_SANS_GESTION;2019;Transect arthropodes P2;Araneae;Xysticus;12
+WWF;2019;Transect arthropodes P1;Diptères;Pherbellia cinerella;12
+SEINE;2019;Transect arthropodes P2;Homoptères;Javesella pellucida;12
+ANTHEU;2019;Transect arthropodes P1;Hétéroptères;Chlamydatus pullus;12
+ECOBIO_PRAIRIE;2019;Transect arthropodes P2;Homoptères;NA;12
+CD93;2019;Transect arthropodes P2;Homoptères;NA;13
+BOUTOU;2019;Transect arthropodes P1;Homoptères;Philaenus spumarius;14
+OLSER;2019;Transect arthropodes P2;Hétéroptères;Nysius graminicola;14
+PROMA;2019;Transect arthropodes P1;Hyménoptères;Sphecodes scabricollis;15
+MECHO;2017;Transect arthropode Session 1;Heteroptera;Nysius graminicola;15
+PAREX;2019;Transect arthropodes P2;Coléoptères;Cryptocephalus pusillus;15
+WWF;2019;Transect arthropodes P2;Hétéroptères;Pyrrhocoris apterus;16
+ECOBIO_PRAIRIE;2019;Transect arthropodes P2;Hyménoptères;Lasius niger;17
+PAREX;2019;Transect arthropodes P2;Hétéroptères;Nysius graminicola;18
+WWF;2019;Transect arthropodes P2;Homoptères;NA;18
+OLSER;2019;Transect arthropodes P2;Hétéroptères;Rhopalus subrufus;20
+MECHO;2019;Transect arthropodes P1;Hyménoptères;Lasius niger;20
+BOUTOU;2019;Transect arthropodes P1;Homoptères;NA;20
+MECHO;2019;Transect arthropodes P1;Araneae;Runcinia grammica;21
+FAUTEM;2018;Transect arthropode Session 1;Hymenoptera;Tetramorium;22
+SEINE;2019;Transect arthropodes P2;Homoptères;Psammotettix;22
+ECOBIO_BOIS;2019;Transect arthropodes P1;Diptères;Cricotopus;22
+MECHO;2019;Transect arthropodes P2;Hétéroptères;Nysius graminicola;23
+FRANK;2019;Transect arthropodes P1;Homoptères;NA;23
+MOZIN_AVEC_GESTION;2019;Transect arthropodes P1;Hétéroptères;NA;23
+MECHO;2018;Transect arthropode Session 2;Heteroptera;Nysius graminicola;50
+MUENT;2018;Transect arthropode Session 2;Hymenoptera;Polistes dominula;100
+BOUTOU;2017;Transect arthropode Session 2;Arachnida;Xysticus;1
+BOUTOU;2017;Transect arthropode Session 2;Heteroptera;Trapezonotus arenarius;1
+BOUTOU;2017;Transect arthropode Session 2;Diptera;Sphaerophoria scripta;1
+BOUTOU;2017;Transect arthropode Session 2;Heteroptera;Oxycarenus lavaterae;1
+BOUTOU;2017;Transect arthropode Session 2;Heteroptera;Nysius immunis;1
+BOUTOU;2017;Transect arthropode Session 2;Heteroptera;Lygus pratensis;1
+BOUTOU;2017;Transect arthropode Session 2;Heteroptera;Geocoris erythrocephalus;1
+BOUTOU;2017;Transect arthropode Session 2;Coleoptera;Cryptocephalus pygmaeus;1
+BOUTOU;2017;Transect arthropode Session 2;Nevroptera;Chrysoperla;1
+BOUTOU;2019;Transect arthropodes P1;Araneae;NA;NA
+MUENT;2019;Transect arthropodes P2;Thynasoptera;NA;NA
+SIBUET;2019;Transect arthropodes P2;Homoptères;NA;NA
